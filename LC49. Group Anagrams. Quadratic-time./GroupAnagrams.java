@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/group-anagrams
 // LC49. Group Anagrams
-// NC Category: Arrays & Hashing.
 // Time/space: Quadratic time, linear extra-space.
 // Solution kind: Good.
 // Approach: Brute force.

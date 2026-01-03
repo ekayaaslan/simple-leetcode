@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/two-sum
 // LC1: Two Sum
-// NC Category: Arrays & Hashing.
 // Time/space: Quadratic time, constant extra-space.
 // Solution kind: Baseline.
 // Approach: Brute force.

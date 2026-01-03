@@ -1,6 +1,5 @@
-//https://leetcode.com/problems/valid-anagram/
+// https://leetcode.com/problems/valid-anagram/
 // LC242: Valid Anagram
-// NC Category: Arrays & Hashing.
 // Time/space: Linearithmic time, constant extra-space.
 // Solution kind: Good.
 // Approach: Sort and compare.
