@@ -11,7 +11,6 @@ class ValidAnagram {
         if (s.length() != t.length()) {
             return false;
         }
-        int n = s.length();
         char[] schars = s.toCharArray();
         char[] tchars = t.toCharArray();
         Arrays.sort(schars);
