@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters
 // LC3. Longest Substring Without Repeating Characters
 // Cubic time, constant extra-space.
-// Concepts: Linear Search, Direct addressing.
 class LongestSubstringWithoutRepeatingCharacters {
     class Substring {
         int start;
