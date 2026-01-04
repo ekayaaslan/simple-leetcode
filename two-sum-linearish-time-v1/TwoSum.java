@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/two-sum
 // LC1. Two Sum
 // Linear-ish time, linear-ish extra-space.
-// Concepts: Hashing.
 public TwoSum {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numbers = new HashMap();
