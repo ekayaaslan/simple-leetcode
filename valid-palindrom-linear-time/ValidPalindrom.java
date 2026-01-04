@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/valid-palindrom
 // LC125. Valid Palindrom
-// Time/space: Linear time, constant extra-space.
-// Concepts: Linear Search.
+// Linear time, constant extra-space.
 class ValidPalindrom {
     boolean isAlphanumeric(char ch) {
         if (ch >= 'a' && ch <= 'z') { return true; }
