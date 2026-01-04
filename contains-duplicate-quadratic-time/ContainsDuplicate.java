@@ -1,7 +1,6 @@
-// https://leetcode.com/problems/contains-duplicate/
-// LC217: Contains Duplicate
-// Time/space: Quadratic time, constant extra-space.
-// Concepts: Linear search.
+// https://leetcode.com/problems/contains-duplicate
+// LC217. Contains Duplicate
+// Quadratic time, constant extra-space.
 class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         int n = nums.length;
