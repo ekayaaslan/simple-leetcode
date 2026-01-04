@@ -2,7 +2,7 @@
 // LC3. Longest Substring Without Repeating Characters
 // Quadratic time, constant extra-space.
 // Concepts: Linear Search, Direct addressing.
-class LongestSubstringWithoutRepeatingCharachters {
+class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
         boolean[] seen = new boolean[128];
