@@ -21,7 +21,7 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i>
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i>
 * <b>Longest Repeating Character Replacement</b>
-* [<b>Minimum Window Substring</b>](minimum-window-substring-quadratic-time/MinimumWindowSubstring.java) <i>Brute force, Direct addressing.</i>
+* [<b>Minimum Window Substring</b> Cubic time.](minimum-window-substring-cubic-time/MinimumWindowSubstring.java) <i>Brute force, Direct addressing.</i>
 * <b>Valid Parentheses</b>
 * <b>Find Minimum In Rotated Sorted Array</b>
 * <b>Search In Rotated Sorted Array</b>
