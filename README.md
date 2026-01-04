@@ -2,7 +2,11 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 
 * [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Linear Search</i>
 * [<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, Canonicalising</i>
-* [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Linear Search</i>
+* [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Linear search.</i>
+* [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i>
+* [<b>Two Sum.</b> Linearish-time. (v1)](/two-sum-linearish-time-v1/TwoSum.java) <i>Linear search, Hashing.</i>
+* [<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Linear search, Hashing.</i>
+* [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i>Two pointers.</i>
 * [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Linear Search, Sorting, Canonicalising</i>
 * [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Priority Queue</i>
 * [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i>Encoding</i>
@@ -12,7 +16,9 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Linear Search, Sorting.</i>
 * [<b>Container With Most Water.</b> Quadratic-time.](/container-with-most-water-quadratic-time/ContainerWithMostWater.java) <i>Linear Search.</i>
 * <b>Best Time to Buy And Sell Stock</b>
-* <b>Longest Substring Without Repeating Characters</b>
+* [<b>Longest Substring Without Repeating Characters.</b> Cubic time.](/longest-substring-without-repeating-characters-cubic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Linear Search, Direct addressing.</i>
+* [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Linear Search, Direct addressing.</i>
+* [<b>Longest Substring Without Repeating Characters.</b> Linear time.](/longest-substring-without-repeating-characters-linear-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Dynamic programming, Direct addressing.</i>
 * <b>Longest Repeating Character Replacement</b>
 * <b>Minimum Window Substring</b>
 * <b>Valid Parentheses</b>
