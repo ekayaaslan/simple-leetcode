@@ -49,7 +49,7 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * <b>Word Search II</b>
 * <b>Number of Islands</b>
 * <b>Clone Graph</b>
-* <b><Pacific Atlantic Water Flow/b>
+* <b>Pacific Atlantic Water Flow</b>
 * <b>Course Schedule</b>
 * <b>Graph Valid Tree</b>
 * <b>Number of Connected Components In An Undirected Graph</b>
