@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters
 // LC3. Longest Substring Without Repeating Characters
 // Quadratic time, constant extra-space.
-// Concepts: Linear Search, Direct addressing.
 class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         int n = s.length();
