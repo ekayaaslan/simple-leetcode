@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/top-k-frequent-elements
 // LC347. Top K Frequent Elements
-// Time/space: Linearithmic time, linear extra-space.
-// Concepts: Sorting, Priority Queue.
+// Linearithmic time, linear extra-space.
 class TopKFrequentElements {
     class Item implements Comparable<Item> {
         int num;
