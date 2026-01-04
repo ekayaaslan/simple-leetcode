@@ -8,3 +8,6 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i>Encoding</i>
 * [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Priority Queue</i>
 * [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Linear Search, Sorting, Canonicalising</i>
+* [<b>Valid Palindrom.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Linear Search.</i>
+* [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Linear Search, Sorting.</i>
+* [<b>Container With Most Water.</b> Quadratic-time.](/container-with-most-water-quadratic-time/ContainerWithMostWater.java) <i>Linear Search.</i>

@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/container-with-most-water/
 // LC11. Container With Most Water
 // Time/space: Quadratic time, constant extra-space.
-// Approach: Brute force.
 // Concepts: Linear Search.
 class ContainerWithMostWater {
     public int maxArea(int[] height) {

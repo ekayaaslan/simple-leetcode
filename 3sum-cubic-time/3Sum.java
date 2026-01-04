@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/3sum
 // LC15. 3Sum
 // Time/space: Cubic time, constant extra-space.
-// Approach: Brute force.
 // Concepts: Linear search, Sorting.
 class 3Sum {
     class Triplet implements Comparable<Triplet> {

@@ -1,8 +1,7 @@
 // https://leetcode.com/problems/two-sum
 // LC1: Two Sum
 // Time/space: Quadratic time, constant extra-space.
-// Solution kind: Baseline.
-// Approach: Brute force.
+// Concepts: Linear Search.
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;

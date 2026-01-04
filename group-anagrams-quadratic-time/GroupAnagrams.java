@@ -1,10 +1,7 @@
 // https://leetcode.com/problems/group-anagrams
 // LC49. Group Anagrams
 // Time/space: Quadratic time, linear extra-space.
-// Solution kind: Good.
-// Approach: Brute force.
-// Concepts: Cannonicalising.
-// Java concepts: Arrays.
+// Concepts: Linear Search, Sorting, Cannonicalising.
 class GroupAnagrams {
     boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {

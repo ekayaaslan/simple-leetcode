@@ -1,10 +1,7 @@
 // https://leetcode.com/problems/top-k-frequent-elements
 // LC347. Top K Frequent Elements
 // Time/space: Linearithmic time, linear extra-space.
-// Solution kind: Good.
-// Approach: Sort, count, get top-k.
-// Concepts: Priority Queue.
-// Java concepts: Arrays, Comparable, PriorityQueue.
+// Concepts: Sorting, Priority Queue.
 class TopKFrequentElements {
     class Item implements Comparable<Item> {
         int num;

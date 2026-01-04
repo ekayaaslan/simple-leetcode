@@ -1,8 +1,7 @@
 // https://leetcode.com/problems/longest-consecutive-sequence
 // LC128. Longest Consecutive Sequence
 // Time/space: Cubic time, constant extra-space.
-// Solution kind: Baseline.
-// Approach: Brute force
+// Concepts: Linear Search.
 class LongestConsecutiveSequence {
     boolean exists(int target, int[] nums) {
         int n = nums.length;
