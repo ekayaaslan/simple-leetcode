@@ -18,8 +18,8 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * <b>Best Time to Buy And Sell Stock</b>
 * [<b>Longest Substring Without Repeating Characters.</b> Cubic time.](/longest-substring-without-repeating-characters-cubic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Brute force, Direct addressing.</i>
 * [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Running optimum, Direct addressing.</i>
-* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>Dynamic programming, Direct addressing.</i>
-* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>Dynamic programming, Direct addressing.</i>
+* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i>
+* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i>
 * <b>Longest Repeating Character Replacement</b>
 * <b>Minimum Window Substring</b>
 * <b>Valid Parentheses</b>
