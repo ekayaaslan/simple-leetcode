@@ -5,7 +5,7 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i>
 * [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i>
 * [<b>Two Sum.</b> Linearish-time. (v1)](/two-sum-linearish-time-v1/TwoSum.java) <i>Hashing.</i>
-* [<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Running Optimum, Hashing.</i>
+* [<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Symmetry, Hashing.</i>
 * [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i>Two pointers.</i>
 * [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i>
 * [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Priority queue.</i>
