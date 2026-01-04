@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/product-of-array-except-self
 // LC238. ProductOfArrayExceptSelf
-// Time/space: Quadratic time, constant extra-space.
-// Concepts: Linear Search.
+// Quadratic time, constant extra-space.
 class ProductOfArrayExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
