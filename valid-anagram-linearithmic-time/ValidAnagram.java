@@ -1,7 +1,6 @@
-// https://leetcode.com/problems/valid-anagram/
-// LC242: Valid Anagram
-// Time/space: Linearithmic time, constant extra-space.
-// Concepts: Sorting, Canonicalising.
+// https://leetcode.com/problems/valid-anagram
+// LC242. Valid Anagram
+// Linearithmic time, constant extra-space.
 class ValidAnagram {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
