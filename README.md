@@ -20,8 +20,8 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Running optimum, Direct addressing.</i>
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i>
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i>
-* [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Brute force, Reduction</i>
-* [<b>Minimum Window Substring.</b> Cubic time.](/minimum-window-substring-cubic-time/MinimumWindowSubstring.java) <i>Running optimum, Direct addressing.</i>
+* [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, Reduction</i>
+* [<b>Minimum Window Substring.</b> Cubic time.](/minimum-window-substring-cubic-time/MinimumWindowSubstring.java) <i>Brute force, Direct addressing.</i>
 * <b>Valid Parentheses.</b>
 * <b>Find Minimum In Rotated Sorted Array.</b>
 * <b>Search In Rotated Sorted Array.</b>
