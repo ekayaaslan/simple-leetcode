@@ -8,7 +8,7 @@ A solution-centric approach to the neetcode blind-75 questions and their solutio
 * [<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Running Optimum, Hashing.</i>
 * [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i>Two pointers.</i>
 * [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i>
-* [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Precomputing, Priority queue.</i>
+* [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Priority queue.</i>
 * [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i>Encoding.</i>
 * [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i>
 * [<b>Longest Consecutive Sequence.</b> Cubic-time.](/longest-consecutive-sequence-cubic-time/LongestConsecutiveSequence.java) <i>Brute force.</i>
