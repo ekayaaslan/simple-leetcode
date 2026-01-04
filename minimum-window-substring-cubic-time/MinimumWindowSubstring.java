@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/minimum-window-substring
 // LC76. Minimum Window Substring
-// Quadratic time, constant extra-space.
+// Cubic time, constant extra-space.
 class MinimumWindowSubstring {
     boolean hasAllLetters(String s, int[] targets) {
         int n = s.length();
