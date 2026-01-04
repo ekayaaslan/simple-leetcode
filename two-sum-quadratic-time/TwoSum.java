@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/two-sum
-// LC1: Two Sum
-// Time/space: Quadratic time, constant extra-space.
-// Concepts: Linear Search.
+// LC1. Two Sum
+// Quadratic time, constant extra-space.
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
