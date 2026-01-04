@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/encode-and-decode-strings
 // LC271. Encode And Decode Strings
-// Time/space: Linear time.
-// Concepts: Encoding.
+// Linear time, linear extra-space.
 public class EncodeAndDecodeStrings {
 
     // Encodes a list of strings to a single string.
