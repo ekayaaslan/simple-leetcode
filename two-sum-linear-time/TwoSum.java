@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/two-sum
 // LC1. Two Sum
 // Linear time, linear extra-space.
-// Concepts: Two Pointers.
 class TwoSum {
     class Item implements Comparable<Item> {
         int id;        
