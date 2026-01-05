@@ -1,9 +1,11 @@
-A solution-centric approach to the neetcode blind-75 questions and their solutions in Java. Here is a list of solutions and their time complexities and the algorithm and data structure concepts employed.
+A solution-centric approach to the neetcode blind-75 questions.
 
 Concept: Linear search. <br />
-* [<b>Valid Palindrom.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Linear search.</i>
+* [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i>Linear search.</i>
+* [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i>
 
 Concept: Brute force. <br />
+* [<b>Valid Palindrom.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Brute force.</i>
 * [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i>
 * [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i>
 * [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i>
@@ -17,6 +19,8 @@ Concept: Direct addressing. <br />
 
 Concept: Binary search. <br />
 * [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i>
+* [<b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time.](/find-minimum-in-rotated-sorted-array-logarithmic-time/FindMinimumInRotatedSortedArray.java) <i>Binary search.</i>
+* [<b>Search In Rotated Sorted Array.</b> Logarithmic time.](/search-in-rotated-sorted-array-logarithmic-time/SearchInRotatedSortedArray.java) <i>Binary search.</i>
 
 Concept: Sorting. <br />
 * [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Sorting.</i>
@@ -43,6 +47,12 @@ Concept: Symmetry. <br />
 Concept: 1D Dynamic programming. <br />
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i>
 
+Concept: Parantheses.
+* [<b>Valid Parentheses.</b> Quadratic time.](/valid-parantheses-quadratic-time/ValidParantheses.java) <i>Brute force, Parantheses.</i>
+
+Concept: Stack.
+* [<b>Valid Parentheses.</b> Linear time.](/valid-parantheses-linear-time/ValidParantheses.java) <i>Stack.</i>
+
 Concept: State compression. <br />
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i>
 
@@ -52,9 +62,7 @@ Concept: Priority queue. <br />
 Concept: Reduction. <br />
 * [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, Reduction</i>
 
-* <b>Valid Parentheses.</b>
-* <b>Find Minimum In Rotated Sorted Array.</b>
-* <b>Search In Rotated Sorted Array.</b>
+---
 * <b>Reverse Linked List.</b>
 * <b>Merge Two Sorted Lists.</b>
 * <b>Linked List Cycle.</b>
