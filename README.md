@@ -1,4 +1,4 @@
-A solution-centric approach to the neetcode blind-75 questions and their solutions in Java. Here is a list of solutions and their time complexities and the algorithm and data structure concepts employed.
+A solution-centric approach to the neetcode blind-75 questions and their solutions in Java.
 
 Concept: Linear search. <br />
 * <b>Find Minimum In Rotated Sorted Array.</b> Linear time. <i>Linear search.</i>
