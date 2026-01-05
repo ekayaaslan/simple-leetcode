@@ -73,7 +73,7 @@ Concept: Reduction. <br />
 * [<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java)
 * [<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java)
 * <b>Subtree of Another Tree.</b>
-* [<b>Lowest Common Ancestor of a Binary Search Tree.</b> ](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java)
+* [<b>Lowest Common Ancestor of a Binary Search Tree.</b> Linear time.](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java)
 * [<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java)
 * [<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java)
 * <b>Kth Smallest Element In a Bst.</b>
@@ -87,7 +87,7 @@ Concept: Reduction. <br />
 * <b>Design Add And Search Words Data Structure.</b>
 * <b>Word Search II.</b>
 * [<b>Number of Islands.</b> Linear time.](/number-of-islands-linear-time/NumberOfIslands.java)
-* [<b>Clone Graph.</b>](/clone-graph-linearish-time/CloneGraph.java)
+* [<b>Clone Graph.</b> Linearish time.](/clone-graph-linearish-time/CloneGraph.java)
 * <b>Pacific Atlantic Water Flow.</b>
 * <b>Course Schedule.</b>
 * <b>Graph Valid Tree.</b>
