@@ -1,7 +1,7 @@
 A solution-centric approach to the neetcode blind-75 questions.
 
 Concept: Linear search. <br />
-* <b>Find Minimum In Rotated Sorted Array.</b> Linear time. <i>Linear search.</i>
+* [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i>Linear search.</i>
 * <b>Search In Rotated Sorted Array.</b> Linear time. <i>Linear search.</i>
 
 Concept: Brute force. <br />
@@ -19,7 +19,7 @@ Concept: Direct addressing. <br />
 
 Concept: Binary search. <br />
 * [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i>
-* <b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time. <i>Binary search.</i>
+* [<b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time.](/find-minimum-in-rotated-sorted-array-logarithmic-time/FindMinimumInRotatedSortedArray.java) <i>Binary search.</i>
 * <b>Search In Rotated Sorted Array.</b> Logarithmic time. <i>Binary search.</i>
 
 Concept: Sorting. <br />
