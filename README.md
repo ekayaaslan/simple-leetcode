@@ -48,10 +48,10 @@ Concept: 1D Dynamic programming. <br />
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i>
 
 Concept: Parantheses.
-* <b>Valid Parentheses.</b> Quadratic time. <i>Brute force, Parantheses.</i>
+* [<b>Valid Parentheses.</b> Quadratic time.](/valid-parantheses-quadratic-time/ValidParantheses.java) <i>Brute force, Parantheses.</i>
 
 Concept: Stack.
-* <b>Valid Parentheses.</b> Linear time. <i>Stack.</i>
+* [<b>Valid Parentheses.</b> Linear time.](/valid-parantheses-linear-time/ValidParantheses.java) <i>Stack.</i>
 
 Concept: State compression. <br />
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i>
