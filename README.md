@@ -69,7 +69,7 @@ Concept: Reduction. <br />
 * <b>Reorder List.</b>
 * <b>Remove Nth Node From End of List.</b>
 * <b>Merge K Sorted Lists.</b>
-* <b>Invert Binary Tree.<b/>
+* <b>Invert Binary Tree.</b>
 * [<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java)
 * [<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java)
 * <b>Subtree of Another Tree.</b>
