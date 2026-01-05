@@ -65,56 +65,56 @@ Concept: Reduction. <br />
 ---
 * <b>Reverse Linked List.</b>
 * <b>Merge Two Sorted Lists.</b>
-* <b>Linked List Cycle.</b>
+* [<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java)
 * <b>Reorder List.</b>
 * <b>Remove Nth Node From End of List.</b>
 * <b>Merge K Sorted Lists.</b>
 * <b>Invert Binary Tree.<b/>
-* <b>Maximum Depth of Binary Tree.</b>
-* <b>Same Tree.</b>
+* [<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java)
+* [<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java)
 * <b>Subtree of Another Tree.</b>
-* <b>Lowest Common Ancestor of a Binary Search Tree.</b>
-* <b>Binary Tree Level Order Traversal.</b>
-* <b>Validate Binary Search Tree.</b>
+* [<b>Lowest Common Ancestor of a Binary Search Tree.</b> ](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java)
+* [<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java)
+* [<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java)
 * <b>Kth Smallest Element In a Bst.</b>
 * <b>Construct Binary Tree From Preorder And Inorder Traversal.</b>
 * <b>Binary Tree Maximum Path Sum.</b>
 * <b>Serialize And Deserialize Binary Tree.</b>
 * <b>Find Median From Data Stream.</b>
 * <b>Combination Sum.</b>
-* <b>Word Search.</b>
+* [<b>Word Search.</b> Factorial time.](/word-search-factorial-time/WordSearch.java)
 * <b>Implement Trie Prefix Tree.</b>
 * <b>Design Add And Search Words Data Structure.</b>
 * <b>Word Search II.</b>
-* <b>Number of Islands.</b>
-* <b>Clone Graph.</b>
+* [<b>Number of Islands.</b> Linear time.](/number-of-islands-linear-time/NumberOfIslands.java)
+* [<b>Clone Graph.</b>](/clone-graph-linearish-time/CloneGraph.java)
 * <b>Pacific Atlantic Water Flow.</b>
 * <b>Course Schedule.</b>
 * <b>Graph Valid Tree.</b>
 * <b>Number of Connected Components In An Undirected Graph.</b>
 * <b>Alien Dictionary.</b>
-* <b>Climbing Stairs.</b>
+* [<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java)
 * <b>House Robber.</b>
 * <b>House Robber II.</b>
-* <b>Longest Palindromic Substring.</b>
+* [<b>Longest Palindromic Substring.</b> Cubic time.](/longest-palindromic-substring-cubic-time/LongestPalindromicSubstring.java)
 * <b>Palindromic Substrings.</b>
 * <b>Decode Ways.</b>
 * <b>Coin Change.</b>
 * <b>Maximum Product Subarray.</b>
-* <b>Word Break.</b>
+* [<b>Word Break.</b> Cubic time.](/word-break-cubic-time/WordBreak.java)
 * <b>Longest Increasing Subsequence.</b>
 * <b>Unique Paths.</b>
 * <b>Longest Common Subsequence.</b>
-* <b>Maximum Subarray.</b>
-* <b>Jump Game.</b>
+* [<b>Maximum Subarray.</b> Quadratic time.](/maximum-subarray-quadratic-time/MaximumSubarray.java)
+* [<b>Jump Game.</b> Quadratic time.](/jump-game-quadratic-time/JumpGame.java)
 * <b>Insert Interval.</b>
 * <b>Merge Intervals.</b>
 * <b>Non Overlapping Intervals.</b>
 * <b>Meeting Rooms.</b>
 * <b>Meeting Rooms II.</b>
 * <b>Rotate Image.</b>
-* <b>Spiral Matrix.</b>
-* <b>Set Matrix Zeroes.</b>
+* [<b>Spiral Matrix.</b> Linear time.](/spiral-matrix-linear-time/SpiralMatrix.java)
+* [<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java)
 * <b>Number of 1 Bits.</b>
 * <b>Counting Bits.</b>
 * <b>Reverse Bits.</b>
