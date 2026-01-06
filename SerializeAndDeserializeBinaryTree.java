@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 // LC297. Serialize and Deserialize Binary Tree
 // Linear time, quadratic extra-space.
-public class Codec {
+public class SerializeAndDeserializeBinaryTree {
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         if (root == null) { return ""; }
