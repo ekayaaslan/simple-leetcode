@@ -57,7 +57,7 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Course Schedule.</b> Quadratic time.](/course-schedule-quadratic-time/CourseSchedule.java) <i><ins>Scheduling.</ins></i><br>
 [<b>Graph Valid Tree.</b> Linear time.](/graph-valid-tree-linear-time/GraphValidTree.java) <i>Graph traversal, <ins>Connected components</ins>, <ins>Unrooted tree.</ins></i><br>
 [<b>Number of Connected Components In An Undirected Graph.</b> Linear time.](/number-of-connected-components-in-an-undirected-graph-linear-time/NumberOfConnectedCompoinentsInAnUndirectedGraph.java) <i>Graph traversal, Connected components.</i><br>
-<b>Alien Dictionary.</b><br>
+[<b>Alien Dictionary.</b> Factorial time.](/alien-dictionary-factorial-time/AlienDictionary.java) <i>Brute force, Direct addressing, Backtracking, Combinatorial Search, Permutations.</i><br>
 [<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java) <i>1D Dynamic programming.</i><br>
 [<b>House Robber.</b> Linear time.](/house-robber/HouseRobber.java) <i>1D Dynamic programming.</i><br>
 [<b>House Robber II.</b> Linear time.](/house-robber-ii/HouseRobberII.java) <i>1D Dynamic programming, Reduction.</i><br>
