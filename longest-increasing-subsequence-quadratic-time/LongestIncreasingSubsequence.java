@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/longest-increasing-subsequence
 // LC300. Longest Increasing Subsequence
 // Quadratic time, linear extra-space.
-// 1D Dynamic programming, Running optimum.
 class LongestIncreasingSubsequence {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
