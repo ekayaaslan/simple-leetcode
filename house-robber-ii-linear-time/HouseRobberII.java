@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/house-robber-ii
 // LC213. House Robber II
+// Linear time, linear extra-space.
 class HouseRobberII {
     int robExceptFirst(int[] nums) {
         int n = nums.length;        

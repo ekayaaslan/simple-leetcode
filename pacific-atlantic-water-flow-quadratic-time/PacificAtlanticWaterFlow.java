@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/pacific-atlantic-water-flow/
 // LC417. Pacific Atlantic Water Flow
+// Quadratic time, linear extra-space.
 class PacificAtlanticWaterFlow {
     boolean reachPacific(int x, int y, int[][] heights, int lastHeight, boolean[][] visited) {
         int n = heights.length;

@@ -45,22 +45,22 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time.](/construct-binary-tree-from-preorder-and-inorder-traversal-quadratic-time/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) <i>Binary Tree, Binary tree traversal, Recursion.<br>
 [<b>Binary Tree Maximum Path Sum.</b> Quadratic time.](/binary-tree-maximum-path-sum-quadratic-time/BinaryTreeMaximumPathSum.java) <i>Binary Tree, Recursive search.</i><br>
 [<b>Serialize And Deserialize Binary Tree.</b> Linear time.](/serialize-and-deserialize-binary-tree-linear-time/SerializeAndDeserializeBinaryTree.java) <i>Binary tree, Encoding, Recursion.</i><br>
-[<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java) <i>Sorting, Brute force.</i><br>
-[<b>Combination Sum.</b>](/combination-sum/CombinationSum.java)<br>
+[<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java) <i>Sorting, Brute force, <ins>Design</ins>.</i><br>
+[<b>Combination Sum.</b> Factorial time.](/combination-sum-factorial-time/CombinationSum.java) <i>Backtracking, <ins>1D Search</ins>, <ins>Combinatorial.</ins></i><br>
 [<b>Word Search.</b> Factorial time.](/word-search-factorial-time/WordSearch.java) <i><ins>Backtracking</ins>, <ins>2D Search</ins></i>.<br>
-[<b>Implement Trie Prefix Tree.</b>](/implement-trie-prefix-tree/ImplementTriePrefixTree.java)<br>
-[<b>Design Add And Search Words Data Structure.</b>](/design-add-and-search-words-data-structure/DesignAddAndSearchWordsDataStructure.java)<br>
-[<b>Word Search II.</b>](/word-search-ii/WordSearchII.java)<br>
+[<b>Implement Trie Prefix Tree.</b> Linear time.](/implement-trie-prefix-tree-linear-time/ImplementTriePrefixTree.java)<i>Brute force, Design.</i><br>
+[<b>Design Add And Search Words Data Structure.</b> Linear time.](/design-add-and-search-words-data-structure-linear-time/DesignAddAndSearchWordsDataStructure.java) <i>Brute force, Design.</i><br>
+[<b>Word Search II.</b> Factorial time.](/word-search-ii-factorial-time/WordSearchII.java) <i>Backtracking, 2D Search, Reduction.</i><br>
 [<b>Number of Islands.</b> Linear time.](/number-of-islands-linear-time/NumberOfIslands.java) <i>2D Search, <ins>Depth first search</ins>.</i><br> 
 [<b>Clone Graph.</b> Linearish time.](/clone-graph-linearish-time/CloneGraph.java) <i>Hashing, <ins>Graph traversal</ins>.</i><br>
-[<b>Pacific Atlantic Water Flow.</b>](/pacific-atlantic-water-flow/PacificAtlanticWaterFlow.java)<br>
-[<b>Course Schedule.</b>](/course-schedule/CourseSchedule.java)<br>
-[<b>Graph Valid Tree.</b>](/graph-valid-tree/GraphValidTree.java)<br>
-[<b>Number of Connected Components In An Undirected Graph.</b>](/number-of-connected-components-in-an-undirected-graph/NumberOfConnectedCompoinentsInAnUndirectedGraph.java)<br>
+[<b>Pacific Atlantic Water Flow.</b> Quadratic time.](/pacific-atlantic-water-flow-quadratic-time/PacificAtlanticWaterFlow.java) <i>Reduction, 2D Search, Depth first search.</i><br>
+[<b>Course Schedule.</b> Quadratic time.](/course-schedule-quadratic-time/CourseSchedule.java) <i><ins>Scheduling.</ins></i><br>
+[<b>Graph Valid Tree.</b> Linear time.](/graph-valid-tree-linear-time/GraphValidTree.java) <i>Graph traversal, <ins>Connected components</ins>, <ins>Unrooted tree</ins></i><br>
+[<b>Number of Connected Components In An Undirected Graph.</b> Linear time.](/number-of-connected-components-in-an-undirected-graph-linear-time/NumberOfConnectedCompoinentsInAnUndirectedGraph.java) <i>Graph traversal, Connected components.</i><br>
 <b>Alien Dictionary.</b><br>
 [<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java) <i>1D Dynamic programming.</i><br>
-[<b>House Robber.</b>](/house-robber/HouseRobber.java)<br>
-[<b>House Robber II.</b>](/house-robber-ii/HouseRobberII.java)<br>
+[<b>House Robber.</b> Linear time.](/house-robber/HouseRobber.java) <i>1D Dynamic programming.</i><br>
+[<b>House Robber II.</b> Linear time.](/house-robber-ii/HouseRobberII.java) <i>1D Dynamic programming, Reduction.</i><br>
 [<b>Longest Palindromic Substring.</b> Cubic time.](/longest-palindromic-substring-cubic-time/LongestPalindromicSubstring.java) <i>Brute force.</i><br>
 <b>Palindromic Substrings.</b><br>
 <b>Decode Ways.</b><br>

@@ -1,14 +1,7 @@
 // https://leetcode.com/problems/word-search-ii
 // LC212. Word Search II
+// Factorial time, linear extra-space.
 class WordSearchII {
-    class Position {
-        int x;
-        int y;
-        Position(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-    }
     boolean search(int x, int y, char[][] board, String word, boolean[][] seen) {
         if (word.isEmpty()) { 
             return true; 

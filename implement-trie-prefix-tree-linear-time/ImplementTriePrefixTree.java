@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/implement-trie-prefix-tree
 // LC208. Implement Trie Prefix Tree
+// Linear time, linear extra-space.
 class ImplementTriePrefixTree {
 
     List<String> words;

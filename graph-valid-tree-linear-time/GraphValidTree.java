@@ -1,6 +1,7 @@
-// https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph
-// LC323. Number of Connected Components in an Undirected Graph
-class NumberOfConnectedCompoinentsInAnUndirectedGraph {
+// https://leetcode.com/problems/graph-valid-tree
+// LC261. Graph Valid Tree
+// Linear time, linear extra-space.
+class GraphValidTree {
     class GraphNode {
         List<GraphNode> neighbors;
         boolean visited;
@@ -34,22 +35,22 @@ class NumberOfConnectedCompoinentsInAnUndirectedGraph {
                 visit(neighbor);
             }
         }
-        int components() {
+        boolean connected() {
             for (GraphNode node : nodes) { 
                 node.visited = false; 
             }
-            int count = 0;
-            for (GraphNode node: nodes) {
+            visit(nodes[0]);
+            for (GraphNode node : nodes) { 
                 if (!node.visited) {
-                    count ++;
-                    visit(node);
-                }
+                    return false;
+                } 
             }
-            return count;
+            return true;
         }
     }
-    public int countComponents(int n, int[][] edges) {
+    public boolean validTree(int n, int[][] edges) {
+        if (edges.length != n-1) { return false; }        
         Graph graph = new Graph(n, edges);
-        return graph.components();
+        return graph.connected();
     }
 }

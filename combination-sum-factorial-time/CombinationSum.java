@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/combination-sum
 // LC39. Combination Sum
+// Factorial time, linear extra-space.
 class CombinationSum {
     class IntegerList implements Comparable<IntegerList> {
         List<Integer> list;

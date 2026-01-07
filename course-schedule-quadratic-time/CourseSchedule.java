@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/course-schedule
 // LC207. Course Schedule
+// Quadratic time, linear extra-space.
 class CourseSchedule {
     boolean canFinishAny(int n, int[][] prerequisites, boolean[] finish) {
         int m = prerequisites.length;

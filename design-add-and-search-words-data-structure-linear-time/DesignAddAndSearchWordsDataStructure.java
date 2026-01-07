@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/design-add-and-search-words-data-structure
 // LC211. Design Add and Search Words Data Structure
+// Linear time, linear extra-space.
 class DesignAddAndSearchWordsDataStructure {
 
     List<String> words;
@@ -38,10 +39,3 @@ class DesignAddAndSearchWordsDataStructure {
         return false;
     }
 }
-
-/**
- * Your WordDictionary object will be instantiated and called as such:
- * WordDictionary obj = new WordDictionary();
- * obj.addWord(word);
- * boolean param_2 = obj.search(word);
- */
