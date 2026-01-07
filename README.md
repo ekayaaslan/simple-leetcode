@@ -28,59 +28,58 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, <ins>State compression</ins>, Direct addressing.</i><br>
 [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, <ins>Priority queue.</ins></i><br>
 [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, <ins>Reduction</ins></i><br>
-
-[<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java)<br>
-[<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java)<br>
-[<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java)<br>
-[<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java)<br>
-[<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java)<br>
-[<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java)<br>
-[<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java)<br>
-[<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java)<br>
-[<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java)<br>
-[<b>Subtree of Another Tree.</b> Quadratic time.](/subtree-of-another-tree-quadratic-time/SubtreeOfAnotherTree.java)<br>
-[<b>Lowest Common Ancestor of a Binary Search Tree.</b> Linear time.](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java)<br>
-[<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java)<br>
-[<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java)<br>
-[<b>Kth Smallest Element In a Bst.</b> Linear time.](/kth-smallest-element-in-a-bst-linear-time/)<br>
-[<b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time.](/construct-binary-tree-from-preorder-and-inorder-traversal-quadratic-time/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)<br>
-[<b>Binary Tree Maximum Path Sum.</b> Quadratic time.](/binary-tree-maximum-path-sum-quadratic-time/BinaryTreeMaximumPathSum.java)<br>
-[<b>Serialize And Deserialize Binary Tree.</b> Linear time.](/serialize-and-deserialize-binary-tree-linear-time/SerializeAndDeserializeBinaryTree.java)<br>
-[<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java)<br>
+[<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java) <i><ins>Linked List</ins></i><br>
+[<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List</ins><br>
+[<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing</i><br>
+[<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List</i><br>
+[<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List</i><br>
+[<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java) <i>Linked List, Priority Queue</i><br>
+[<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java) <i>Binary Tree</i><br> 
+[<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java) <i>Binary Tree, <ins>Recursion</ins></i><br>
+[<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java) <i>Binary Tree, Recursion<dr>
+[<b>Subtree of Another Tree.</b> Quadratic time.](/subtree-of-another-tree-quadratic-time/SubtreeOfAnotherTree.java) <i>Binary Tree, <ins>Recursive search.</ins></i><br>
+[<b>Lowest Common Ancestor of a Binary Tree.</b> Linear time.](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java) <i>Binary Tree, <ins>Tree Dynamic programming.</ins></i><br>
+[<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java) <i>Binary Tree<br>
+[<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java) <i>Binary Tree, <ins>Binary search tree.</ins></i><br>
+[<b>Kth Smallest Element In a Bst.</b> Linear time.](/kth-smallest-element-in-a-bst-linear-time/KthSmallestElementInABST.java) <i>Binary Tree, Binary search tree.</i><br>
+[<b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time.](/construct-binary-tree-from-preorder-and-inorder-traversal-quadratic-time/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) <i>Binary Tree, Binary tree traversal, Recursion.<br>
+[<b>Binary Tree Maximum Path Sum.</b> Quadratic time.](/binary-tree-maximum-path-sum-quadratic-time/BinaryTreeMaximumPathSum.java) <i>Binary Tree, Recursive search.</i><br>
+[<b>Serialize And Deserialize Binary Tree.</b> Linear time.](/serialize-and-deserialize-binary-tree-linear-time/SerializeAndDeserializeBinaryTree.java) <i>Binary tree, Encoding, Recursion.</i><br>
+[<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java) <i>Sorting, Brute force.</i><br>
 [<b>Combination Sum.</b>](/combination-sum/CombinationSum.java)<br>
-[<b>Word Search.</b> Factorial time.](/word-search-factorial-time/WordSearch.java)<br>
+[<b>Word Search.</b> Factorial time.](/word-search-factorial-time/WordSearch.java) <i><ins>Backtracking</ins>, <ins>2D Search</ins></i>.<br>
 [<b>Implement Trie Prefix Tree.</b>](/implement-trie-prefix-tree/ImplementTriePrefixTree.java)<br>
 [<b>Design Add And Search Words Data Structure.</b>](/design-add-and-search-words-data-structure/DesignAddAndSearchWordsDataStructure.java)<br>
 [<b>Word Search II.</b>](/word-search-ii/WordSearchII.java)<br>
-[<b>Number of Islands.</b> Linear time.](/number-of-islands-linear-time/NumberOfIslands.java)<br>
-[<b>Clone Graph.</b> Linearish time.](/clone-graph-linearish-time/CloneGraph.java)<br>
+[<b>Number of Islands.</b> Linear time.](/number-of-islands-linear-time/NumberOfIslands.java) <i><ins>Depth first search</ins>, 2D Search.</i><br> 
+[<b>Clone Graph.</b> Linearish time.](/clone-graph-linearish-time/CloneGraph.java) <i><ins>Graph traversal</ins>, Hashing.</i><br>
 [<b>Pacific Atlantic Water Flow.</b>](/pacific-atlantic-water-flow/PacificAtlanticWaterFlow.java)<br>
 [<b>Course Schedule.</b>](/course-schedule/CourseSchedule.java)<br>
 [<b>Graph Valid Tree.</b>](/graph-valid-tree/GraphValidTree.java)<br>
 [<b>Number of Connected Components In An Undirected Graph.</b>](/number-of-connected-components-in-an-undirected-graph/NumberOfConnectedCompoinentsInAnUndirectedGraph.java)<br>
 <b>Alien Dictionary.</b><br>
-[<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java)<br>
+[<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java) <i>1D Dynamic programming.</i><br>
 [<b>House Robber.</b>](/house-robber/HouseRobber.java)<br>
 [<b>House Robber II.</b>](/house-robber-ii/HouseRobberII.java)<br>
-[<b>Longest Palindromic Substring.</b> Cubic time.](/longest-palindromic-substring-cubic-time/LongestPalindromicSubstring.java)<br>
+[<b>Longest Palindromic Substring.</b> Cubic time.](/longest-palindromic-substring-cubic-time/LongestPalindromicSubstring.java) <i>Brute force.</i><br>
 <b>Palindromic Substrings.</b><br>
 <b>Decode Ways.</b><br>
 <b>Coin Change.</b><br>
 <b>Maximum Product Subarray.</b><br>
-[<b>Word Break.</b> Cubic time.](/word-break-cubic-time/WordBreak.java)<br>
+[<b>Word Break.</b> Cubic time.](/word-break-cubic-time/WordBreak.java) <i>1D Dynamic programming.</i><br>
 <b>Longest Increasing Subsequence.</b><br>
 <b>Unique Paths.</b><br>
 <b>Longest Common Subsequence.</b><br>
-[<b>Maximum Subarray.</b> Quadratic time.](/maximum-subarray-quadratic-time/MaximumSubarray.java)<br>
-[<b>Jump Game.</b> Quadratic time.](/jump-game-quadratic-time/JumpGame.java)<br>
+[<b>Maximum Subarray.</b> Quadratic time.](/maximum-subarray-quadratic-time/MaximumSubarray.java) <i>Brute force, <ins>Prefix sum.</ins></i><br>
+[<b>Jump Game.</b> Quadratic time.](/jump-game-quadratic-time/JumpGame.java) <i>1D Dynamic programming.</i><br>
 <b>Insert Interval.</b><br>
 <b>Merge Intervals.</b><br>
 <b>Non Overlapping Intervals.</b><br>
 <b>Meeting Rooms.</b><br>
 <b>Meeting Rooms II.</b><br>
 <b>Rotate Image.</b><br>
-[<b>Spiral Matrix.</b> Linear time.](/spiral-matrix-linear-time/SpiralMatrix.java)<br>
-[<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java)<br>
+[<b>Spiral Matrix.</b> Linear time.](/spiral-matrix-linear-time/SpiralMatrix.java) <i><ins>2D Navigation.</ins><br>
+[<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java) <i>Brute force, <ins>Precompute.</ins></i><br>
 <b>Number of 1 Bits.</b><br>
 <b>Counting Bits.</b><br>
 <b>Reverse Bits.</b><br>
