@@ -36,7 +36,7 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java) <i>Linked List, Priority Queue</i><br>
 [<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java) <i>Binary Tree</i><br> 
 [<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java) <i>Binary Tree, <ins>Recursion</ins></i><br>
-[<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java) <i>Binary Tree, Recursion<dr>
+[<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java) <i>Binary Tree, Recursion</i><br>
 [<b>Subtree of Another Tree.</b> Quadratic time.](/subtree-of-another-tree-quadratic-time/SubtreeOfAnotherTree.java) <i>Binary Tree, <ins>Recursive search.</ins></i><br>
 [<b>Lowest Common Ancestor of a Binary Tree.</b> Linear time.](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java) <i>Binary Tree, <ins>Tree Dynamic programming.</ins></i><br>
 [<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java) <i>Binary Tree<br>
