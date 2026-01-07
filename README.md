@@ -1,5 +1,7 @@
 A solution-centric approach to the neetcode blind-75 questions.
 
+Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing.</i>
+
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i><ins>Linear search.</ins></i> <br> 
 [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
 [<b>Valid Palindrom.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i><ins>Brute force.</ins></i><br>
@@ -85,3 +87,4 @@ A solution-centric approach to the neetcode blind-75 questions.
 <b>Reverse Bits.</b><br>
 <b>Missing Number.</b><br>
 <b>Sum of Two Integers.</b><br>
+
