@@ -62,14 +62,14 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>House Robber.</b> Linear time.](/house-robber/HouseRobber.java) <i>1D Dynamic programming.</i><br>
 [<b>House Robber II.</b> Linear time.](/house-robber-ii/HouseRobberII.java) <i>1D Dynamic programming, Reduction.</i><br>
 [<b>Longest Palindromic Substring.</b> Cubic time.](/longest-palindromic-substring-cubic-time/LongestPalindromicSubstring.java) <i>Brute force.</i><br>
-<b>Palindromic Substrings.</b><br>
-<b>Decode Ways.</b><br>
-<b>Coin Change.</b><br>
-<b>Maximum Product Subarray.</b><br>
+[<b>Palindromic Substrings.</b> Cubic time.](/palindromic-substring-cubic-time/PalindromicSubstring.java) <i>Brute force, Reduction.</i><br>
+[<b>Decode Ways.</b> Linear time.](/decode-ways-linear-time/DecodeWays.java) <i>1D Dynamic programming, <ins>Combinatorics</ins>.</i><br>
+[<b>Coin Change.</b> Factorial time.](/coin-change-factorical-time/CoinChange.java) <i>Backtracking, Combinatorial Search.</i><br>
+[<b>Maximum Product Subarray.</b> Cubic time.](/maximum-product-subarray-cubic-time/MaximumProductSubarray.java) <i>Brute force.</i><br>
 [<b>Word Break.</b> Cubic time.](/word-break-cubic-time/WordBreak.java) <i>1D Dynamic programming.</i><br>
 <b>Longest Increasing Subsequence.</b><br>
-<b>Unique Paths.</b><br>
-<b>Longest Common Subsequence.</b><br>
+[<b>Unique Paths.</b> Quadratic time.](/unique-paths-quadratic-time/UniquePaths.java) <i>2D Dynamic programming, Combinatorics, Reduction.</i><br>
+[<b>Longest Common Subsequence.</b> Quadratic time.](/longest-common-subsequence-quadratic-time/LongestCommonSubsequence.java) <i><ins>2D Dynamic programming>.</ins></i><br>
 [<b>Maximum Subarray.</b> Quadratic time.](/maximum-subarray-quadratic-time/MaximumSubarray.java) <i>Brute force, <ins>Prefix sum.</ins></i><br>
 [<b>Jump Game.</b> Quadratic time.](/jump-game-quadratic-time/JumpGame.java) <i>1D Dynamic programming.</i><br>
 <b>Insert Interval.</b><br>
