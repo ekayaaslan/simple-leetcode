@@ -63,24 +63,24 @@ Concept: Reduction. <br />
 * [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, Reduction</i>
 
 ---
-* <b>Reverse Linked List.</b>
-* <b>Merge Two Sorted Lists.</b>
+* [<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java)
+* [<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java)
 * [<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java)
-* <b>Reorder List.</b>
-* <b>Remove Nth Node From End of List.</b>
-* <b>Merge K Sorted Lists.</b>
-* <b>Invert Binary Tree.</b>
+* [<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java)
+* [<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java)
+* [<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java)
+* [<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java)
 * [<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java)
 * [<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java)
-* <b>Subtree of Another Tree.</b>
+* [<b>Subtree of Another Tree.</b> Quadratic time.](/subtree-of-another-tree-quadratic-time/SubtreeOfAnotherTree.java)
 * [<b>Lowest Common Ancestor of a Binary Search Tree.</b> Linear time.](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java)
 * [<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java)
 * [<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java)
-* <b>Kth Smallest Element In a Bst.</b>
-* <b>Construct Binary Tree From Preorder And Inorder Traversal.</b>
-* <b>Binary Tree Maximum Path Sum.</b>
-* <b>Serialize And Deserialize Binary Tree.</b>
-* <b>Find Median From Data Stream.</b>
+* [<b>Kth Smallest Element In a Bst.</b> Linear time.](/kth-smallest-element-in-a-bst-linear-time/)
+* [<b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time.](/construct-binary-tree-from-preorder-and-inorder-traversal-quadratic-time/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
+* [<b>Binary Tree Maximum Path Sum.</b> Quadratic time.](/binary-tree-maximum-path-sum-quadratic-time/BinaryTreeMaximumPathSum.java)
+* [<b>Serialize And Deserialize Binary Tree.</b> Linear time.](/serialize-and-deserialize-binary-tree-linear-time/SerializeAndDeserializeBinaryTree.java)
+* [<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java)
 * <b>Combination Sum.</b>
 * [<b>Word Search.</b> Factorial time.](/word-search-factorial-time/WordSearch.java)
 * <b>Implement Trie Prefix Tree.</b>
