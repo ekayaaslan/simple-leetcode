@@ -27,19 +27,19 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Valid Parentheses.</b> Linear time.](/valid-parantheses-linear-time/ValidParantheses.java) <i><ins>Stack.</ins></i><br>
 [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, <ins>State compression</ins>, Direct addressing.</i><br>
 [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, <ins>Priority queue.</ins></i><br>
-[<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, <ins>Reduction</ins></i><br>
-[<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java) <i><ins>Linked List</ins></i><br>
-[<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List</ins><br>
-[<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing</i><br>
-[<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List</i><br>
-[<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List</i><br>
-[<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java) <i>Linked List, Priority Queue</i><br>
-[<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java) <i>Binary Tree</i><br> 
-[<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java) <i>Binary Tree, <ins>Recursion</ins></i><br>
-[<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java) <i>Binary Tree, Recursion</i><br>
+[<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, <ins>Reduction.</ins></i><br>
+[<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java) <i><ins>Linked List.</ins></i><br>
+[<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List.</ins><br>
+[<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing.</i><br>
+[<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List.</i><br>
+[<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List.</i><br>
+[<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java) <i>Linked List, Priority Queue.</i><br>
+[<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java) <i>Binary Tree.</i><br> 
+[<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java) <i>Binary Tree, <ins>Recursion.</ins></i><br>
+[<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java) <i>Binary Tree, Recursion.</i><br>
 [<b>Subtree of Another Tree.</b> Quadratic time.](/subtree-of-another-tree-quadratic-time/SubtreeOfAnotherTree.java) <i>Binary Tree, <ins>Recursive search.</ins></i><br>
 [<b>Lowest Common Ancestor of a Binary Tree.</b> Linear time.](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java) <i>Binary Tree, <ins>Tree Dynamic programming.</ins></i><br>
-[<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java) <i>Binary Tree<br>
+[<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java) <i>Binary Tree</i>.<br>
 [<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java) <i>Binary Tree, <ins>Binary search tree.</ins></i><br>
 [<b>Kth Smallest Element In a Bst.</b> Linear time.](/kth-smallest-element-in-a-bst-linear-time/KthSmallestElementInABST.java) <i>Binary Tree, Binary search tree.</i><br>
 [<b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time.](/construct-binary-tree-from-preorder-and-inorder-traversal-quadratic-time/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) <i>Binary Tree, Binary tree traversal, Recursion.<br>
@@ -55,7 +55,7 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Clone Graph.</b> Linearish time.](/clone-graph-linearish-time/CloneGraph.java) <i>Hashing, <ins>Graph traversal</ins>.</i><br>
 [<b>Pacific Atlantic Water Flow.</b> Quadratic time.](/pacific-atlantic-water-flow-quadratic-time/PacificAtlanticWaterFlow.java) <i>Reduction, 2D Search, Depth first search.</i><br>
 [<b>Course Schedule.</b> Quadratic time.](/course-schedule-quadratic-time/CourseSchedule.java) <i><ins>Scheduling.</ins></i><br>
-[<b>Graph Valid Tree.</b> Linear time.](/graph-valid-tree-linear-time/GraphValidTree.java) <i>Graph traversal, <ins>Connected components</ins>, <ins>Unrooted tree</ins></i><br>
+[<b>Graph Valid Tree.</b> Linear time.](/graph-valid-tree-linear-time/GraphValidTree.java) <i>Graph traversal, <ins>Connected components</ins>, <ins>Unrooted tree.</ins></i><br>
 [<b>Number of Connected Components In An Undirected Graph.</b> Linear time.](/number-of-connected-components-in-an-undirected-graph-linear-time/NumberOfConnectedCompoinentsInAnUndirectedGraph.java) <i>Graph traversal, Connected components.</i><br>
 <b>Alien Dictionary.</b><br>
 [<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java) <i>1D Dynamic programming.</i><br>
