@@ -19,9 +19,9 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i><br>
 [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i><ins>Two pointers.</ins></i><br>
 [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i><ins>Encoding.</ins></i><br>
-[<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i><ins>Running optimum</ins>, Direct addressing.</i><br>
+[<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Direct addressing, <ins>Running optimum</ins>.</i><br>
 [<b>Two Sum.</b> Linearish-time. (v1)](/two-sum-linearish-time-v1/TwoSum.java) <i><ins>Hashing.</ins></i><br>
-[<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i><ins>Symmetry</ins>, Hashing.</i><br>
+[<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Hashing, <ins>Symmetry</ins>.</i><br>
 [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i><ins>1D Dynamic programming</ins>, Direct addressing.</i><br>
 [<b>Valid Parentheses.</b> Quadratic time.](/valid-parantheses-quadratic-time/ValidParantheses.java) <i>Brute force, <ins>Parantheses.</ins></i><br>
 [<b>Valid Parentheses.</b> Linear time.](/valid-parantheses-linear-time/ValidParantheses.java) <i><ins>Stack.</ins></i><br>
@@ -51,8 +51,8 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Implement Trie Prefix Tree.</b>](/implement-trie-prefix-tree/ImplementTriePrefixTree.java)<br>
 [<b>Design Add And Search Words Data Structure.</b>](/design-add-and-search-words-data-structure/DesignAddAndSearchWordsDataStructure.java)<br>
 [<b>Word Search II.</b>](/word-search-ii/WordSearchII.java)<br>
-[<b>Number of Islands.</b> Linear time.](/number-of-islands-linear-time/NumberOfIslands.java) <i><ins>Depth first search</ins>, 2D Search.</i><br> 
-[<b>Clone Graph.</b> Linearish time.](/clone-graph-linearish-time/CloneGraph.java) <i><ins>Graph traversal</ins>, Hashing.</i><br>
+[<b>Number of Islands.</b> Linear time.](/number-of-islands-linear-time/NumberOfIslands.java) <i>2D Search, <ins>Depth first search</ins>.</i><br> 
+[<b>Clone Graph.</b> Linearish time.](/clone-graph-linearish-time/CloneGraph.java) <i>Hashing, <ins>Graph traversal</ins>.</i><br>
 [<b>Pacific Atlantic Water Flow.</b>](/pacific-atlantic-water-flow/PacificAtlanticWaterFlow.java)<br>
 [<b>Course Schedule.</b>](/course-schedule/CourseSchedule.java)<br>
 [<b>Graph Valid Tree.</b>](/graph-valid-tree/GraphValidTree.java)<br>
@@ -79,7 +79,7 @@ A solution-centric approach to the neetcode blind-75 questions.
 <b>Meeting Rooms II.</b><br>
 <b>Rotate Image.</b><br>
 [<b>Spiral Matrix.</b> Linear time.](/spiral-matrix-linear-time/SpiralMatrix.java) <i><ins>2D Navigation.</ins><br>
-[<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java) <i>Brute force, <ins>Precompute.</ins></i><br>
+[<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java) <i>Brute force, <ins>Precomputing.</ins></i><br>
 <b>Number of 1 Bits.</b><br>
 <b>Counting Bits.</b><br>
 <b>Reverse Bits.</b><br>
