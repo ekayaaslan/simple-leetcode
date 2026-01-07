@@ -46,7 +46,7 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Binary Tree Maximum Path Sum.</b> Quadratic time.](/binary-tree-maximum-path-sum-quadratic-time/BinaryTreeMaximumPathSum.java) <i>Binary Tree, Recursive search.</i><br>
 [<b>Serialize And Deserialize Binary Tree.</b> Linear time.](/serialize-and-deserialize-binary-tree-linear-time/SerializeAndDeserializeBinaryTree.java) <i>Binary tree, Encoding, Recursion.</i><br>
 [<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java) <i>Sorting, Brute force, <ins>Design</ins>.</i><br>
-[<b>Combination Sum.</b> Factorial time.](/combination-sum-factorial-time/CombinationSum.java) <i>Backtracking, <ins>1D Search</ins>, <ins>Combinatorial.</ins></i><br>
+[<b>Combination Sum.</b> Factorial time.](/combination-sum-factorial-time/CombinationSum.java) <i>Backtracking, <ins>Combinatorial Search.</ins></i><br>
 [<b>Word Search.</b> Factorial time.](/word-search-factorial-time/WordSearch.java) <i><ins>Backtracking</ins>, <ins>2D Search</ins></i>.<br>
 [<b>Implement Trie Prefix Tree.</b> Linear time.](/implement-trie-prefix-tree-linear-time/ImplementTriePrefixTree.java)<i>Brute force, Design.</i><br>
 [<b>Design Add And Search Words Data Structure.</b> Linear time.](/design-add-and-search-words-data-structure-linear-time/DesignAddAndSearchWordsDataStructure.java) <i>Brute force, Design.</i><br>
