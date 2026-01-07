@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/reverse-bits
 // LC190. Reverse Bits
-// Constant time, constant extra-space.
+// Logarithmic time, constant extra-space.
 // Digits, Binary.
 class ReverseBits {
     public int reverseBits(int n) {
