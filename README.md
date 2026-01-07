@@ -1,6 +1,6 @@
 A solution-centric approach to the neetcode blind-75 questions.
 
-Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing.</i>
+Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement.</i>
 
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i><ins>Linear search.</ins></i> <br> 
 [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
@@ -82,9 +82,8 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Rotate Image.</b><br>
 [<b>Spiral Matrix.</b> Linear time.](/spiral-matrix-linear-time/SpiralMatrix.java) <i><ins>2D Navigation.</ins><br>
 [<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java) <i>Brute force, <ins>Precomputing.</ins></i><br>
-<b>Number of 1 Bits.</b><br>
-<b>Counting Bits.</b><br>
-<b>Reverse Bits.</b><br>
-<b>Missing Number.</b><br>
-<b>Sum of Two Integers.</b><br>
-
+[<b>Number of 1 Bits.</b> Logarithmic time.](/number-of-1-bits-logarithmic-time/NumberOf1Bits.java) <i><ins>Digits</ins>, <ins>Binary numbers.</ins></i><br>
+[<b>Counting Bits.</b> Linearithmic time.](/counting-bits-linearithmic-time/CountingBits.java) <i>Digits, Binary numbers, Brute force, Reduction.</i><br>
+[<b>Reverse Bits.</b> Logarithmic time.](/reverse-bits-logarithmic-time/ReverseBits.java) <i>Digits, Binary numbers</i><br>
+[<b>Missing Number.</b> Linear time.](/missing-number-linear-time/MissingNumber.java) <i>Brute force, Direct addressing.</i><br>
+[<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, <ins>Addition</ins>, <ins>2s complement</ins>.</i><br>

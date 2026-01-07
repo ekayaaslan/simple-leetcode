@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/sum-of-two-integers
 // LC371. Sum of Two Integers
 // Logarithmic time, logarithmic extra-space.
-// Digits, Binary, Addition, 2s complement.
 class SumOfTwoIntegers {
     boolean[] twosComplement(boolean[] bits) {
         for (int i=0; i<32;i ++) {

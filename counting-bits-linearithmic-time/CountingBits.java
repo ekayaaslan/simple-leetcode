@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/counting-bits
 // LC338. Counting Bits
-// Digits, Binary numbers, Brute force, Reduction.
 // Linearithmic time, constant extra-space.
 class CountingBits {
     public int hammingDistance(int n) {

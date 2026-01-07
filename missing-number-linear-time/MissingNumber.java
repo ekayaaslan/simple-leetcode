@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/missing-number
 // LC268. Missing Number
 // Linear time, linear extra-space.
-// Brute force, Direct addressing.
 class MissingNumber {
     public int missingNumber(int[] nums) {
         int n = nums.length;
