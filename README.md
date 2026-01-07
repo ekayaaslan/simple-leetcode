@@ -67,7 +67,7 @@ A solution-centric approach to the neetcode blind-75 questions.
 [<b>Coin Change.</b> Factorial time.](/coin-change-factorical-time/CoinChange.java) <i>Backtracking, Combinatorial Search.</i><br>
 [<b>Maximum Product Subarray.</b> Cubic time.](/maximum-product-subarray-cubic-time/MaximumProductSubarray.java) <i>Brute force.</i><br>
 [<b>Word Break.</b> Cubic time.](/word-break-cubic-time/WordBreak.java) <i>1D Dynamic programming.</i><br>
-<b>Longest Increasing Subsequence.</b><br>
+[<b>Longest Increasing Subsequence.</b>](/longest-increasing-subsequence-quadratic-time/LongestIncreasingSubsequence.java) <i>1D Dynamic programming, Running optimum.</i><br>
 [<b>Unique Paths.</b> Quadratic time.](/unique-paths-quadratic-time/UniquePaths.java) <i>2D Dynamic programming, Combinatorics, Reduction.</i><br>
 [<b>Longest Common Subsequence.</b> Quadratic time.](/longest-common-subsequence-quadratic-time/LongestCommonSubsequence.java) <i><ins>2D Dynamic programming>.</ins></i><br>
 [<b>Maximum Subarray.</b> Quadratic time.](/maximum-subarray-quadratic-time/MaximumSubarray.java) <i>Brute force, <ins>Prefix sum.</ins></i><br>
