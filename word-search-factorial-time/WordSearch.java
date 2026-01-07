@@ -1,15 +1,7 @@
 // https://leetcode.com/problems/word-search
 // LC79. Word Search
 // Factorial time, linear extra-space.
-class Solution {
-    class Position {
-        int x;
-        int y;
-        Position(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-    }
+class WordSearch {
     boolean search(int x, int y, char[][] board, String word, boolean[][] seen) {
         if (word.isEmpty()) { 
             return true; 
