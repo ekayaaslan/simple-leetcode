@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/reverse-linked-list/
+// https://leetcode.com/problems/reverse-linked-list
 // LC206. Reversed Linked List
 // Linear time, linear extra-space.
 class ReversedLinkedList {
