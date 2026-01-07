@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/counting-bits
 // LC338. Counting Bits
 // Brute force, Reduction.
-// Quadratic time, constant extra-space.
+// Linearithmic time, constant extra-space.
 class CountingBits {
     public int hammingDistance(int n) {
         int num = n;
