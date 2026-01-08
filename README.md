@@ -31,7 +31,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, <ins>Reduction.</ins></i><br>
 [<b>Search In Rotated Sorted Array.</b> Logarithmic time.](/search-in-rotated-sorted-array-logarithmic-time/SearchInRotatedSortedArray.java) <i>Binary search, Reduction</i><br>
 [<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java) <i><ins>Linked List.</ins></i><br>
-[<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List.</ins><br>
+[<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List.</i></ins><br>
 [<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing.</i><br>
 [<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List. <ins>Transformations</ins></i><br>
 [<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List.</i><br>
@@ -120,7 +120,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Maximum Subarray.</b> Linear time. <i><ins>Greedy</ins>, <ins>Search reset.</ins></i><br>
 <b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
 
-Concepts uncovered: Divide-and-conquer, Minimum spanning tree, Union-find, Bag, Balanced trees, Shortest paths.
+Concepts uncovered: <i>Divide-and-conquer, Minimum spanning tree, Union-find, Bag, Balanced trees, Shortest paths.</i>
 
 
 
