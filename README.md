@@ -1,10 +1,10 @@
 A solution-centric approach to the neetcode blind-75 questions.
 
-Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement.</i>
+Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Grouping, Sliding window, Two pivots, Fast-slow pivots.</i>
 
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i><ins>Linear search.</ins></i> <br> 
 [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
-[<b>Valid Palindrom.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i><ins>Brute force.</ins></i><br>
+[<b>Valid Palindrome.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i><ins>Brute force.</ins></i><br>
 [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i><br>
 [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i><br>
 [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i><br>
@@ -15,8 +15,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Minimum Window Substring.</b> Cubic time.](/minimum-window-substring-cubic-time/MinimumWindowSubstring.java) <i>Brute force, Direct addressing.</i><br>
 [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i><ins>Binary search.</ins></i><br>
 [<b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time.](/find-minimum-in-rotated-sorted-array-logarithmic-time/FindMinimumInRotatedSortedArray.java) <i>Binary search.</i><br>
-[<b>Search In Rotated Sorted Array.</b> Logarithmic time.](/search-in-rotated-sorted-array-logarithmic-time/SearchInRotatedSortedArray.java) <i>Binary search.</i><br>
-[<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i><ins>Sorting.</ins></i><br>
+[<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Brute force, <ins>Sorting.</ins></i><br>
 [<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, <ins>Canonicalising.</ins></i><br>
 [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i><br>
 [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i><ins>Two pointers.</ins></i><br>
@@ -30,10 +29,11 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, <ins>State compression</ins>, Direct addressing.</i><br>
 [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, <ins>Priority queue.</ins></i><br>
 [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, <ins>Reduction.</ins></i><br>
+[<b>Search In Rotated Sorted Array.</b> Logarithmic time.](/search-in-rotated-sorted-array-logarithmic-time/SearchInRotatedSortedArray.java) <i>Binary search, Reduction</i><br>
 [<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java) <i><ins>Linked List.</ins></i><br>
 [<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List.</ins><br>
 [<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing.</i><br>
-[<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List.</i><br>
+[<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List. <ins>Transformations</ins></i><br>
 [<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List.</i><br>
 [<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java) <i>Linked List, Priority Queue.</i><br>
 [<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java) <i>Binary Tree.</i><br> 
@@ -87,3 +87,26 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Reverse Bits.</b> Logarithmic time.](/reverse-bits-logarithmic-time/ReverseBits.java) <i>Digits, Binary numbers</i><br>
 [<b>Missing Number.</b> Linear time.](/missing-number-linear-time/MissingNumber.java) <i>Brute force, Direct addressing.</i><br>
 [<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, <ins>Addition</ins>, <ins>2s complement</ins>.</i><br>
+
+<b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
+<b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
+<b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
+<b>Product Of Array Except Self.</b> Linear-time. <i>Prefix sum, Precomputing.</i><br>
+<b>Longest Consecutive Sequence.</b> Linearithmic-time. <i>Sorting.</i><br>
+<b>Longest Consecutive Sequence.</b> Linear-time. <i>Hashing, <ins>Grouping.</ins></i><br>
+<b>3Sum.</b> Quadratic-time. <i>Two Pointers, Reduction, Sorting.</i><br>
+<b>Container With Most Water.</b> Linear-time. <i>Two pointers.</i><br>
+<b>Best Time to Buy And Sell Stock.</b> Quadratic-time. <i><ins>Sliding window.</ins></i><br>
+<b>Longest Substring Without Repeating Characters.</b> Linear time. <i>Sliding window.</i><br>
+<b>Longest Repeating Character Replacement.</b> Linear time. <i>Sliding window.</i><br>
+<b>Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
+<b>Minimum Window Substring.</b> Linear time. <i>Sliding window.</i><br>
+<b>Reorder List.</b> Linear time. <i>Linked List, <ins>Two pivots.</ins></i><br>
+<b>Linked List Cycle.</b> Linear time. <i>Linked List, <ins>Fast-slow pivots.</ins></i><br>
+
+
+
+
+
+
+
