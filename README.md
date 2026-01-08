@@ -124,7 +124,17 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i><ins>Union-find.</ins></i><br>
 <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Union-find.</i><br>
 
-Concepts uncovered: <i>Minimum spanning tree, Bag, Balanced trees, Shortest paths.</i>
+Beyond Blind-75. Concepts covered: <i>Balanced trees, Monotonic stack, Bag, Shortest path, Breath first search, Multi-source BFS, Minimum spanning tree, DAG Dynamic programming</i>
+
+<b>Largest Rectangle in Histogram.</b> Linearithmic time. <i>Priority queues, <ins>Balanced trees</ins>.</i><br>
+<b>Largest Rectangle in Histogram.</b> Linear time. <i>Running optimum, <ins>Monotonic stack.</ins></i><br>
+<b>Insert Delete GetRandom.</b> Constant time. <i>Design, <ins>Bag</ins></i><br>
+<b>Network Delay Time</b> Linearithmic time. <i><ins>Shortest path.</ins></i><br>
+<b>Word Ladder</b> Quadratic time. <i><ins>Breath first search.</ins></i><br>
+<b>Rotting Oranges</b> Linear time. <i>2D Search, <ins>Multi-source BFS.</ins></i><br>
+<b>Min Cost to Connect All Points.</b> Linearithmic time. <i><ins>Minimum spanning tree.</ins></i><br>
+<b>Longest Increasing Path in a Matrix</b> Linear time. <i><ins>DAG Dynamic programming</ins></i><br>
+
 
 
 
