@@ -1,6 +1,6 @@
 A solution-centric approach to the neetcode blind-75 questions.
 
-Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset.</i>
+Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset.</i>
 
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i><ins>Linear search.</ins></i> <br> 
 [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
@@ -82,21 +82,21 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Missing Number.</b> Linear time.](/missing-number-linear-time/MissingNumber.java) <i>Brute force, Direct addressing.</i><br>
 [<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, <ins>Addition</ins>, <ins>2s complement</ins>.</i><br>
 
-<b>Insert Interval.</b><br>
-<b>Merge Intervals.</b><br>
-<b>Non Overlapping Intervals.</b><br>
-<b>Meeting Rooms.</b><br>
-<b>Meeting Rooms II.</b><br>
-<b>Rotate Image.</b><br>
+<b>Insert Interval.</b> Linear time. <i>Linear search, <ins>Intervals</ins></i><br>
+<b>Merge Intervals.</b> Linearithmic time. <i><ins>Interval sorting.</ins></i><br>
+<b>Non Overlapping Intervals.</b> Linearithmic time. <i>Interval sorting, 1D Dynamic programing.</i><br>
+<b>Meeting Rooms.</b> Linearithmic time. <i>Interval sorting.</i><br>
+<b>Meeting Rooms II.</b> Linearithmic time. <i>Interval sorting, Greedy.</i><br>
+<b>Rotate Image.</b> Linear time. <i></i><br>
 <b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
 <b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
 <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
-<b>Product Of Array Except Self.</b> Linear-time. <i>Prefix sum, Precomputing.</i><br>
-<b>Longest Consecutive Sequence.</b> Linearithmic-time. <i>Sorting.</i><br>
-<b>Longest Consecutive Sequence.</b> Linear-time. <i>Hashing, <ins>Grouping.</ins>, <ins>Bidirectional expansion</ins></i><br>
-<b>3Sum.</b> Quadratic-time. <i>Two Pointers, Reduction, Sorting.</i><br>
-<b>Container With Most Water.</b> Linear-time. <i>Two pointers.</i><br>
-<b>Best Time to Buy And Sell Stock.</b> Quadratic-time. <i><ins>Sliding window.</ins></i><br>
+<b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
+<b>Longest Consecutive Sequence.</b> Linearithmic time. <i>Sorting.</i><br>
+<b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, <ins>Grouping.</ins>, <ins>Bidirectional expansion</ins></i><br>
+<b>3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
+<b>Container With Most Water.</b> Linear time. <i>Two pointers.</i><br>
+<b>Best Time to Buy And Sell Stock.</b> Quadratic time. <i><ins>Sliding window.</ins></i><br>
 <b>Longest Substring Without Repeating Characters.</b> Linear time. <i>Sliding window.</i><br>
 <b>Longest Repeating Character Replacement.</b> Linear time. <i>Sliding window.</i><br>
 <b>Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
@@ -108,7 +108,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
 <b>Implement Trie Prefix Tree.</b> Sublinear time. <i>Design, Trie.</i><br>
 <b>Design Add And Search Words Data Structure.</b> Sublinear time. <i>Design, Trie, Backtracking, <ins>Tree search</ins></i><br>
-<b>Pacific Atlantic Water Flow.</b> Linear time.(/pacific-atlantic-water-flow-quadratic-time/PacificAtlanticWaterFlow.java) <i>Reduction, <ins>Graph search</ins>, Depth first search.</i><br>
+<b>Pacific Atlantic Water Flow.</b> Linear time. <i>Reduction, <ins>Graph search</ins>, Depth first search.</i><br>
 <b>Course Schedule.</b> Linear time. <i>Reduction, <ins>Graph cycles.</ins></i><br>
 <b>Graph Valid Tree.</b> Linear time. <i>Graph cycles, <ins>Unrooted tree.</ins></i><br>
 <b>Alien Dictionary.</b> Quadratic time. <i>Reduction, <ins>Directed acyclic graphs</ins>, <ins>Topological order.</ins>.</i><br>
