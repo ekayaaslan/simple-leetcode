@@ -44,7 +44,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java) <i>Binary Tree</i>.<br>
 [<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java) <i>Binary Tree, <ins>Binary search tree.</ins></i><br>
 [<b>Kth Smallest Element In a Bst.</b> Linear time.](/kth-smallest-element-in-a-bst-linear-time/KthSmallestElementInABST.java) <i>Binary Tree, Binary search tree.</i><br>
-[<b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time.](/construct-binary-tree-from-preorder-and-inorder-traversal-quadratic-time/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) <i>Binary Tree, Binary tree traversal, Recursion.<br>
+[<b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time.](/construct-binary-tree-from-preorder-and-inorder-traversal-quadratic-time/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) <i>Binary Tree, Binary tree traversal, Recursion.</i><br>
 [<b>Binary Tree Maximum Path Sum.</b> Quadratic time.](/binary-tree-maximum-path-sum-quadratic-time/BinaryTreeMaximumPathSum.java) <i>Binary Tree, Recursive search.</i><br>
 [<b>Serialize And Deserialize Binary Tree.</b> Linear time.](/serialize-and-deserialize-binary-tree-linear-time/SerializeAndDeserializeBinaryTree.java) <i>Binary tree, Encoding, Recursion.</i><br>
 [<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java) <i>Sorting, Brute force, <ins>Design</ins>.</i><br>
@@ -74,7 +74,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Longest Common Subsequence.</b> Quadratic time.](/longest-common-subsequence-quadratic-time/LongestCommonSubsequence.java) <i>2D Dynamic programming.</i><br>
 [<b>Maximum Subarray.</b> Quadratic time.](/maximum-subarray-quadratic-time/MaximumSubarray.java) <i>Brute force, <ins>Prefix sum.</ins></i><br>
 [<b>Jump Game.</b> Quadratic time.](/jump-game-quadratic-time/JumpGame.java) <i>1D Dynamic programming.</i><br>
-[<b>Spiral Matrix.</b> Linear time.](/spiral-matrix-linear-time/SpiralMatrix.java) <i><ins>2D Navigation.</ins><br>
+[<b>Spiral Matrix.</b> Linear time.](/spiral-matrix-linear-time/SpiralMatrix.java) <i><ins>2D Navigation.</ins></i><br>
 [<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java) <i>Brute force, <ins>Precomputing.</ins></i><br>
 [<b>Number of 1 Bits.</b> Logarithmic time.](/number-of-1-bits-logarithmic-time/NumberOf1Bits.java) <i><ins>Digits</ins>, <ins>Binary numbers.</ins></i><br>
 [<b>Counting Bits.</b> Linearithmic time.](/counting-bits-linearithmic-time/CountingBits.java) <i>Digits, Binary numbers, Brute force, Reduction.</i><br>
