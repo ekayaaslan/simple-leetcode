@@ -1,6 +1,6 @@
 A solution-centric approach to the neetcode blind-75 questions.
 
-Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Divide and conquer, Cyclic shift, Anagrams, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset, Union-find, Balanced trees, Monotonic stack, Bag, Shortest path, Breath first search, Multi-source BFS, Minimum spanning tree, DAG Dynamic programming.</i>
+Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Divide and conquer, Cyclic shift, Anagrams, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Trie, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset, Union-find, Bucket sort, Bitwise XOR, Balanced trees, Monotonic stack, Bag, Shortest path, Breath first search, Multi-source BFS, Minimum spanning tree, DAG Dynamic programming, Three pointers.</i>
 
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i><ins>Linear search.</ins></i> <br> 
 [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
@@ -108,7 +108,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Binary Tree Level Order Traversal.</b> Linear time. <i><ins>FIFO queue.</ins></i>.<br>
 <b>Binary Tree Maximum Path Sum.</b> Linear time. <i>Binary Tree, Tree dynamic programming.</i><br>
 <b>Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
-<b>Implement Trie Prefix Tree.</b> Sublinear time. <i>Design, Trie.</i><br>
+<b>Implement Trie Prefix Tree.</b> Sublinear time. <i>Design, <ins>Trie.</ins></i><br>
 <b>Design Add And Search Words Data Structure.</b> Sublinear time. <i>Design, Trie, Backtracking, <ins>Tree search</ins></i><br>
 <b>Pacific Atlantic Water Flow.</b> Linear time. <i>Reduction, <ins>Graph search</ins>, Depth first search.</i><br>
 <b>Course Schedule.</b> Linear time. <i>Reduction, <ins>Graph cycles.</ins></i><br>
@@ -123,6 +123,8 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
 <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i><ins>Union-find.</ins></i><br>
 <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Union-find.</i><br>
+<b>Top K Frequent Elements</b> Linear time. <i><ins>Bucket sort.</ins></i><br>
+<b>Missing Number.</b> Linear time. <i><ins>Bitwise XOR.</ins></i><br>
 
 Beyond Blind-75.
 
@@ -134,7 +136,7 @@ Beyond Blind-75.
 <b>Rotting Oranges</b> Linear time. <i>2D Search, <ins>Multi-source BFS.</ins></i><br>
 <b>Min Cost to Connect All Points.</b> Linearithmic time. <i><ins>Minimum spanning tree.</ins></i><br>
 <b>Longest Increasing Path in a Matrix</b> Linear time. <i><ins>DAG Dynamic programming</ins></i><br>
-
+<b>Sort Colors.</b> Linear time. <i><ins>Three pointers.</ins></i><br>
 
 
 
