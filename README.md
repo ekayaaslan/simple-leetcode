@@ -120,6 +120,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Maximum Subarray.</b> Linear time. <i><ins>Greedy</ins>, <ins>Search reset.</ins></i><br>
 <b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
 
+Concepts uncovered: Divide-and-conquer, Minimum spanning tree, Union-find, Bag, Balanced trees, Shortest paths.
 
 
 
