@@ -1,6 +1,6 @@
 A solution-centric approach to the neetcode blind-75 questions.
 
-Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Divide and conquer, Cyclic shift, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset, Union-find.</i>
+Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Divide and conquer, Cyclic shift, Anagrams, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset, Union-find.</i>
 
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i><ins>Linear search.</ins></i> <br> 
 [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
@@ -91,6 +91,7 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Rotate Image.</b> Linear time. <i>Reduction, <ins>Cyclic shift.</ins></i><br>
 <b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
 <b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
+<b>Valid Anagram.</b> Linear-time. <i>Direct addressing, <ins>Anagrams</ins></i><br>
 <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
 <b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
 <b>Longest Consecutive Sequence.</b> Linearithmic time. <i>Sorting.</i><br>
