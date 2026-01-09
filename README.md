@@ -45,7 +45,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
 <b>Container With Most Water.</b> Linear time. <i>Two pointers.</i><br>
 
-<b>Concept: Running optimum:</b>Keeping track of a single minimum or maximum value while iterating, avoiding the need to store history.
+<b>Concept: Running optimum:</b> Keeping track of a single minimum or maximum value while iterating, avoiding the need to store history.
 
 [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Direct addressing, <ins>Running optimum</ins>.</i><br>
 <b>Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
