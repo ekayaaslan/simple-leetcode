@@ -58,7 +58,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
 [<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Hashing.</i><br>
 
-<b>Concept: 1D Dynamic programming:</b>Solving a problem by breaking it into a linear sequence of overlapping subproblems and storing results to avoid re-computation.
+<b>Concept: 1D Dynamic programming:</b> Solving a problem by breaking it into a linear sequence of overlapping subproblems and storing results to avoid re-computation.
 
 [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i><ins>1D Dynamic programming</ins>, Direct addressing.</i><br>
 [<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java) <i>1D Dynamic programming.</i><br>
