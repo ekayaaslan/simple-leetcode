@@ -201,6 +201,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
 
 <b>Concept: Digits:</b>
+
 <b>Concept: Binary numbers:</b>
 
 [<b>Number of 1 Bits.</b> Logarithmic time.](/number-of-1-bits-logarithmic-time/NumberOf1Bits.java) <i><ins>Digits</ins>, <ins>Binary numbers.</ins></i><br>
@@ -208,10 +209,17 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 [<b>Reverse Bits.</b> Logarithmic time.](/reverse-bits-logarithmic-time/ReverseBits.java) <i>Digits, Binary numbers</i><br>
 <b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
 
-<b>Concept: Addition:</b>
-<b>Concept: 2s Complements:</b>
+<b>Concept: Sliding window:</b>
 
-[<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, <ins>Addition</ins>, <ins>2s complement</ins>.</i><br>
+<b>Best Time to Buy And Sell Stock.</b> Quadratic time. <i><ins>Sliding window.</ins></i><br>
+<b>Longest Substring Without Repeating Characters.</b> Linear time. <i>Sliding window.</i><br>
+<b>Longest Repeating Character Replacement.</b> Linear time. <i>Sliding window.</i><br>
+<b>Minimum Window Substring.</b> Linear time. <i>Sliding window.</i><br>
+
+<b>Concept: Palindrome center:</b>
+
+<b>Longest Palindromic Substring.</b> Quadratic time. <i>Brute force, Running optimum, <ins>Palindrome center.</ins></i><br>
+<b>Palindromic Substrings.</b> Quadratic time. <i>Palindrome center.</i><br>
 
 <b>Concept: Intervals:</b>
 
@@ -223,125 +231,35 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>Meeting Rooms.</b> Linearithmic time. <i>Interval sorting.</i><br>
 <b>Non Overlapping Intervals.</b> Linearithmic time. <i>Interval sorting, 1D Dynamic programing.</i><br>
 
-<b>Concept: Sweeping line:</b>
-
+[<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, <ins>Addition</ins>, <ins>2s complement</ins>.</i><br>
 <b>Meeting Rooms II.</b> Linearithmic time. <i>Interval sorting, Greedy, <ins>Sweeping line.</ins></i><br>
-
-<b>Concept: Divide and conquer:</b>
-
 <b>Maximum Subarray.</b> Linearithmic time. <i><ins>Divide and conquer.</ins></i><br>
-
-<b>Concept: Cyclic shift:</b>
-
 <b>Rotate Image.</b> Linear time. <i>Reduction, <ins>Cyclic shift.</ins></i><br>
-
-<b>Concept: Anagrams:</b>
-
 <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, <ins>Anagrams</ins></i><br>
-
-<b>Concept: Grouping:</b>
-<b>Concept: Bidirectional expansion:</b>
-
 <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, <ins>Grouping.</ins>, <ins>Bidirectional expansion</ins></i><br>
-
-<b>Concept: Sliding window:</b>
-
-<b>Best Time to Buy And Sell Stock.</b> Quadratic time. <i><ins>Sliding window.</ins></i><br>
-<b>Longest Substring Without Repeating Characters.</b> Linear time. <i>Sliding window.</i><br>
-<b>Longest Repeating Character Replacement.</b> Linear time. <i>Sliding window.</i><br>
-<b>Minimum Window Substring.</b> Linear time. <i>Sliding window.</i><br>
-
-<b>Concept: Two pivots:</b>
-
 <b>Reorder List.</b> Linear time. <i>Linked List, <ins>Two pivots.</ins></i><br>
-
-<b>Concept: Fast-slow pivots:</b>
-
 <b>Linked List Cycle.</b> Linear time. <i>Linked List, <ins>Fast-slow pivots.</ins></i><br>
-
-<b>Concept: FIFO queue:</b>
-
 <b>Binary Tree Level Order Traversal.</b> Linear time. <i><ins>FIFO queue.</ins></i>.<br>
-
-<b>Concept: Trie:</b>
-
 <b>Implement Trie Prefix Tree.</b> Sublinear time. <i>Design, <ins>Trie.</ins></i><br>
-
-<b>Concept: Tree search:</b>
-
 <b>Design Add And Search Words Data Structure.</b> Sublinear time. <i>Design, Trie, Backtracking, <ins>Tree search</ins></i><br>
-
-<b>Concept: Graph search:</b>
-
 <b>Pacific Atlantic Water Flow.</b> Linear time. <i>Reduction, <ins>Graph search</ins>, Depth first search.</i><br>
-
-<b>Concept: Graph cycles:</b>
-
 <b>Course Schedule.</b> Linear time. <i>Reduction, <ins>Graph cycles.</ins></i><br>
 <b>Graph Valid Tree.</b> Linear time. <i>Graph cycles, Unrooted tree.</i><br>
-
-<b>Concept: Directed acyclic graph:</b>
-<b>Concept: Topological order:</b>
-
 <b>Alien Dictionary.</b> Quadratic time. <i>Reduction, <ins>Directed acyclic graphs</ins>, <ins>Topological order.</ins>.</i><br>
-
-<b>Concept: Palindrome center:</b>
-
-<b>Longest Palindromic Substring.</b> Quadratic time. <i>Brute force, Running optimum, <ins>Palindrome center.</ins></i><br>
-<b>Palindromic Substrings.</b> Quadratic time. <i>Palindrome center.</i><br>
-
-<b>Concept: Greedy:</b>
-<b>Concept: Search reset:</b>
-
 <b>Maximum Subarray.</b> Linear time. <i><ins>Greedy</ins>, <ins>Search reset.</ins></i><br>
-
-<b>Concept: Union-find:</b>
-
 <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i><ins>Union-find.</ins></i><br>
 <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Union-find.</i><br>
-
-<b>Concept: Bucket sort:</b>
-
 <b>Top K Frequent Elements</b> Linear time. <i><ins>Bucket sort.</ins></i><br>
-
-<b>Concept: Bitwise XOR:</b>
-
 <b>Missing Number.</b> Linear time. <i><ins>Bitwise XOR.</ins></i><br>
 
-NOTE: The below is beyond Blind-75.
-
-<b>Concept: Balanced trees:</b>
+Beyond Blind-75.
 
 <b>Largest Rectangle in Histogram.</b> Linearithmic time. <i>Priority queues, <ins>Balanced trees</ins>.</i><br>
-
-<b>Concept: Monotonic stack:</b>
-
 <b>Largest Rectangle in Histogram.</b> Linear time. <i>Running optimum, <ins>Monotonic stack.</ins></i><br>
-
-<b>Concept: Bag:</b>
-
 <b>Insert Delete GetRandom.</b> Constant time. <i>Design, <ins>Bag</ins></i><br>
-
-<b>Concept: Shortest path:</b>
-
 <b>Network Delay Time</b> Linearithmic time. <i><ins>Shortest path.</ins></i><br>
-
-<b>Concept: Breath first search:</b>
-
 <b>Word Ladder</b> Quadratic time. <i><ins>Breath first search.</ins></i><br>
-
-<b>Concept: Multi-source BFS:</b>
-
 <b>Rotting Oranges</b> Linear time. <i>2D Search, <ins>Multi-source BFS.</ins></i><br>
-
-<b>Concept: Minimum spanning tree:</b>
-
 <b>Min Cost to Connect All Points.</b> Linearithmic time. <i><ins>Minimum spanning tree.</ins></i><br>
-
-<b>Concept: DAG Dynamic programming:</b>
-
 <b>Longest Increasing Path in a Matrix</b> Linear time. <i><ins>DAG Dynamic programming</ins></i><br>
-
-<b>Concept: Three pointers:</b>
-
 <b>Sort Colors.</b> Linear time. <i><ins>Three pointers.</ins></i><br>
