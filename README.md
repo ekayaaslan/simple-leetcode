@@ -1,4 +1,4 @@
-A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 questions, 131 solutions, and 77 concepts.
+A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 questions, 131 solutions, and 76 concepts.
 
 <b>Concept: Linear search:</b> Check every element in an array one by one until the target is found.
 
@@ -45,23 +45,20 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
 <b>Container With Most Water.</b> Linear time. <i>Two pointers.</i><br>
 
-<b>Concept: Running optimum:</b>
+<b>Concept: Running optimum:</b>Keeping track of a single minimum or maximum value while iterating, avoiding the need to store history.
 
 [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Direct addressing, <ins>Running optimum</ins>.</i><br>
 <b>Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
 <b>Maximum Product Subarray.</b> Quadratic time. <i>Brute force, Running optimum.</i><br>
 
-<b>Concept: Hashing:</b>
+<b>Concept: Hashing:</b>Using a function to map data to a fixed-size table, allowing constant average time complexity for insertions and lookups.
 
 [<b>Two Sum.</b> Linearish-time. (v1)](/two-sum-linearish-time-v1/TwoSum.java) <i><ins>Hashing.</ins></i><br>
 <b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
 <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
+[<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Hashing.</i><br>
 
-<b>Concept: Symmetry:</b>
-
-[<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Hashing, <ins>Symmetry</ins>.</i><br>
-
-<b>Concept: 1D Dynamic programming:</b>
+<b>Concept: 1D Dynamic programming:</b>Solving a problem by breaking it into a linear sequence of overlapping subproblems and storing results to avoid re-computation.
 
 [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i><ins>1D Dynamic programming</ins>, Direct addressing.</i><br>
 [<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java) <i>1D Dynamic programming.</i><br>
