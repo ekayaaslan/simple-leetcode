@@ -143,8 +143,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 [<b>Design Add And Search Words Data Structure.</b> Linear time.](/design-add-and-search-words-data-structure-linear-time/DesignAddAndSearchWordsDataStructure.java) <i>Brute force, Design.</i><br>
 <b>Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
 
-<b>Concept: Backtracking:</b>
-<b>Concept: Combinatorial search:</b>
+<b>Concept: Backtracking, Combinatorial search:</b>
 
 [<b>Combination Sum.</b> Factorial time.](/combination-sum-factorial-time/CombinationSum.java) <i>Backtracking, <ins>Combinatorial Search.</ins></i><br>
 [<b>Coin Change.</b> Factorial time.](/coin-change-factorical-time/CoinChange.java) <i>Backtracking, Combinatorial Search.</i><br>
@@ -167,8 +166,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 
 [<b>Course Schedule.</b> Quadratic time.](/course-schedule-quadratic-time/CourseSchedule.java) <i><ins>Scheduling.</ins></i><br>
 
-<b>Concept: Connected components:</b>
-<b>Concept: Unrooted tree:</b>
+<b>Concept: Connected components, Unrooted tree:</b>
 
 [<b>Graph Valid Tree.</b> Linear time.](/graph-valid-tree-linear-time/GraphValidTree.java) <i>Graph traversal, <ins>Connected components</ins>, <ins>Unrooted tree.</ins></i><br>
 [<b>Number of Connected Components In An Undirected Graph.</b> Linear time.](/number-of-connected-components-in-an-undirected-graph-linear-time/NumberOfConnectedCompoinentsInAnUndirectedGraph.java) <i>Graph traversal, Connected components.</i><br>
@@ -200,9 +198,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 [<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java) <i>Brute force, <ins>Precomputing.</ins></i><br>
 <b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
 
-<b>Concept: Digits:</b>
-
-<b>Concept: Binary numbers:</b>
+<b>Concept: Digits, Binary numbers:</b>
 
 [<b>Number of 1 Bits.</b> Logarithmic time.](/number-of-1-bits-logarithmic-time/NumberOf1Bits.java) <i><ins>Digits</ins>, <ins>Binary numbers.</ins></i><br>
 [<b>Counting Bits.</b> Linearithmic time.](/counting-bits-linearithmic-time/CountingBits.java) <i>Digits, Binary numbers, Brute force, Reduction.</i><br>
