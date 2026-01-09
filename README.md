@@ -23,16 +23,16 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 [<b>Minimum Window Substring.</b> Cubic time.](/minimum-window-substring-cubic-time/MinimumWindowSubstring.java) <i>Brute force, Direct addressing.</i><br>
 [<b>Missing Number.</b> Linear time.](/missing-number-linear-time/MissingNumber.java) <i>Brute force, Direct addressing.</i><br>
 
-<b>Concept: Binary search:</b> Searching by repeatedly dividing search interval in half leading to a logaritmic time.
+<b>Binary search:</b> Searching by repeatedly dividing search interval in half leading to a logaritmic time.
 
 [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i><ins>Binary search.</ins></i><br>
 [<b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time.](/find-minimum-in-rotated-sorted-array-logarithmic-time/FindMinimumInRotatedSortedArray.java) <i>Binary search.</i><br>
 
-<b>Concept: Sorting:</b> Rearranging data in ascending or descending order in order to enable binary search or simplify comparisons.
+<b>Sorting:</b> Rearranging data in ascending or descending order in order to enable binary search or simplify comparisons.
 
 [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Brute force, <ins>Sorting.</ins></i><br>
-<b>Concept: Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
-<b>Concept: Longest Consecutive Sequence.</b> Linearithmic time. <i>Sorting.</i><br>
+<b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
+<b>Longest Consecutive Sequence.</b> Linearithmic time. <i>Sorting.</i><br>
 
 <b>Concept: Canonicalising:</b> Transforming data into a "standard" format so that equivalent items look identical.
 
@@ -42,20 +42,20 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>Concept: Two pointers:</b> A technique using two indices to traverse a data structure, typically moving towards each other or in parallel.
 
 [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i><ins>Two pointers.</ins></i><br>
-<b>Concept: 3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
-<b>Concept: Container With Most Water.</b> Linear time. <i>Two pointers.</i><br>
+<b>3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
+<b>Container With Most Water.</b> Linear time. <i>Two pointers.</i><br>
 
 <b>Concept: Running optimum:</b>
 
 [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Direct addressing, <ins>Running optimum</ins>.</i><br>
-<b>Concept: Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
-<b>Concept: Maximum Product Subarray.</b> Quadratic time. <i>Brute force, Running optimum.</i><br>
+<b>Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
+<b>Maximum Product Subarray.</b> Quadratic time. <i>Brute force, Running optimum.</i><br>
 
 <b>Concept: Hashing:</b>
 
 [<b>Two Sum.</b> Linearish-time. (v1)](/two-sum-linearish-time-v1/TwoSum.java) <i><ins>Hashing.</ins></i><br>
-<b>Concept: Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
-<b>Concept: Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
+<b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
+<b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
 
 <b>Concept: Symmetry:</b>
 
@@ -70,7 +70,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 [<b>Word Break.</b> Cubic time.](/word-break-cubic-time/WordBreak.java) <i>1D Dynamic programming.</i><br>
 [<b>Longest Increasing Subsequence.</b>](/longest-increasing-subsequence-quadratic-time/LongestIncreasingSubsequence.java) <i>1D Dynamic programming, Running optimum.</i><br>
 [<b>Jump Game.</b> Quadratic time.](/jump-game-quadratic-time/JumpGame.java) <i>1D Dynamic programming.</i><br>
-<b>Concept: Maximum Product Subarray.</b> Linear time. <i>1D Dynamic programming.</i><br>
+<b>Maximum Product Subarray.</b> Linear time. <i>1D Dynamic programming.</i><br>
 
 <b>Concept: Parantheses:</b>
 
@@ -124,7 +124,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>Concept: Tree dynamic programming:</b>
 
 [<b>Lowest Common Ancestor of a Binary Tree.</b> Linear time.](/lowest-common-ancestor-of-a-binary-tree-linear-time/LowestCommonAncestorOfABinaryTree.java) <i>Binary Tree, <ins>Tree Dynamic programming.</ins></i><br>
-<b>Concept: Binary Tree Maximum Path Sum.</b> Linear time. <i>Binary Tree, Tree dynamic programming.</i><br>
+<b>Binary Tree Maximum Path Sum.</b> Linear time. <i>Binary Tree, Tree dynamic programming.</i><br>
 
 <b>Concept: Binary search tree:</b>
 
@@ -144,7 +144,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 [<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java) <i>Sorting, Brute force, <ins>Design</ins>.</i><br>
 [<b>Implement Trie Prefix Tree.</b> Linear time.](/implement-trie-prefix-tree-linear-time/ImplementTriePrefixTree.java)<i>Brute force, Design.</i><br>
 [<b>Design Add And Search Words Data Structure.</b> Linear time.](/design-add-and-search-words-data-structure-linear-time/DesignAddAndSearchWordsDataStructure.java) <i>Brute force, Design.</i><br>
-<b>Concept: Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
+<b>Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
 
 <b>Concept: Backtracking:</b>
 <b>Concept: Combinatorial search:</b>
@@ -188,7 +188,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 
 [<b>Unique Paths.</b> Quadratic time.](/unique-paths-quadratic-time/UniquePaths.java) <i>Combinatorics, Reduction, <ins>2D Dynamic programming</ins>.</i><br>
 [<b>Longest Common Subsequence.</b> Quadratic time.](/longest-common-subsequence-quadratic-time/LongestCommonSubsequence.java) <i>2D Dynamic programming.</i><br>
-<b>Concept: Coin Change.</b> Quadratic time. <i>2D Dynamic programming.</i><br>
+<b>Coin Change.</b> Quadratic time. <i>2D Dynamic programming.</i><br>
 
 <b>Concept: Prefix sum:</b>
 
@@ -201,7 +201,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 <b>Concept: Precomputing:</b>
 
 [<b>Set Matrix Zeroes.</b> Linear time.](/set-matrix-zeros-linear-time/SetMatrixZeros.java) <i>Brute force, <ins>Precomputing.</ins></i><br>
-<b>Concept: Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
+<b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
 
 <b>Concept: Digits:</b>
 <b>Concept: Binary numbers:</b>
@@ -209,7 +209,7 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 [<b>Number of 1 Bits.</b> Logarithmic time.](/number-of-1-bits-logarithmic-time/NumberOf1Bits.java) <i><ins>Digits</ins>, <ins>Binary numbers.</ins></i><br>
 [<b>Counting Bits.</b> Linearithmic time.](/counting-bits-linearithmic-time/CountingBits.java) <i>Digits, Binary numbers, Brute force, Reduction.</i><br>
 [<b>Reverse Bits.</b> Logarithmic time.](/reverse-bits-logarithmic-time/ReverseBits.java) <i>Digits, Binary numbers</i><br>
-<b>Concept: Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
+<b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
 
 <b>Concept: Addition:</b>
 <b>Concept: 2s Complements:</b>
@@ -218,25 +218,25 @@ A solution-centric approach to the neetcode Blind-75 questions. It covers 75+8 q
 
 <b>Concept: Intervals:</b>
 
-<b>Concept: Insert Interval.</b> Linear time. <i>Linear search, <ins>Intervals</ins></i><br>
+<b>Insert Interval.</b> Linear time. <i>Linear search, <ins>Intervals</ins></i><br>
 
 <b>Concept: Interval sorting:</b>
 
-<b>Concept: Merge Intervals.</b> Linearithmic time. <i><ins>Interval sorting.</ins></i><br>
-<b>Concept: Meeting Rooms.</b> Linearithmic time. <i>Interval sorting.</i><br>
-<b>Concept: Non Overlapping Intervals.</b> Linearithmic time. <i>Interval sorting, 1D Dynamic programing.</i><br>
+<b>Merge Intervals.</b> Linearithmic time. <i><ins>Interval sorting.</ins></i><br>
+<b>Meeting Rooms.</b> Linearithmic time. <i>Interval sorting.</i><br>
+<b>Non Overlapping Intervals.</b> Linearithmic time. <i>Interval sorting, 1D Dynamic programing.</i><br>
 
 <b>Concept: Sweeping line:</b>
 
-<b>Concept: Meeting Rooms II.</b> Linearithmic time. <i>Interval sorting, Greedy, <ins>Sweeping line.</ins></i><br>
+<b>Meeting Rooms II.</b> Linearithmic time. <i>Interval sorting, Greedy, <ins>Sweeping line.</ins></i><br>
 
 <b>Concept: Divide and conquer:</b>
 
-<b>Concept: Maximum Subarray.</b> Linearithmic time. <i><ins>Divide and conquer.</ins></i><br>
+<b>Maximum Subarray.</b> Linearithmic time. <i><ins>Divide and conquer.</ins></i><br>
 
 <b>Concept: Cyclic shift:</b>
 
-<b>Concept: Rotate Image.</b> Linear time. <i>Reduction, <ins>Cyclic shift.</ins></i><br>
+<b>Rotate Image.</b> Linear time. <i>Reduction, <ins>Cyclic shift.</ins></i><br>
 
 <b>Concept: Anagrams:</b>
 
