@@ -227,35 +227,111 @@ Interval sorting.
 * <b>Meeting Rooms.</b> Linearithmic time. <i>Interval sorting.</i><br>
 * <b>Non Overlapping Intervals.</b> Linearithmic time. <i>Interval sorting, 1D Dynamic programing.</i><br>
 
+Addition, 2s complement.
+
 * [<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, <ins>Addition</ins>, <ins>2s complement</ins>.</i><br>
+
+Sweeping line.
+
 * <b>Meeting Rooms II.</b> Linearithmic time. <i>Interval sorting, Greedy, <ins>Sweeping line.</ins></i><br>
+
+Divide and conquer.
+
 * <b>Maximum Subarray.</b> Linearithmic time. <i><ins>Divide and conquer.</ins></i><br>
+
+Cyclic shift.
+
 * <b>Rotate Image.</b> Linear time. <i>Reduction, <ins>Cyclic shift.</ins></i><br>
+
+Anagrams.
+
 * <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, <ins>Anagrams</ins></i><br>
+
+Grouping, Bidirectional expansion.
+
 * <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, <ins>Grouping.</ins>, <ins>Bidirectional expansion</ins></i><br>
+
+Two pivots.
+
 * <b>Reorder List.</b> Linear time. <i>Linked List, <ins>Two pivots.</ins></i><br>
+
+Fast-slow pivots.
+
 * <b>Linked List Cycle.</b> Linear time. <i>Linked List, <ins>Fast-slow pivots.</ins></i><br>
+
+FIFO queue.
+
 * <b>Binary Tree Level Order Traversal.</b> Linear time. <i><ins>FIFO queue.</ins></i>.<br>
+
+Trie.
+
 * <b>Implement Trie Prefix Tree.</b> Sublinear time. <i>Design, <ins>Trie.</ins></i><br>
-* <b>Design Add And Search Words Data Structure.</b> Sublinear time. <i>Design, Trie, Backtracking, <ins>Tree search</ins></i><br>
+
+Tree search.
+* <b>Design Add And Search Words Data Structure.</b> Sublinear time. <i>Design, Trie, Backtracking, <ins>Tree search.</ins></i><br>
+
+Graph search.
+
 * <b>Pacific Atlantic Water Flow.</b> Linear time. <i>Reduction, <ins>Graph search</ins>, Depth first search.</i><br>
+
+Graph cycles.
+
 * <b>Course Schedule.</b> Linear time. <i>Reduction, <ins>Graph cycles.</ins></i><br>
 * <b>Graph Valid Tree.</b> Linear time. <i>Graph cycles, Unrooted tree.</i><br>
+
+Directed acyclic graphs, Topological order.
+
 * <b>Alien Dictionary.</b> Quadratic time. <i>Reduction, <ins>Directed acyclic graphs</ins>, <ins>Topological order.</ins>.</i><br>
+
+Greedy, Search resest.
+
 * <b>Maximum Subarray.</b> Linear time. <i><ins>Greedy</ins>, <ins>Search reset.</ins></i><br>
+
+Union-find.
+
 * <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i><ins>Union-find.</ins></i><br>
 * <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Union-find.</i><br>
+
+Bucket sort.
+
 * <b>Top K Frequent Elements</b> Linear time. <i><ins>Bucket sort.</ins></i><br>
+
+Bitwise XOR.
+
 * <b>Missing Number.</b> Linear time. <i><ins>Bitwise XOR.</ins></i><br>
 
-Beyond Blind-75.
+Balanced trees.
 
 * <b>Largest Rectangle in Histogram.</b> Linearithmic time. <i>Priority queues, <ins>Balanced trees</ins>.</i><br>
+
+Monotonic stack.
+
 * <b>Largest Rectangle in Histogram.</b> Linear time. <i>Running optimum, <ins>Monotonic stack.</ins></i><br>
+
+Bag.
+
 * <b>Insert Delete GetRandom.</b> Constant time. <i>Design, <ins>Bag</ins></i><br>
+
+Shortest path.
+
 * <b>Network Delay Time</b> Linearithmic time. <i><ins>Shortest path.</ins></i><br>
+
+Breath first search.
+
 * <b>Word Ladder</b> Quadratic time. <i><ins>Breath first search.</ins></i><br>
+
+Multi-source BFS.
+
 * <b>Rotting Oranges</b> Linear time. <i>2D Search, <ins>Multi-source BFS.</ins></i><br>
+
+Minimum spanning tree.
+
 * <b>Min Cost to Connect All Points.</b> Linearithmic time. <i><ins>Minimum spanning tree.</ins></i><br>
+
+DAG Dynamic programming.
+
 * <b>Longest Increasing Path in a Matrix</b> Linear time. <i><ins>DAG Dynamic programming</ins></i><br>
+
+Three pointers.
+
 * <b>Sort Colors.</b> Linear time. <i><ins>Three pointers.</ins></i><br>
