@@ -15,86 +15,161 @@ NC03. Two Sum
 NC04. Group Anagrams
 
 NC05. Top K Frequent Elements
+
 NC06. Encode and Decode Strings
+
 NC07. Product of Array Except Self
+
 NC08. Longest Consecutive Sequence
+
 NC09. Valid Palindrome
+
 NC10. 3Sum
+
 NC11. Container With Most Water
+
 NC12. Best Time to Buy And Sell Stock
+
 NC13. Longest Substring Without Repeating Characters
+
 NC14. Longest Repeating Character Replacement
+
 NC15. Minimum Window Substring
+
 NC16. Valid Parentheses
+
 NC17. Find Minimum In Rotated Sorted Array
+
 NC18. Search In Rotated Sorted Array
+
 NC19. Reverse Linked List
+
 NC20. Merge Two Sorted Lists
+
 NC21. Linked List Cycle
+
 NC22. Reorder List
+
 NC23. Remove Nth Node From End of List
+
 NC24. Merge K Sorted Lists
+
 NC25. Invert Binary Tree
+
 NC26. Maximum Depth of Binary Tree
+
 NC27. Same Tree
+
 NC28. Subtree of Another Tree
+
 NC29. Lowest Common Ancestor of a Binary Search Tree
+
 NC30. Binary Tree Level Order Traversal
+
 NC31. Validate Binary Search Tree
+
 NC32. Kth Smallest Element In a Bst
+
 NC33. Construct Binary Tree From Preorder And Inorder Traversal
+
 NC34. Binary Tree Maximum Path Sum
+
 NC35. Serialize And Deserialize Binary Tree
+
 NC36. Find Median From Data Stream
+
 NC37. Combination Sum
+
 NC38. Word Search
+
 NC39. Implement Trie Prefix Tree
+
 NC40. Design Add And Search Words Data Structure
+
 NC41. Word Search II
+
 NC42. Number of Islands
+
 NC43. Clone Graph
+
 NC44. Pacific Atlantic Water Flow
+
 NC45. Course Schedule
+
 NC46. Graph Valid Tree
+
 NC47. Number of Connected Components In An Undirected Graph
+
 NC48. Alien Dictionary
+
 NC49. Climbing Stairs
+
 NC50. House Robber
+
 NC51. House Robber II
+
 NC52. Longest Palindromic Substring
+
 NC53. Palindromic Substrings
+
 NC54. Decode Ways
+
 NC55. Coin Change
+
 NC56. Maximum Product Subarray
+
 NC57. Word Break
+
 NC58. Longest Increasing Subsequence
+
 NC59. Unique Paths
+
 NC60. Longest Common Subsequence
+
 NC61. Maximum Subarray
+
 NC62. Jump Game
+
 NC63. Insert Interval
+
 NC64. Merge Intervals
+
 NC65. Non Overlapping Intervals
+
 NC66. Meeting Rooms
+
 NC67. Meeting Rooms II
+
 NC68. Rotate Image
+
 NC69. Spiral Matrix
+
 NC70. Set Matrix Zeroes
+
 NC71. Number of 1 Bits
+
 NC72. Counting Bits
+
 NC73. Reverse Bits
+
 NC74. Missing Number
+
 NC75. Sum of Two Integers
 
-Beyond Blind-75.
-
 LC0084. Largest Rectangle in Histogram
+
 LC0380. Insert Delete GetRandom
+
 LC0743. Network Delay Time
+
 LC0127. Word Ladder
+
 LC0994. Rotting Oranges
+
 LC1584. Min Cost to Connect All Points
+
 LC0329. Longest Increasing Path in a Matrix
+
 LC0075. Sort Colors
 
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i>Linear search.</i> <br> 
