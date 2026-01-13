@@ -2,11 +2,103 @@ A solution-centric approach to the neetcode Blind-75 questions.
 
 Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Sweeping line, Divide and conquer, Cyclic shift, Anagrams, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Trie, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset, Union-find, Bucket sort, Bitwise XOR, Balanced trees, Monotonic stack, Bag, Shortest path, Breath first search, Multi-source BFS, Minimum spanning tree, DAG Dynamic programming, Three pointers.</i>
 
+NC01. Contains Duplicate
+* [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i><br>
+
+NC02. Valid Anagram
+* [<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, Canonicalising.</i><br>
+* <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
+
+NC03. Two Sum
+* [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i><br>
+
+NC04. Group Anagrams
+NC05. Top K Frequent Elements
+NC06. Encode and Decode Strings
+NC07. Product of Array Except Self
+NC08. Longest Consecutive Sequence
+NC09. Valid Palindrome
+NC10. 3Sum
+NC11. Container With Most Water
+NC12. Best Time to Buy And Sell Stock
+NC13. Longest Substring Without Repeating Characters
+NC14. Longest Repeating Character Replacement
+NC15. Minimum Window Substring
+NC16. Valid Parentheses
+NC17. Find Minimum In Rotated Sorted Array
+NC18. Search In Rotated Sorted Array
+NC19. Reverse Linked List
+NC20. Merge Two Sorted Lists
+NC21. Linked List Cycle
+NC22. Reorder List
+NC23. Remove Nth Node From End of List
+NC24. Merge K Sorted Lists
+NC25. Invert Binary Tree
+NC26. Maximum Depth of Binary Tree
+NC27. Same Tree
+NC28. Subtree of Another Tree
+NC29. Lowest Common Ancestor of a Binary Search Tree
+NC30. Binary Tree Level Order Traversal
+NC31. Validate Binary Search Tree
+NC32. Kth Smallest Element In a Bst
+NC33. Construct Binary Tree From Preorder And Inorder Traversal
+NC34. Binary Tree Maximum Path Sum
+NC35. Serialize And Deserialize Binary Tree
+NC36. Find Median From Data Stream
+NC37. Combination Sum
+NC38. Word Search
+NC39. Implement Trie Prefix Tree
+NC40. Design Add And Search Words Data Structure
+NC41. Word Search II
+NC42. Number of Islands
+NC43. Clone Graph
+NC44. Pacific Atlantic Water Flow
+NC45. Course Schedule
+NC46. Graph Valid Tree
+NC47. Number of Connected Components In An Undirected Graph
+NC48. Alien Dictionary
+NC49. Climbing Stairs
+NC50. House Robber
+NC51. House Robber II
+NC52. Longest Palindromic Substring
+NC53. Palindromic Substrings
+NC54. Decode Ways
+NC55. Coin Change
+NC56. Maximum Product Subarray
+NC57. Word Break
+NC58. Longest Increasing Subsequence
+NC59. Unique Paths
+NC60. Longest Common Subsequence
+NC61. Maximum Subarray
+NC62. Jump Game
+NC63. Insert Interval
+NC64. Merge Intervals
+NC65. Non Overlapping Intervals
+NC66. Meeting Rooms
+NC67. Meeting Rooms II
+NC68. Rotate Image
+NC69. Spiral Matrix
+NC70. Set Matrix Zeroes
+NC71. Number of 1 Bits
+NC72. Counting Bits
+NC73. Reverse Bits
+NC74. Missing Number
+NC75. Sum of Two Integers
+
+Beyond Blind-75.
+
+LC0084. Largest Rectangle in Histogram
+LC0380. Insert Delete GetRandom
+LC0743. Network Delay Time
+LC0127. Word Ladder
+LC0994. Rotting Oranges
+LC1584. Min Cost to Connect All Points
+LC0329. Longest Increasing Path in a Matrix
+LC0075. Sort Colors
+
 [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i>Linear search.</i> <br> 
 [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
 [<b>Valid Palindrome.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Brute force.</i><br>
-[<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i><br>
-[<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i><br>
 [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i><br>
 [<b>Longest Consecutive Sequence.</b> Cubic-time.](/longest-consecutive-sequence-cubic-time/LongestConsecutiveSequence.java) <i>Brute force.</i><br>
 [<b>Container With Most Water.</b> Quadratic-time.](/container-with-most-water-quadratic-time/ContainerWithMostWater.java) <i>Brute force.</i><br>
@@ -16,7 +108,6 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i><br>
 [<b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time.](/find-minimum-in-rotated-sorted-array-logarithmic-time/FindMinimumInRotatedSortedArray.java) <i>Binary search.</i><br>
 [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Brute force, Sorting.</i><br>
-[<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, Canonicalising.</i><br>
 [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i><br>
 [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i>Two pointers.</i><br>
 [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i>Encoding.</i><br>
@@ -81,7 +172,6 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 [<b>Reverse Bits.</b> Logarithmic time.](/reverse-bits-logarithmic-time/ReverseBits.java) <i>Digits, Binary numbers</i><br>
 [<b>Missing Number.</b> Linear time.](/missing-number-linear-time/MissingNumber.java) <i>Brute force, Direct addressing.</i><br>
 [<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, Addition, 2s complement.</i><br>
-
 <b>Insert Interval.</b> Linear time. <i>Linear search, Intervals</i><br>
 <b>Merge Intervals.</b> Linearithmic time. <i>Interval sorting.</i><br>
 <b>Non Overlapping Intervals.</b> Linearithmic time. <i>Interval sorting, 1D Dynamic programing.</i><br>
@@ -91,7 +181,6 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Rotate Image.</b> Linear time. <i>Reduction, Cyclic shift.</i><br>
 <b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
 <b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
-<b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
 <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
 <b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
 <b>Longest Consecutive Sequence.</b> Linearithmic time. <i>Sorting.</i><br>
@@ -125,9 +214,6 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Union-find.</i><br>
 <b>Top K Frequent Elements</b> Linear time. <i>Bucket sort.</i><br>
 <b>Missing Number.</b> Linear time. <i>Bitwise XOR.</i><br>
-
-Beyond Blind-75.
-
 <b>Largest Rectangle in Histogram.</b> Linearithmic time. <i>Priority queues, Balanced trees.</i><br>
 <b>Largest Rectangle in Histogram.</b> Linear time. <i>Running optimum, Monotonic stack.</i><br>
 <b>Insert Delete GetRandom.</b> Constant time. <i>Design, Bag</i><br>
