@@ -7,7 +7,7 @@ private:
         if (lo == hi) {
             return false;
         }
-        int mid = (lo+hi)/2; //lo-mid, mid+1-hi
+        int mid = (lo+hi)/2;
         if (search(nums, lo, mid)) {
             return true;
         }
