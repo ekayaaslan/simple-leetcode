@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/contains-duplicate
-// Linearlogsquared time, linearithmic extra-space.
+// Linearlogsquared time, linear extra-space.
 // Concepts: Divide and conquer, Recursive search, Balanced trees
 class ContainsDuplicate {
 private:

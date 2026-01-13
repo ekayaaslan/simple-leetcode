@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/contains-duplicate
-// Linearithmic time, linearithmic extra-space.
+// Linearithmic time, linear extra-space.
 // Concepts: Balanced trees, Counting.
 class ContainsDuplicate {
 public:
