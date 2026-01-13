@@ -4,10 +4,10 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 
 NC01. Contains Duplicate
 * [<b>Contains Duplicate.</b> Quadratic time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force, Symmetry.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmic time. V1](/contains-duplicate-linearithmic-time-v1/ContainsDuplicate.cpp) <i>Sorting, Linear search.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmic time. V2](/contains-duplicate-linearithmic-time-v2/ContainsDuplicate.cpp) <i>Divide and conquer.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time. V1](/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) Linearish-time. <i>Hashing.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time. V1](/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) Linearish-time. <i>Hashing, Symmetry.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmic time. V1.](/contains-duplicate-linearithmic-time-v1/ContainsDuplicate.cpp) <i>Sorting, Linear search.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmic time. V2.](/contains-duplicate-linearithmic-time-v2/ContainsDuplicate.cpp) <i>Divide and conquer.</i><br>
+* [<b>Contains Duplicate.</b> Linearish time. V1.](/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) Linearish-time. <i>Hashing.</i><br>
+* [<b>Contains Duplicate.</b> Linearish time. V2.](/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) Linearish-time. <i>Hashing, Symmetry.</i><br>
 
 NC02. Valid Anagram
 * [<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, Canonicalising.</i><br>
