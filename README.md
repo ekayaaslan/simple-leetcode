@@ -5,8 +5,10 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 NC01. Contains Duplicate
 * [<b>Contains Duplicate.</b> Quadratic time.](/contains-duplicate-quadratic-time/ContainsDuplicate.cpp) <i>Brute force, Symmetry.</i><br>
 * [<b>Contains Duplicate.</b> Linearithmic time. V1.](/contains-duplicate-linearithmic-time-v1/ContainsDuplicate.cpp) <i>Sorting, Linear search.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmic time. V2.](/contains-duplicate-linearithmic-time-v2/ContainsDuplicate.cpp) <i>Divide and conquer.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time. V1.](/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) Linearish-time. <i>Hashing.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmic time. V2.](/contains-duplicate-linearithmic-time-v2/ContainsDuplicate.cpp) <i>Divide and conquer, Recursive search.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmic time. V2.](/contains-duplicate-linearithmic-time-v3/ContainsDuplicate.cpp) <i>Balanced trees, Counting.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmic time. V2.](/contains-duplicate-linearithmic-time-v4/ContainsDuplicate.cpp) <i>Balanced trees, Symmetry.</i><br>
+* [<b>Contains Duplicate.</b> Linearish time. V1.](/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) Linearish-time. <i>Hashing, Counting.</i><br>
 * [<b>Contains Duplicate.</b> Linearish time. V2.](/contains-duplicate-linearish-time-v2/ContainsDuplicate.cpp) Linearish-time. <i>Hashing, Symmetry.</i><br>
 
 NC02. Valid Anagram
