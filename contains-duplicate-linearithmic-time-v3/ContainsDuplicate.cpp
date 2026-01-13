@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/contains-duplicate
 // Linearithmic time, linearithmic extra-space.
 // Concepts: Balanced trees, Counting.
-class Solution {
+class ContainsDuplicate {
 public:
     bool containsDuplicate(vector<int>& nums) {
         map<int,int> counts;
