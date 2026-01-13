@@ -3,15 +3,15 @@ A solution-centric approach to the neetcode Blind-75 questions.
 Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Sweeping line, Divide and conquer, Cyclic shift, Anagrams, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Trie, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset, Union-find, Bucket sort, Bitwise XOR, Balanced trees, Monotonic stack, Bag, Shortest path, Breath first search, Multi-source BFS, Minimum spanning tree, DAG Dynamic programming, Three pointers.</i>
 
 NC01. Contains Duplicate
-* * [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i><br>
+* [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i><br>
 
 NC02. Valid Anagram
-* * [<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, Canonicalising.</i><br>
-* * <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
+* [<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, Canonicalising.</i><br>
+* <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
 
 NC03. Two Sum
-* * [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i><br>
-* * [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i><br>
+* [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i><br>
+* [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i><br>
 
 NC04. Group Anagrams
 
@@ -20,21 +20,21 @@ NC05. Top K Frequent Elements
 NC06. Encode and Decode Strings
 
 NC07. Product of Array Except Self
-* * [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i><br>
+* [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i><br>
 
 NC08. Longest Consecutive Sequence
-* * [<b>Longest Consecutive Sequence.</b> Cubic-time.](/longest-consecutive-sequence-cubic-time/LongestConsecutiveSequence.java) <i>Brute force.</i><br>
+* [<b>Longest Consecutive Sequence.</b> Cubic-time.](/longest-consecutive-sequence-cubic-time/LongestConsecutiveSequence.java) <i>Brute force.</i><br>
 
 NC09. Valid Palindrome
-* * [<b>Valid Palindrome.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Brute force.</i><br>
+* [<b>Valid Palindrome.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Brute force.</i><br>
 
 NC10. 3Sum
 
 NC11. Container With Most Water
-* * [<b>Container With Most Water.</b> Quadratic-time.](/container-with-most-water-quadratic-time/ContainerWithMostWater.java) <i>Brute force.</i><br>
+* [<b>Container With Most Water.</b> Quadratic-time.](/container-with-most-water-quadratic-time/ContainerWithMostWater.java) <i>Brute force.</i><br>
 
 NC12. Best Time to Buy And Sell Stock
-* * [<b>Best Time to Buy And Sell Stock.</b> Quadratic-time.](/best-time-to-buy-and-sell-stock-quadratic-time/BestTimeToBuyAndSellStock.java) <i>Brute force.</i><br>
+* [<b>Best Time to Buy And Sell Stock.</b> Quadratic-time.](/best-time-to-buy-and-sell-stock-quadratic-time/BestTimeToBuyAndSellStock.java) <i>Brute force.</i><br>
 
 NC13. Longest Substring Without Repeating Characters
 * [<b>Longest Substring Without Repeating Characters.</b> Cubic time.](/longest-substring-without-repeating-characters-cubic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Brute force, Direct addressing.</i><br>
@@ -47,10 +47,10 @@ NC15. Minimum Window Substring
 NC16. Valid Parentheses
 
 NC17. Find Minimum In Rotated Sorted Array
-* * [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i>Linear search.</i> <br>
+* [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i>Linear search.</i> <br>
 
 NC18. Search In Rotated Sorted Array
-* * [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
+* [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
 
 NC19. Reverse Linked List
 
