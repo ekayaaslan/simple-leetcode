@@ -4,8 +4,6 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 
 NC01. Contains Duplicate
 * [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i><br>
-
-
 * <b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
 * <b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
 
