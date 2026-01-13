@@ -15,11 +15,15 @@ NC02. Valid Anagram
 * <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
 
 NC03. Two Sum
-* <b>Two Sum.</b> Quadratic-time. <i>Brute force.</i><br>
-* <b>Two Sum.</b> Linearithmic-time. <i>Binary search.</i><br>
-* <b>Two Sum.</b> Linear-time. <i>Two pointers.</i><br>
-* <b>Two Sum.</b> Linearish-time. V1. <i>Hashing.</i><br>
-* <b>Two Sum.</b> Linearish-time. V2. <i>Hashing, Symmetry.</i><br>
+* <b>Two Sum.</b> Quadratic time. <i>Brute force.</i><br>
+* <b>Two Sum.</b> Linearlogsquared time. <i>Divide and conquer, Recursive search, Balanced trees.</i><br>
+* <b>Two Sum.</b> Linearithmicish time. <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* <b>Two Sum.</b> Linearithmic time. V1. <i>Sorting, Binary search, Symmetry</i><br>
+* <b>Two Sum.</b> Linearithmic time. V2. <i>Sorting, Two pointers.</i><br>
+* <b>Two Sum.</b> Linearithmic time. V3. <i>Balanced trees, Counting.</i><br>
+* <b>Two Sum.</b> Linearithmic time. V4. <i>Balanced trees, Symmetry.</i><br>
+* <b>Two Sum.</b> Linearish time. V1. <i>Hashing, Counting.</i><br>
+* <b>Two Sum.</b> Linearish time. V2. <i>Hashing, Symmetry.</i><br>
 
 NC04. Group Anagrams
 * <b>Group Anagrams.</b> Quadratic-time. <i>Sorting, Canonicalising.</i><br>
