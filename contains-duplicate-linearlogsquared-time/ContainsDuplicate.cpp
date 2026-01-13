@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/contains-duplicate
+// Linearlogsquared time, linearithmic extra-space.
+// Concepts: Divide and conquer, Recursive search, Balanced trees
 class ContainsDuplicate {
 private:
     bool search(vector<int>& nums, int lo, int hi) {
