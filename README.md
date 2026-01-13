@@ -20,10 +20,10 @@ NC03. Two Sum
 * <b>Two Sum.</b> Linearithmicish time. <i>Divide and conquer, Recursive search, Hashing.</i><br>
 * <b>Two Sum.</b> Linearithmic time. V1. <i>Sorting, Binary search, Symmetry</i><br>
 * <b>Two Sum.</b> Linearithmic time. V2. <i>Sorting, Two pointers.</i><br>
-* <b>Two Sum.</b> Linearithmic time. V3. <i>Balanced trees, Counting.</i><br>
-* <b>Two Sum.</b> Linearithmic time. V4. <i>Balanced trees, Symmetry.</i><br>
-* <b>Two Sum.</b> Linearish time. V1. <i>Hashing, Counting.</i><br>
-* <b>Two Sum.</b> Linearish time. V2. <i>Hashing, Symmetry.</i><br>
+* <b>Two Sum.</b> Linearithmic time. V3. <i>Balanced trees, Counting, Data-index pairing.</i><br>
+* <b>Two Sum.</b> Linearithmic time. V4. <i>Balanced trees, Symmetry, Data-index pairing.</i><br>
+* <b>Two Sum.</b> Linearish time. V1. <i>Hashing, Counting, Data-index pairing.</i><br>
+* <b>Two Sum.</b> Linearish time. V2. <i>Hashing, Symmetry, Data-index pairing.</i><br>
 
 NC04. Group Anagrams
 * <b>Group Anagrams.</b> Quadratic-time. <i>Sorting, Canonicalising.</i><br>
