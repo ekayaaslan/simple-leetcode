@@ -1,7 +1,5 @@
 A solution-centric approach to the neetcode Blind-75 questions.
 
-Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary search, Sorting, Canonicalising, Two pointers, Encoding, Running optimum, Hashing, Symmetry, 1D Dynamic programming, Parantheses, Stack, State compression, Priority queue, Linked List, Transormations, Reduction, Recursion, Recursive search, Tree dynamic programming, Binary search tree, Design, Combinatorial search, Backtracking, 2D Search, Depth first search, Graph traversal, Scheduling, Connected components, Unrooted tree, Permutations, Combinatorics, 2D Dynamic programming, Prefix sum, 2D Navigation, Precomputing, Digits, Binary numbers, Addition, 2s Complement, Intervals, Interval sorting, Sweeping line, Divide and conquer, Cyclic shift, Anagrams, Grouping, Bidirectional expansion, Sliding window, Two pivots, Fast-slow pivots, FIFO queue, Trie, Tree search, Graph search, Graph cycles, Directed acyclic graph, Topological order, Palindrom center, Greedy, Search reset, Union-find, Bucket sort, Bitwise XOR, Balanced trees, Monotonic stack, Bag, Shortest path, Breath first search, Multi-source BFS, Minimum spanning tree, DAG Dynamic programming, Three pointers.</i>
-
 NC01. Contains Duplicate
 * [<b>Contains Duplicate.</b> Quadratic time.](/contains-duplicate-quadratic-time/ContainsDuplicate.cpp) <i>Brute force, Symmetry.</i><br>
 * [<b>Contains Duplicate.</b> Linearithmic time. V1.](/contains-duplicate-linearithmic-time-v1/ContainsDuplicate.cpp) <i>Sorting, Linear search.</i><br>
