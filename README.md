@@ -17,13 +17,13 @@ NC02. Valid Anagram
 NC03. Two Sum
 * [<b>Two Sum.</b> Quadratic time.](/two-sum/two-sum-quadratic-time/TwoSum.cpp) <i>Brute force.</i><br>
 * [<b>Two Sum.</b> Linearlogsquared time.](/two-sum/two-sum-linearlogsquared-time/TwoSum.cpp) <i>Divide and conquer, Recursive search, Balanced trees.</i><br>
-* [<b>Two Sum.</b> Linearithmicish time.](/two-sum/two-sum-linearithmicish-time/TwoSum.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* <b>Two Sum.</b> Linearithmicish time. <i>Divide and conquer, Recursive search, Hashing.</i><br>
 * [<b>Two Sum.</b> Linearithmic time. V1.](/two-sum/two-sum-linearithmic-time-v1/TwoSum.cpp) <i>Sorting, Binary search, Symmetry</i><br>
 * [<b>Two Sum.</b> Linearithmic time. V2.](/two-sum/two-sum-linearithmic-time-v2/TwoSum.cpp) <i>Sorting, Two pointers.</i><br>
-* [<b>Two Sum.</b> Linearithmic time. V3.](/two-sum/two-sum-linearithmic-time-v3/TwoSum.cpp) <i>Balanced trees, Counting, Data-index pairing.</i><br>
-* [<b>Two Sum.</b> Linearithmic time. V4.](/two-sum/two-sum-linearithmic-time-v4/TwoSum.cpp) <i>Balanced trees, Symmetry, Data-index pairing.</i><br>
-* [<b>Two Sum.</b> Linearish time. V1.](/two-sum/two-sum-linearish-time-v1/TwoSum.cpp) <i>Hashing, Counting, Data-index pairing.</i><br>
-* [<b>Two Sum.</b> Linearish time. V2.](/two-sum/two-sum-linearish-time-v2/TwoSum.cpp) <i>Hashing, Symmetry, Data-index pairing.</i><br>
+* <b>Two Sum.</b> Linearithmic time. V3. <i>Balanced trees, Counting, Data-index pairing.</i><br>
+* <b>Two Sum.</b> Linearithmic time. V4. <i>Balanced trees, Symmetry, Data-index pairing.</i><br>
+* <b>Two Sum.</b> Linearish time. V1. <i>Hashing, Counting, Data-index pairing.</i><br>
+* <b>Two Sum.</b> Linearish time. V2. <i>Hashing, Symmetry, Data-index pairing.</i><br>
 
 NC04. Group Anagrams
 * <b>Group Anagrams.</b> Quadratic-time. <i>Sorting, Canonicalising.</i><br>
