@@ -4,12 +4,12 @@
 class ContainsDuplicate {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        std::set<int> set;
+        set<int> numset;
         for (int num : nums) {
-            if (set.contains(num)) {
+            if (numset.contains(num)) {
                 return true;
             }
-            set.insert(num);
+            numset.insert(num);
         }
         return false;
     }
