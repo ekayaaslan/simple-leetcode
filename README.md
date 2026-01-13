@@ -12,12 +12,18 @@ NC02. Valid Anagram
 NC03. Two Sum
 * [<b>Two Sum.</b> Quadratic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Brute force.</i><br>
 * [<b>Two Sum.</b> Linearithmic-time.](/two-sum-quadratic-time/TwoSum.java) <i>Binary search.</i><br>
+* [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i>Two pointers.</i><br>
+* [<b>Two Sum.</b> Linearish-time. (v1)](/two-sum-linearish-time-v1/TwoSum.java) <i>Hashing.</i><br>
+* [<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Hashing, Symmetry.</i><br>
 
 NC04. Group Anagrams
+* [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i><br>
 
 NC05. Top K Frequent Elements
+* [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Priority queue.</i><br>
 
 NC06. Encode and Decode Strings
+* [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i>Encoding.</i><br>
 
 NC07. Product of Array Except Self
 * [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i><br>
@@ -29,6 +35,7 @@ NC09. Valid Palindrome
 * [<b>Valid Palindrome.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Brute force.</i><br>
 
 NC10. 3Sum
+* [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Brute force, Sorting.</i><br>
 
 NC11. Container With Most Water
 * [<b>Container With Most Water.</b> Quadratic-time.](/container-with-most-water-quadratic-time/ContainerWithMostWater.java) <i>Brute force.</i><br>
@@ -38,31 +45,45 @@ NC12. Best Time to Buy And Sell Stock
 
 NC13. Longest Substring Without Repeating Characters
 * [<b>Longest Substring Without Repeating Characters.</b> Cubic time.](/longest-substring-without-repeating-characters-cubic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Brute force, Direct addressing.</i><br>
+* [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Direct addressing, Running optimum.</i><br>
+* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i><br>
+* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i><br>
 
 NC14. Longest Repeating Character Replacement
+* [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, Reduction.</i><br>
 
 NC15. Minimum Window Substring
 * [<b>Minimum Window Substring.</b> Cubic time.](/minimum-window-substring-cubic-time/MinimumWindowSubstring.java) <i>Brute force, Direct addressing.</i><br>
 
-NC16. Valid Parentheses
+NC16. Valid Parantheses
+* [<b>Valid Parantheses.</b> Quadratic time.](/valid-parantheses-quadratic-time/ValidParantheses.java) <i>Brute force, Parantheses.</i><br>
+* [<b>Valid Parantheses.</b> Linear time.](/valid-parantheses-linear-time/ValidParantheses.java) <i>Stack.</i><br>
 
 NC17. Find Minimum In Rotated Sorted Array
 * [<b>Find Minimum In Rotated Sorted Array.</b> Linear time.](/find-minimum-in-rotated-sorted-array-linear-time/FindMinimumInRotatedSortedArray.java) <i>Linear search.</i> <br>
+* [<b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time.](/find-minimum-in-rotated-sorted-array-logarithmic-time/FindMinimumInRotatedSortedArray.java) <i>Binary search.</i><br>
 
 NC18. Search In Rotated Sorted Array
 * [<b>Search In Rotated Sorted Array.</b> Linear time.](/search-in-rotated-sorted-array-linear-time/SearchInRotatedSortedArray.java) <i>Linear search.</i> <br>
+* [<b>Search In Rotated Sorted Array.</b> Logarithmic time.](/search-in-rotated-sorted-array-logarithmic-time/SearchInRotatedSortedArray.java) <i>Binary search, Reduction</i><br>
 
 NC19. Reverse Linked List
+* [<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java) <i>Linked List.</i><br>
 
 NC20. Merge Two Sorted Lists
+* [<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List.</i><br>
 
 NC21. Linked List Cycle
+* [<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing.</i><br>
 
 NC22. Reorder List
+* [<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List. Transformations</i><br>
 
 NC23. Remove Nth Node From End of List
+* [<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List.</i><br>
 
 NC24. Merge K Sorted Lists
+* [<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java) <i>Linked List, Priority Queue.</i><br>
 
 NC25. Invert Binary Tree
 
@@ -189,27 +210,19 @@ LC0075. Sort Colors
 
 
 
-* [<b>Find Minimum In Rotated Sorted Array.</b> Logarithmic time.](/find-minimum-in-rotated-sorted-array-logarithmic-time/FindMinimumInRotatedSortedArray.java) <i>Binary search.</i><br>
-* [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Brute force, Sorting.</i><br>
-* [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i><br>
-* [<b>Two Sum.</b> Linear-time.](/two-sum-linear-time/TwoSum.java) <i>Two pointers.</i><br>
-* [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i>Encoding.</i><br>
-* [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Direct addressing, Running optimum.</i><br>
-* [<b>Two Sum.</b> Linearish-time. (v1)](/two-sum-linearish-time-v1/TwoSum.java) <i>Hashing.</i><br>
-* [<b>Two Sum.</b> Linearish-time. (v2)](/two-sum-linearish-time-v2/TwoSum.java) <i>Hashing, Symmetry.</i><br>
-* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i><br>
-* [<b>Valid Parentheses.</b> Quadratic time.](/valid-parantheses-quadratic-time/ValidParantheses.java) <i>Brute force, Parantheses.</i><br>
-* [<b>Valid Parentheses.</b> Linear time.](/valid-parantheses-linear-time/ValidParantheses.java) <i>Stack.</i><br>
-* [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i><br>
-* [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Priority queue.</i><br>
-* [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, Reduction.</i><br>
-* [<b>Search In Rotated Sorted Array.</b> Logarithmic time.](/search-in-rotated-sorted-array-logarithmic-time/SearchInRotatedSortedArray.java) <i>Binary search, Reduction</i><br>
-* [<b>Reverse Linked List.</b> Linear time.](/reverse-linked-list-linear-time/ReversedLinkedList.java) <i>Linked List.</i><br>
-* [<b>Merge Two Sorted Lists.</b> Linear time.](/merge-two-sorted-lists-linear-time/MergeTwoSortedLists.java) <i>Linked List.</i><br>
-* [<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing.</i><br>
-* [<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List. Transformations</i><br>
-* [<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List.</i><br>
-* [<b>Merge K Sorted Lists.</b> Linearithmic time.](/merge-k-sorted-lists-linearithmic-time/MergeKSortedLists.java) <i>Linked List, Priority Queue.</i><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 * [<b>Invert Binary Tree.</b> Linear time.](/invert-binary-tree-linear-time/InvertBinaryTree.java) <i>Binary Tree.</i><br> 
 * [<b>Maximum Depth of Binary Tree.</b> Linear time.](/maximum-depth-of-binary-tree-linear-time/MaximumDepthOfBinaryTree.java) <i>Binary Tree, Recursion.</i><br>
 * [<b>Same Tree.</b> Linear time.](/same-tree-linear-time/SameTree.java) <i>Binary Tree, Recursion.</i><br>
