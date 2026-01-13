@@ -5,6 +5,10 @@ Concepts covered: <i>Linear search, Brute force, Direct addressing, Binary searc
 NC01. Contains Duplicate
 * [<b>Contains Duplicate.</b> Quadratic-time.](/contains-duplicate-quadratic-time/ContainsDuplicate.java) <i>Brute force.</i><br>
 
+
+* <b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
+* <b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
+
 NC02. Valid Anagram
 * [<b>Valid Anagram.</b> Linearithmic-time.](/valid-anagram-linearithmic-time/ValidAnagram.java) <i>Sorting, Canonicalising.</i><br>
 * <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
@@ -18,42 +22,55 @@ NC03. Two Sum
 
 NC04. Group Anagrams
 * [<b>Group Anagrams.</b> Quadratic-time.](/group-anagrams-quadratic-time/GroupAnagrams.java) <i>Sorting, Canonicalising.</i><br>
+* <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
 
 NC05. Top K Frequent Elements
 * [<b>Top K Frequent Elements.</b> Linearithmic-time.](/top-k-frequent-elements-linearithmic-time/TopKFrequentElements.java) <i>Sorting, Priority queue.</i><br>
+* <b>Top K Frequent Elements</b> Linear time. <i>Bucket sort.</i><br>
 
 NC06. Encode and Decode Strings
 * [<b>Encode And Decode Strings.</b> Linear-time.](/encode-and-decode-strings-linear-time/EncodeAndDecodeStrings.java) <i>Encoding.</i><br>
 
 NC07. Product of Array Except Self
 * [<b>Product Of Array Except Self.</b> Quadratic-time.](/product-of-array-except-self-quadratic-time/ProductOfArrayExceptSelf.java) <i>Brute force.</i><br>
+* <b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
 
 NC08. Longest Consecutive Sequence
 * [<b>Longest Consecutive Sequence.</b> Cubic-time.](/longest-consecutive-sequence-cubic-time/LongestConsecutiveSequence.java) <i>Brute force.</i><br>
+* <b>Longest Consecutive Sequence.</b> Linearithmic time. <i>Sorting.</i><br>
+* <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Grouping., Bidirectional expansion</i><br>
+* <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Union-find.</i><br>
 
 NC09. Valid Palindrome
 * [<b>Valid Palindrome.</b> Linear-time.](/valid-palindrom-linear-time/ValidPalindrom.java) <i>Brute force.</i><br>
 
 NC10. 3Sum
 * [<b>3Sum.</b> Cubic-time.](/3sum-cubic-time/3Sum.java) <i>Brute force, Sorting.</i><br>
+* <b>3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
 
 NC11. Container With Most Water
 * [<b>Container With Most Water.</b> Quadratic-time.](/container-with-most-water-quadratic-time/ContainerWithMostWater.java) <i>Brute force.</i><br>
+* <b>Container With Most Water.</b> Linear time. <i>Two pointers.</i><br>
 
 NC12. Best Time to Buy And Sell Stock
 * [<b>Best Time to Buy And Sell Stock.</b> Quadratic-time.](/best-time-to-buy-and-sell-stock-quadratic-time/BestTimeToBuyAndSellStock.java) <i>Brute force.</i><br>
+* <b>Best Time to Buy And Sell Stock.</b> Quadratic time. <i>Sliding window.</i><br>
 
 NC13. Longest Substring Without Repeating Characters
 * [<b>Longest Substring Without Repeating Characters.</b> Cubic time.](/longest-substring-without-repeating-characters-cubic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Brute force, Direct addressing.</i><br>
 * [<b>Longest Substring Without Repeating Characters.</b> Quadratic time.](/longest-substring-without-repeating-characters-quadratic-time/LongestSubstringWithoutRepeatingCharacters.java) <i>Direct addressing, Running optimum.</i><br>
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v1)](/longest-substring-without-repeating-characters-linear-time-v1/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, Direct addressing.</i><br>
 * [<b>Longest Substring Without Repeating Characters.</b> Linear time. (v2)](/longest-substring-without-repeating-characters-linear-time-v2/LongestSubstringWithoutRepeatingCharacters.java) <i>1D Dynamic programming, State compression, Direct addressing.</i><br>
+* <b>Longest Substring Without Repeating Characters.</b> Linear time. <i>Sliding window.</i><br>
 
 NC14. Longest Repeating Character Replacement
 * [<b>Longest Repeating Character Replacement.</b> Quadratic time.](/longest-repeating-character-replacement-quadratic-time/LongestRepeatingCharacterReplacement.java) <i>Running optimum, Reduction.</i><br>
+* <b>Longest Repeating Character Replacement.</b> Linear time. <i>Sliding window.</i><br>
 
 NC15. Minimum Window Substring
 * [<b>Minimum Window Substring.</b> Cubic time.](/minimum-window-substring-cubic-time/MinimumWindowSubstring.java) <i>Brute force, Direct addressing.</i><br>
+* <b>Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
+* <b>Minimum Window Substring.</b> Linear time. <i>Sliding window.</i><br>
 
 NC16. Valid Parantheses
 * [<b>Valid Parantheses.</b> Quadratic time.](/valid-parantheses-quadratic-time/ValidParantheses.java) <i>Brute force, Parantheses.</i><br>
@@ -75,9 +92,11 @@ NC20. Merge Two Sorted Lists
 
 NC21. Linked List Cycle
 * [<b>Linked List Cycle.</b> Linearish time.](/linked-list-cycle-linearish-time/LinkedListCycle.java) <i>Linked List, Hashing.</i><br>
+* <b>Linked List Cycle.</b> Linear time. <i>Linked List, Fast-slow pivots.</i><br>
 
 NC22. Reorder List
 * [<b>Reorder List.</b> Quadratic time.](/reorder-list-quadratic-time/ReorderList.java) <i>Linked List. Transformations</i><br>
+* <b>Reorder List.</b> Linear time. <i>Linked List, Two pivots.</i><br>
 
 NC23. Remove Nth Node From End of List
 * [<b>Remove Nth Node From End of List.</b> Linear time.](/remove-nth-node-from-end-of-list-linear-time/RemoveNthNodeFromEndOfList.java) <i>Linked List.</i><br>
@@ -102,6 +121,7 @@ NC29. Lowest Common Ancestor of a Binary Search Tree
 
 NC30. Binary Tree Level Order Traversal
 * [<b>Binary Tree Level Order Traversal.</b> Linear time.](/binary-tree-level-order-traversal-linear-time/BinaryTreeLevelOrderTraversal.java) <i>Binary Tree</i>.<br>
+* <b>Binary Tree Level Order Traversal.</b> Linear time. <i>FIFO queue.</i>.<br>
 
 NC31. Validate Binary Search Tree
 * [<b>Validate Binary Search Tree.</b> Linear time.](/validate-binary-search-tree-linear-time/ValidateBinarySearchTree.java) <i>Binary Tree, Binary search tree.</i><br>
@@ -114,12 +134,14 @@ NC33. Construct Binary Tree From Preorder And Inorder Traversal
 
 NC34. Binary Tree Maximum Path Sum
 * [<b>Binary Tree Maximum Path Sum.</b> Quadratic time.](/binary-tree-maximum-path-sum-quadratic-time/BinaryTreeMaximumPathSum.java) <i>Binary Tree, Recursive search.</i><br>
+* <b>Binary Tree Maximum Path Sum.</b> Linear time. <i>Binary Tree, Tree dynamic programming.</i><br>
 
 NC35. Serialize And Deserialize Binary Tree
 * [<b>Serialize And Deserialize Binary Tree.</b> Linear time.](/serialize-and-deserialize-binary-tree-linear-time/SerializeAndDeserializeBinaryTree.java) <i>Binary tree, Encoding, Recursion.</i><br>
 
 NC36. Find Median From Data Stream
 * [<b>Find Median From Data Stream.</b> Linearithmic time.](/find-median-from-data-stream-linearithmic-time/FindMedianFromDataStream.java) <i>Sorting, Brute force, Design.</i><br>
+* <b>Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
 
 NC37. Combination Sum
 * [<b>Combination Sum.</b> Factorial time.](/combination-sum-factorial-time/CombinationSum.java) <i>Backtracking, Combinatorial Search.</i><br>
@@ -129,9 +151,11 @@ NC38. Word Search
 
 NC39. Implement Trie Prefix Tree
 * [<b>Implement Trie Prefix Tree.</b> Linear time.](/implement-trie-prefix-tree-linear-time/ImplementTriePrefixTree.java)<i>Brute force, Design.</i><br>
+* <b>Implement Trie Prefix Tree.</b> Sublinear time. <i>Design, Trie.</i><br>
 
 NC40. Design Add And Search Words Data Structure
 * [<b>Design Add And Search Words Data Structure.</b> Linear time.](/design-add-and-search-words-data-structure-linear-time/DesignAddAndSearchWordsDataStructure.java) <i>Brute force, Design.</i><br>
+* <b>Design Add And Search Words Data Structure.</b> Sublinear time. <i>Design, Trie, Backtracking, Tree search</i><br>
 
 NC41. Word Search II
 * [<b>Word Search II.</b> Factorial time.](/word-search-ii-factorial-time/WordSearchII.java) <i>Backtracking, 2D Search, Reduction.</i><br>
@@ -144,18 +168,23 @@ NC43. Clone Graph
 
 NC44. Pacific Atlantic Water Flow
 * [<b>Pacific Atlantic Water Flow.</b> Quadratic time.](/pacific-atlantic-water-flow-quadratic-time/PacificAtlanticWaterFlow.java) <i>Reduction, 2D Search, Depth first search.</i><br>
+* <b>Pacific Atlantic Water Flow.</b> Linear time. <i>Reduction, Graph search, Depth first search.</i><br>
 
 NC45. Course Schedule
 * [<b>Course Schedule.</b> Quadratic time.](/course-schedule-quadratic-time/CourseSchedule.java) <i>Scheduling.</i><br>
+* <b>Course Schedule.</b> Linear time. <i>Reduction, Graph cycles.</i><br>
 
 NC46. Graph Valid Tree
 * [<b>Graph Valid Tree.</b> Linear time.](/graph-valid-tree-linear-time/GraphValidTree.java) <i>Graph traversal, Connected components, Unrooted tree.</i><br>
+* <b>Graph Valid Tree.</b> Linear time. <i>Graph cycles, Unrooted tree.</i><br>
 
 NC47. Number of Connected Components In An Undirected Graph
 * [<b>Number of Connected Components In An Undirected Graph.</b> Linear time.](/number-of-connected-components-in-an-undirected-graph-linear-time/NumberOfConnectedCompoinentsInAnUndirectedGraph.java) <i>Graph traversal, Connected components.</i><br>
+* <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i>Union-find.</i><br>
 
 NC48. Alien Dictionary
 * [<b>Alien Dictionary.</b> Factorial time.](/alien-dictionary-factorial-time/AlienDictionary.java) <i>Brute force, Direct addressing, Backtracking, Combinatorial Search, Permutations.</i><br>
+* <b>Alien Dictionary.</b> Quadratic time. <i>Reduction, Directed acyclic graphs, Topological order..</i><br>
 
 NC49. Climbing Stairs
 * [<b>Climbing Stairs.</b> Linear time.](/climbing-stairs-linear-time/ClimbingStairs.java) <i>1D Dynamic programming.</i><br>
@@ -168,18 +197,23 @@ NC51. House Robber II
 
 NC52. Longest Palindromic Substring
 * [<b>Longest Palindromic Substring.</b> Cubic time.](/longest-palindromic-substring-cubic-time/LongestPalindromicSubstring.java) <i>Brute force.</i><br>
+* <b>Longest Palindromic Substring.</b> Quadratic time. <i>Brute force, Running optimum, Palindrome center.</i><br>
 
 NC53. Palindromic Substrings
 * [<b>Palindromic Substrings.</b> Cubic time.](/palindromic-substring-cubic-time/PalindromicSubstring.java) <i>Brute force, Reduction.</i><br>
+* <b>Palindromic Substrings.</b> Quadratic time. <i>Palindrom center.</i><br>
 
 NC54. Decode Ways
 * [<b>Decode Ways.</b> Linear time.](/decode-ways-linear-time/DecodeWays.java) <i>1D Dynamic programming, Combinatorics.</i><br>
 
 NC55. Coin Change
 * [<b>Coin Change.</b> Factorial time.](/coin-change-factorical-time/CoinChange.java) <i>Backtracking, Combinatorial Search.</i><br>
+* <b>Coin Change.</b> Quadratic time. <i>2D Dynamic programming.</i><br>
 
 NC56. Maximum Product Subarray
 * [<b>Maximum Product Subarray.</b> Cubic time.](/maximum-product-subarray-cubic-time/MaximumProductSubarray.java) <i>Brute force.</i><br>
+* <b>Maximum Product Subarray.</b> Quadratic time. <i>Brute force, Running optimum.</i><br>
+* <b>Maximum Product Subarray.</b> Linear time. <i>1D Dynamic programming.</i><br>
 
 NC57. Word Break
 * [<b>Word Break.</b> Cubic time.](/word-break-cubic-time/WordBreak.java) <i>1D Dynamic programming.</i><br>
@@ -230,12 +264,14 @@ NC71. Number of 1 Bits
 
 NC72. Counting Bits
 * [<b>Counting Bits.</b> Linearithmic time.](/counting-bits-linearithmic-time/CountingBits.java) <i>Digits, Binary numbers, Brute force, Reduction.</i><br>
+* <b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
 
 NC73. Reverse Bits
 * [<b>Reverse Bits.</b> Logarithmic time.](/reverse-bits-logarithmic-time/ReverseBits.java) <i>Digits, Binary numbers</i><br>
 
 NC74. Missing Number
 * [<b>Missing Number.</b> Linear time.](/missing-number-linear-time/MissingNumber.java) <i>Brute force, Direct addressing.</i><br>
+* <b>Missing Number.</b> Linear time. <i>Bitwise XOR.</i><br>
 
 NC75. Sum of Two Integers
 * [<b>Sum of Two Integers.</b> Logarithmic time.](/sum-of-two-integers-logarithmic-time/SumOfTwoIntegers.java) <i>Digits, Binary numbers, Addition, 2s complement.</i><br>
@@ -264,72 +300,6 @@ LC0329. Longest Increasing Path in a Matrix
 
 LC0075. Sort Colors
 * <b>Sort Colors.</b> Linear time. <i>Three pointers.</i><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* <b>Contains Duplicate.</b> Logarithmic-time. <i>Sorting.</i><br>
-* <b>Contains Duplicate.</b> Linearish-time. <i>Hashing.</i><br>
-* <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
-* <b>Product Of Array Except Self.</b> Linear time. <i>Prefix sum, Precomputing.</i><br>
-* <b>Longest Consecutive Sequence.</b> Linearithmic time. <i>Sorting.</i><br>
-* <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Grouping., Bidirectional expansion</i><br>
-* <b>3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
-* <b>Container With Most Water.</b> Linear time. <i>Two pointers.</i><br>
-* <b>Best Time to Buy And Sell Stock.</b> Quadratic time. <i>Sliding window.</i><br>
-* <b>Longest Substring Without Repeating Characters.</b> Linear time. <i>Sliding window.</i><br>
-* <b>Longest Repeating Character Replacement.</b> Linear time. <i>Sliding window.</i><br>
-* <b>Minimum Window Substring.</b> Quadratic time. <i>Running optimum, Direct addressing.</i><br>
-* <b>Minimum Window Substring.</b> Linear time. <i>Sliding window.</i><br>
-* <b>Reorder List.</b> Linear time. <i>Linked List, Two pivots.</i><br>
-* <b>Linked List Cycle.</b> Linear time. <i>Linked List, Fast-slow pivots.</i><br>
-* <b>Binary Tree Level Order Traversal.</b> Linear time. <i>FIFO queue.</i>.<br>
-* <b>Binary Tree Maximum Path Sum.</b> Linear time. <i>Binary Tree, Tree dynamic programming.</i><br>
-* <b>Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
-* <b>Implement Trie Prefix Tree.</b> Sublinear time. <i>Design, Trie.</i><br>
-* <b>Design Add And Search Words Data Structure.</b> Sublinear time. <i>Design, Trie, Backtracking, Tree search</i><br>
-* <b>Pacific Atlantic Water Flow.</b> Linear time. <i>Reduction, Graph search, Depth first search.</i><br>
-* <b>Course Schedule.</b> Linear time. <i>Reduction, Graph cycles.</i><br>
-* <b>Graph Valid Tree.</b> Linear time. <i>Graph cycles, Unrooted tree.</i><br>
-* <b>Alien Dictionary.</b> Quadratic time. <i>Reduction, Directed acyclic graphs, Topological order..</i><br>
-* <b>Longest Palindromic Substring.</b> Quadratic time. <i>Brute force, Running optimum, Palindrome center.</i><br>
-* <b>Palindromic Substrings.</b> Quadratic time. <i>Palindrom center.</i><br>
-* <b>Coin Change.</b> Quadratic time. <i>2D Dynamic programming.</i><br>
-* <b>Maximum Product Subarray.</b> Quadratic time. <i>Brute force, Running optimum.</i><br>
-* <b>Maximum Product Subarray.</b> Linear time. <i>1D Dynamic programming.</i><br>
-* <b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
-* <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i>Union-find.</i><br>
-* <b>Longest Consecutive Sequence.</b> Linearish time. <i>Hashing, Union-find.</i><br>
-* <b>Top K Frequent Elements</b> Linear time. <i>Bucket sort.</i><br>
-* <b>Missing Number.</b> Linear time. <i>Bitwise XOR.</i><br>
-
-
-
-
-
-
-
 
 
 
