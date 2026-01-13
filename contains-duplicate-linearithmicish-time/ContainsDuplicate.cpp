@@ -3,17 +3,7 @@
 // Concepts: Divide and conquer, Recursive search, Hashing.
 class ContainsDuplicate {
 private:
-    bool search(vector<int>& nums, int lo, int hi) {
-        if (lo == hi) {
-            return false;
-        }
-        int mid = (lo+hi)/2; //lo-mid, mid+1-hi
-        if (search(nums, lo, mid)) {
-            return true;
-        }
-        if (search(nums, mid+1, hi)) {
-            return true;
-        }
+    bool search(vector<int>& nums, int lo, int mid, int hi) {
         unordered_set<int> numset;
         for (int i=lo; i<=mid; i++) {
             numset.insert(nums[i]);
@@ -23,7 +13,20 @@ private:
                 return true;
             }
         }
-        return false;
+        return false;        
+    }
+    bool search(vector<int>& nums, int lo, int hi) {
+        if (lo == hi) {
+            return false;
+        }
+        int mid = (lo+hi)/2;
+        if (search(nums, lo, mid)) {
+            return true;
+        }
+        if (search(nums, mid+1, hi)) {
+            return true;
+        }
+        return search(nums, lo, mid, hi);
     }
 public:
     bool containsDuplicate(vector<int>& nums) {
