@@ -1,24 +1,24 @@
 A solution-centric approach to the neetcode Blind-75 questions.
 
 NC01. Contains Duplicate
-* [<b>Contains Duplicate.</b> Quadratic time.](/contains-duplicate/contains-duplicate-quadratic-time/ContainsDuplicate.cpp) <i>Brute force, Symmetry.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmicish time.](/contains-duplicate/contains-duplicate-linearithmicish-time/ContainsDuplicate.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmic time.](/contains-duplicate/contains-duplicate-linearithmic-time-v1/ContainsDuplicate.cpp) <i>Sorting, Linear search.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time. V1.](/contains-duplicate/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) <i>Hashing, Counting.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time. V2.](/contains-duplicate/contains-duplicate-linearish-time-v2/ContainsDuplicate.cpp) <i>Hashing, Symmetry.</i><br>
+* [<b>Contains Duplicate.</b> Quadratic time.](/01-contains-duplicate/ContainsDuplicateS1.cpp) <i>Brute force, Symmetry.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmicish time.](/01-contains-duplicate/ContainsDuplicateS2.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmic time.](/01-contains-duplicate/ContainsDuplicateS3.cpp) <i>Sorting, Linear search.</i><br>
+* [<b>Contains Duplicate.</b> Linearish time. V1.](/01-contains-duplicate/ContainsDuplicateS4.cpp) <i>Hashing, Counting.</i><br>
+* [<b>Contains Duplicate.</b> Linearish time. V2.](/01-contains-duplicate/ContainsDuplicateS5.cpp) <i>Hashing, Symmetry.</i><br>
 
 NC02. Valid Anagram
 * <b>Valid Anagram.</b> Linearithmic-time. <i>Sorting, Canonicalising.</i><br>
 * <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
 
 NC03. Two Sum
-* [<b>Two Sum.</b> Quadratic time.](/two-sum/two-sum-quadratic-time/TwoSum.cpp) <i>Brute force.</i><br>
-* [<b>Two Sum.</b> Linearithmicish time.](/two-sum/two-sum-linearithmicish-time/TwoSum.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
-* [<b>Two Sum.</b> Linearithmic time. V1.](/two-sum/two-sum-linearithmic-time-v1/TwoSum.cpp) <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
-* [<b>Two Sum.</b> Linearithmic time. V2.](/two-sum/two-sum-linearithmic-time-v2/TwoSum.cpp) <i>Sorting, Two pointers, Data-index pairing.</i><br>
-* [<b>Two Sum.</b> Linearish time. V1.](/two-sum/two-sum-linearish-time-v1/TwoSum.cpp) <i>Hashing, Counting, Index mapping.</i><br>
-* [<b>Two Sum.</b> Linearish time. V2.](/two-sum/two-sum-linearish-time-v2/TwoSum.cpp) <i>Hashing, Index mapping, Math.</i><br>
-* [<b>Two Sum.</b> Linearish time. V3.](/two-sum/two-sum-linearish-time-v3/TwoSum.cpp) <i>Hashing, Symmetry, Index mapping.</i><br>
+* [<b>Two Sum.</b> Quadratic time.](/03-two-sum/TwoSumS7.cpp) <i>Brute force.</i><br>
+* [<b>Two Sum.</b> Linearithmicish time.](/03-two-sum/TwoSumS6.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* [<b>Two Sum.</b> Linearithmic time. V1.](/03-two-sum/TwoSumS4.cpp) <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
+* [<b>Two Sum.</b> Linearithmic time. V2.](/03-two-sum/TwoSumS5.cpp) <i>Sorting, Two pointers, Data-index pairing.</i><br>
+* [<b>Two Sum.</b> Linearish time. V1.](/03-two-sum/TwoSumS1.cpp) <i>Hashing, Counting, Index mapping.</i><br>
+* [<b>Two Sum.</b> Linearish time. V2.](/03-two-sum/TwoSumS2.cpp) <i>Hashing, Index mapping, Math.</i><br>
+* [<b>Two Sum.</b> Linearish time. V3.](/03-two-sum/TwoSumS3.cpp) <i>Hashing, Symmetry, Index mapping.</i><br>
 
 NC04. Group Anagrams
 * <b>Group Anagrams.</b> Quadratic-time. <i>Sorting, Canonicalising.</i><br>
