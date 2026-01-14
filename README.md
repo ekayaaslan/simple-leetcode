@@ -1,24 +1,24 @@
 A solution-centric approach to the neetcode Blind-75 questions.
 
 NC01. Contains Duplicate
-* [<b>Contains Duplicate.</b> Quadratic time.](/01-contains-duplicate/ContainsDuplicateS1.cpp) <i>Brute force, Symmetry.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmicish time.](/01-contains-duplicate/ContainsDuplicateS2.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmic time.](/01-contains-duplicate/ContainsDuplicateS3.cpp) <i>Sorting, Linear search.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time. V1.](/01-contains-duplicate/ContainsDuplicateS4.cpp) <i>Hashing, Counting.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time. V2.](/01-contains-duplicate/ContainsDuplicateS5.cpp) <i>Hashing, Symmetry.</i><br>
+* [Solution at Quadratic time.](/01-contains-duplicate/ContainsDuplicateS1.cpp) Concepts: <i>Brute force, Symmetry.</i><br>
+* [Solution at Linearithmic-ish time.](/01-contains-duplicate/ContainsDuplicateS2.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* [Solution at Linearithmic time.](/01-contains-duplicate/ContainsDuplicateS3.cpp) Concepts: <i>Sorting, Linear search.</i><br>
+* [Solution at Linearish time. (v1)](/01-contains-duplicate/ContainsDuplicateS4.cpp) Concepts: <i>Hashing, Counting.</i><br>
+* [Solution at Linearish time. (v2)](/01-contains-duplicate/ContainsDuplicateS5.cpp) Concepts: <i>Hashing, Symmetry.</i><br>
 
 NC02. Valid Anagram
 * <b>Valid Anagram.</b> Linearithmic-time. <i>Sorting, Canonicalising.</i><br>
 * <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
 
 NC03. Two Sum
-* [<b>Two Sum.</b> Quadratic time.](/03-two-sum/TwoSumS7.cpp) <i>Brute force.</i><br>
-* [<b>Two Sum.</b> Linearithmicish time.](/03-two-sum/TwoSumS6.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
-* [<b>Two Sum.</b> Linearithmic time. V1.](/03-two-sum/TwoSumS4.cpp) <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
-* [<b>Two Sum.</b> Linearithmic time. V2.](/03-two-sum/TwoSumS5.cpp) <i>Sorting, Two pointers, Data-index pairing.</i><br>
-* [<b>Two Sum.</b> Linearish time. V1.](/03-two-sum/TwoSumS1.cpp) <i>Hashing, Counting, Index mapping.</i><br>
-* [<b>Two Sum.</b> Linearish time. V2.](/03-two-sum/TwoSumS2.cpp) <i>Hashing, Index mapping, Math.</i><br>
-* [<b>Two Sum.</b> Linearish time. V3.](/03-two-sum/TwoSumS3.cpp) <i>Hashing, Symmetry, Index mapping.</i><br>
+* [Solution at Quadratic time.](/03-two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
+* [Solution at Linearithmicish time.](/03-two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* [Solution at Linearithmic time. (v1)](/03-two-sum/TwoSumS4.cpp) Concepts: <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
+* [Solution at Linearithmic time. (v2)](/03-two-sum/TwoSumS5.cpp) Concepts: <i>Sorting, Two pointers, Data-index pairing.</i><br>
+* [Solution at Linearish time. (v1)](/03-two-sum/TwoSumS1.cpp) Concepts: <i>Hashing, Counting, Index mapping.</i><br>
+* [Solution at Linearish time. (v2)](/03-two-sum/TwoSumS2.cpp) Concepts: <i>Hashing, Index mapping, Math.</i><br>
+* [Solution at Linearish time. (v3)](/03-two-sum/TwoSumS3.cpp) Concepts: <i>Hashing, Symmetry, Index mapping.</i><br>
 
 NC04. Group Anagrams
 * <b>Group Anagrams.</b> Quadratic-time. <i>Sorting, Canonicalising.</i><br>
