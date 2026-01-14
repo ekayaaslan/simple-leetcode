@@ -3,8 +3,8 @@ A solution-centric approach to the neetcode Blind-75 questions.
 NC01. Contains Duplicate
 * [<b>Contains Duplicate.</b> Quadratic time.](/contains-duplicate/contains-duplicate-quadratic-time/ContainsDuplicate.cpp) <i>Brute force, Symmetry.</i><br>
 * [<b>Contains Duplicate.</b> Linearithmicish time.](/contains-duplicate/contains-duplicate-linearithmicish-time/ContainsDuplicate.cpp) <i>Divide and conquer, Recursive search, Hashing.</i><br>
-* [<b>Contains Duplicate.</b> Linearithmic time. V1.](/contains-duplicate/contains-duplicate-linearithmic-time-v1/ContainsDuplicate.cpp) <i>Sorting, Linear search.</i><br>
-* [<b>Contains Duplicate.</b> Linearish time.](/contains-duplicate/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) <i>Hashing, Counting.</i><br>
+* [<b>Contains Duplicate.</b> Linearithmic time.](/contains-duplicate/contains-duplicate-linearithmic-time-v1/ContainsDuplicate.cpp) <i>Sorting, Linear search.</i><br>
+* [<b>Contains Duplicate.</b> Linearish time. V1.](/contains-duplicate/contains-duplicate-linearish-time-v1/ContainsDuplicate.cpp) <i>Hashing, Counting.</i><br>
 * [<b>Contains Duplicate.</b> Linearish time. V2.](/contains-duplicate/contains-duplicate-linearish-time-v2/ContainsDuplicate.cpp) <i>Hashing, Symmetry.</i><br>
 
 NC02. Valid Anagram
