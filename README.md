@@ -13,20 +13,25 @@ NC02. Valid Anagram
 
 NC03. Two Sum
 * [Solution at Quadratic time.](/03-two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
-* [Solution at Linearithmicish time.](/03-two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* [Solution at Linearithmic-ish time.](/03-two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
 * [Solution at Linearithmic time. (v1)](/03-two-sum/TwoSumS4.cpp) Concepts: <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
 * [Solution at Linearithmic time. (v2)](/03-two-sum/TwoSumS5.cpp) Concepts: <i>Sorting, Two pointers, Data-index pairing.</i><br>
-* [Solution at Linearish time. (v1)](/03-two-sum/TwoSumS1.cpp) Concepts: <i>Hashing, Counting, Index mapping.</i><br>
-* [Solution at Linearish time. (v2)](/03-two-sum/TwoSumS2.cpp) Concepts: <i>Hashing, Index mapping, Math.</i><br>
-* [Solution at Linearish time. (v3)](/03-two-sum/TwoSumS3.cpp) Concepts: <i>Hashing, Symmetry, Index mapping.</i><br>
+* [Solution at Linear-ish time. (v1)](/03-two-sum/TwoSumS1.cpp) Concepts: <i>Hashing, Counting, Index mapping.</i><br>
+* [Solution at Linear-ish time. (v2)](/03-two-sum/TwoSumS2.cpp) Concepts: <i>Hashing, Index mapping, Math.</i><br>
+* [Solution at Linear-ish time. (v3)](/03-two-sum/TwoSumS3.cpp) Concepts: <i>Hashing, Symmetry, Index mapping.</i><br>
 
 NC04. Group Anagrams
 * <b>Group Anagrams.</b> Quadratic-time. <i>Sorting, Canonicalising.</i><br>
 * <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
 
 NC05. Top K Frequent Elements
-* <b>Top K Frequent Elements.</b> Linearithmic-time. <i>Sorting, Priority queue.</i><br>
-* <b>Top K Frequent Elements</b> Linear time. <i>Bucket sort.</i><br>
+* [Solution at Quadratic time.](/05-top-k-frequent-elements/TopKFrequentElementsS1.cpp) Concepts: <i>Hashing, Counting, Brute force.</i><br>
+* [Solution at Linearithmic time. (v1)](/05-top-k-frequent-elements/TopKFrequentElementsS2.cpp) Concepts: <i>Hashing, Counting, Sorting, Data-count pairing.</i><br>
+* [Solution at Linearithmic time. (v2)](/05-top-k-frequent-elements/TopKFrequentElementsS3.cpp) Concepts: <i>Hashing, Counting, Priority queues, Data-count pairing, TopK.</i><br>
+* [Solution at Linearithmic time. (v3)](/05-top-k-frequent-elements/TopKFrequentElementsS4.cpp) Concepts: <i>Hashing, Running counts, Balance trees, Multiset, Data-count pairing.</i><br>
+* [Solution at Linear-ish time. (v1)](/05-top-k-frequent-elements/TopKFrequentElementsS5.cpp) Concepts: <i>Hashing, Counting, Quickselect, Data-count pairing.</i><br>
+* [Solution at Linear time. (v1)](/05-top-k-frequent-elements/TopKFrequentElementsS6.cpp) Concepts: <i>Hashing, Counting, Bucket sort.</i><br>
+* [Solution at Linear time. (v2)](/05-top-k-frequent-elements/TopKFrequentElementsS7.cpp) Concepts: <i>Hashing, Running counts, Bucket sort.</i><br>
 
 NC06. Encode and Decode Strings
 * <b>Encode And Decode Strings.</b> Linear-time. <i>Encoding.</i><br>

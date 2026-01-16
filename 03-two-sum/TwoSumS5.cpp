@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum
 // Linearithmic time, linear extra-space.
-// Concept: Sorting, Two pointers, Data-index pairing.
+// Concepts: Sorting, Two pointers, Data-index pairing.
 class TwoSum {
 private:
     struct item {

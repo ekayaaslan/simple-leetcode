@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum
 // Linearithmicish time, linearish extra-space.
-// Concept: Divide and conquer, Recursive search, Hashing, Index mapping.
+// Concepts: Divide and conquer, Recursive search, Hashing, Index mapping.
 class TwoSum {
 private:
     vector<int> search(vector<int>& nums, int lo, int mid, int hi, int target) {

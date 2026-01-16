@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum
 // Quadratic time, constant extra-space.
-// Concept: Brute force.
+// Concepts: Brute force.
 class TwoSum {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

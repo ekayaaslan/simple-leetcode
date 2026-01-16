@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum
 // Linearish time, linearish extra-space.
-// Concept: Hashing, Index mapping, Math.
+// Concepts: Hashing, Index mapping, Math.
 class TwoSum {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
