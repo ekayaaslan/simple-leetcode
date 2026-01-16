@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/top-k-frequent-elements
 // Linearithmic time, linear-ish extra-space.
-// Concepts: Hashing, Running counts, Balance trees, Multiset, Data-count pairing.
+// Concepts: Hashing, Running counts, Balanced trees, Multiset, Data-count pairing.
 class TopKFrequentElements {
 public:
     struct item {
