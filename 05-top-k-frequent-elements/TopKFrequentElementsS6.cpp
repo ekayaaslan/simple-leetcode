@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/top-k-frequent-elements
 // Linear time, linear-ish extra-space.
 // Concepts: Hashing, Counting, Bucket sort.
-class Solution {
+class TopKFrequentElements {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int, int> counts;
