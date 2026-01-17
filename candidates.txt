@@ -1,15 +1,9 @@
 Candidates:
 
 LC0003. Longest Substring Without Repeating Characters
-LC0005. Longest Palindromic Substring
 LC0011. Container With Most Water
-LC0020. Valid Parantheses
 LC0042. Trapping Rain Water
 LC0053. Maximum Subarray
-LC0076. Minimum Window Substring
 LC0084. Largest Rectangle in Histogram
 LC0128. Longest Consecutive Sequence
 LC0152. Maximum Product Subarray
-LC0242. Valid Anagram
-LC0323. Number of Connected Components In An Undirected Graph
-LC0994. Rotting Oranges
