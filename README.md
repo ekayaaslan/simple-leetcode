@@ -24,33 +24,3 @@ LC0347. Top K Frequent Elements
 * [Solution at Linear-ish time.](/05-top-k-frequent-elements/TopKFrequentElementsS5.cpp) Concepts: <i>Hashing, Counting, Quickselect, Data-count pairing.</i><br>
 * [Solution at Linear time. (v1)](/05-top-k-frequent-elements/TopKFrequentElementsS6.cpp) Concepts: <i>Hashing, Counting, Bucket sort.</i><br>
 * [Solution at Linear time. (v2)](/05-top-k-frequent-elements/TopKFrequentElementsS7.cpp) Concepts: <i>Hashing, Running counts, Bucket sort.</i><br>
-
-LC0003. Longest Substring Without Repeating Characters <br>
-LC0005. Longest Palindromic Substring <br>
-LC0011. Container With Most Water <br>
-LC0020. Valid Parantheses <br>
-LC0033. Search In Rotated Sorted Array <br>
-LC0042. Trapping Rain Water <br>
-LC0053. Maximum Subarray <br>
-LC0073. Set Matrix Zeroes <br>
-LC0075. Sort Colors <br>
-LC0076. Minimum Window Substring <br>
-LC0084. Largest Rectangle in Histogram <br>
-LC0102. Binary Tree Level Order Traversal <br>
-LC0124. Binary Tree Maximum Path Sum <br>
-LC0127. Word Ladder <br>
-LC0128. Longest Consecutive Sequence <br>
-LC0152. Maximum Product Subarray <br>
-LC0238. Product of Array Except Self <br>
-LC0242. Valid Anagram <br>
-LC0323. Number of Connected Components In An Undirected Graph <br>
-LC0329. Longest Increasing Path in a Matrix <br>
-LC0338. Counting Bits <br>
-LC0380. Insert Delete GetRandom <br>
-LC0743. Network Delay Time <br>
-LC0994. Rotting Oranges <br>
-LC1143. Longest Common Subsequence <br>
-LC1584. Min Cost to Connect All Points <br>
-
-
-
