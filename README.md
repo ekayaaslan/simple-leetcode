@@ -24,3 +24,18 @@ LC0347. Top K Frequent Elements
 * [Solution at Linear-ish time.](/05-top-k-frequent-elements/TopKFrequentElementsS5.cpp) Concepts: <i>Hashing, Counting, Quickselect, Data-count pairing.</i><br>
 * [Solution at Linear time. (v1)](/05-top-k-frequent-elements/TopKFrequentElementsS6.cpp) Concepts: <i>Hashing, Counting, Bucket sort.</i><br>
 * [Solution at Linear time. (v2)](/05-top-k-frequent-elements/TopKFrequentElementsS7.cpp) Concepts: <i>Hashing, Running counts, Bucket sort.</i><br>
+
+LC0003. Longest Substring Without Repeating Characters
+
+LC0011. Container With Most Water
+
+LC0042. Trapping Rain Water
+
+LC0053. Maximum Subarray
+
+LC0084. Largest Rectangle in Histogram
+
+LC0128. Longest Consecutive Sequence
+
+LC0152. Maximum Product Subarray
+
