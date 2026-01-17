@@ -1,4 +1,4 @@
-A set realistic solutions to selected leetcode problems for coding interviews. 
+A set of realistic solutions to selected leetcode problems for coding interviews. 
 
 LC0001. Two Sum
 * [Solution at Quadratic time.](/03-two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
