@@ -1,9 +1,0 @@
-Candidates:
-
-LC0003. Longest Substring Without Repeating Characters
-LC0011. Container With Most Water
-LC0042. Trapping Rain Water
-LC0053. Maximum Subarray
-LC0084. Largest Rectangle in Histogram
-LC0128. Longest Consecutive Sequence
-LC0152. Maximum Product Subarray
