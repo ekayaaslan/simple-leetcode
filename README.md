@@ -2,7 +2,7 @@ Select leetcode (and neetcode) problems and their solutions for a refresh for co
 
 ---
 
-Part I. A conprehensive list of solutions to select leetcode problems.
+Part I. A comprehensive list of solutions to select leetcode problems.
 
 LC0001. Two Sum
 * [Solution at Quadratic time.](/03-two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
