@@ -6,6 +6,20 @@ Part I. A comprehensive list of solutions to select leetcode problems.
 
 [LC0001](https://leetcode.com/problems/two-sum). Two Sum
 * [Solution at Quadratic time.](/two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
+
+  ```cpp
+    int n = nums.size();
+    for (int i=0; i<n; i++) {
+        for (int j=i+1; j<n; j++) {
+            int sum = nums[i]+nums[j];
+            if (sum == target) {
+                return {i, j};
+            }
+        }
+    }
+    return {}
+  ```
+
 * [Solution at Linearithmic-ish time.](/two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
 * [Solution at Linearithmic time. (v1)](/two-sum/TwoSumS4.cpp) Concepts: <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
 * [Solution at Linearithmic time. (v2)](/two-sum/TwoSumS5.cpp) Concepts: <i>Sorting, Two pointers, Data-index pairing.</i><br>
@@ -48,56 +62,56 @@ LC0152. Maximum Product Subarray
 Part II. Good solutions to select neetcode Blind-75 questions.
 
 [NC02](https://leetcode.com/problems/valid-anagram). Valid Anagram. [Solution](/solutions/ValidAnagram.cpp). Concepts: <i>Direct addressing, Anagrams</i><br>
-NC04. Group Anagrams. <i>Hashing, Canonicalising.</i><br>
-NC06. Encode and Decode Strings. <i>Encoding.</i><br>
-NC10. 3Sum. <i>Two Pointers, Reduction, Sorting.</i><br>
-NC12. Best Time to Buy And Sell Stock. <i>Sliding window.</i><br>
-NC14. Longest Repeating Character Replacement. <i>Sliding window.</i><br>
-NC16. Valid Parantheses. <i>Stack.</i><br>
-NC18. Search In Rotated Sorted Array. <i>Binary search, Reduction</i><br>
-NC21. Linked List Cycle. <i>Linked List, Fast-slow pivots.</i><br>
-NC22. Reorder List. <i>Linked List, Two pivots.</i><br>
-NC24. Merge K Sorted Lists. <i>Linked List, Priority Queue.</i><br>
-NC26. Maximum Depth of Binary Tree. <i>Binary Tree, Recursion.</i><br>
-NC29. Lowest Common Ancestor of a Binary Search Tree. <i>Binary Tree, Tree Dynamic programming.</i><br>
-NC30. Binary Tree Level Order Traversal. <i>FIFO queue.</i>.<br>
-NC31. Validate Binary Search Tree. <i>Binary Tree, Binary search tree.</i><br>
-NC33. Construct Binary Tree From Preorder And Inorder Traversal. <i>Binary Tree, Binary tree traversal, Recursion.</i><br>
-NC34. Binary Tree Maximum Path Sum. <i>Binary Tree, Tree dynamic programming.</i><br>
-NC36. Find Median From Data Stream. <i>Design, Priority Queue.</i><br>
-NC37. Combination Sum. <i>Backtracking, Combinatorial Search.</i><br>
-NC41. Word Search II. <i>Backtracking, 2D Search, Trie.</i><br>
-NC42. Number of Islands. <i>2D Search, Depth first search.</i><br> 
-NC43. Clone Graph. <i>Hashing, Graph traversal.</i><br>
-NC44. Pacific Atlantic Water Flow. <i>Reduction, Graph search, Depth first search.</i><br>
-NC45. Course Schedule. <i>Reduction, Graph cycles.</i><br>
-NC46. Graph Valid Tree. <i>Graph traversal, Connected components, Unrooted tree.</i><br>
-NC47. Number of Connected Components In An Undirected Graph. <i>Union-find.</i><br>
-NC48. Alien Dictionary. <i>Reduction, Directed acyclic graphs, Topological order.</i><br>
-NC50. House Robber II. <i>1D Dynamic programming, Reduction.</i><br>
-NC52. Longest Palindromic Substring. <i>Brute force, Running optimum, Palindrome center.</i><br>
-NC54. Decode Ways. <i>1D Dynamic programming, Combinatorics.</i><br>
-NC55. Coin Change. <i>2D Dynamic programming.</i><br>
-NC58. Longest Increasing Subsequence.<i>1D Dynamic programming, Running optimum.</i><br>
-NC60. Longest Common Subsequence.  <i>2D Dynamic programming.</i><br>
-NC65. Non Overlapping Intervals. <i>Interval sorting, 1D Dynamic programing.</i><br>
-NC66. Meeting Rooms. <i>Interval sorting.</i><br>
-NC67. Meeting Rooms II. <i>Interval sorting, Greedy, Sweeping line.</i><br>
-NC68. Rotate Image. <i>Reduction, Cyclic shift.</i><br>
-NC69. Spiral Matrix. <i>2D Navigation.</i><br>
-NC70. Set Matrix Zeroes. <i>Brute force, Precomputing.</i><br>
-NC72. Counting Bits. <i>Binary numbers, 1D Dynamic programming.</i><br>
-NC73. Reverse Bits. <i>Digits, Binary numbers</i><br>
-NC74. Missing Number. <i>Base, Modular arithmetic.</i><br>
+NC04. Group Anagrams. Concepts: <i>Hashing, Canonicalising.</i><br>
+NC06. Encode and Decode Strings. Concepts: <i>Encoding.</i><br>
+NC10. 3Sum. Concepts: <i>Two Pointers, Reduction, Sorting.</i><br>
+NC12. Best Time to Buy And Sell Stock. Concepts: <i>Sliding window.</i><br>
+NC14. Longest Repeating Character Replacement. Concepts: <i>Sliding window.</i><br>
+NC16. Valid Parantheses. Concepts: <i>Stack.</i><br>
+NC18. Search In Rotated Sorted Array. Concepts: <i>Binary search, Reduction</i><br>
+NC21. Linked List Cycle. Concepts: <i>Linked List, Fast-slow pivots.</i><br>
+NC22. Reorder List. Concepts: <i>Linked List, Two pivots.</i><br>
+NC24. Merge K Sorted Lists. Concepts: <i>Linked List, Priority Queue.</i><br>
+NC26. Maximum Depth of Binary Tree. Concepts: <i>Binary Tree, Recursion.</i><br>
+NC29. Lowest Common Ancestor of a Binary Search Tree. Concepts: <i>Binary Tree, Tree Dynamic programming.</i><br>
+NC30. Binary Tree Level Order Traversal. Concepts: <i>FIFO queue.</i>.<br>
+NC31. Validate Binary Search Tree. Concepts: <i>Binary Tree, Binary search tree.</i><br>
+NC33. Construct Binary Tree From Preorder And Inorder Traversal. Concepts: <i>Binary Tree, Binary tree traversal, Recursion.</i><br>
+NC34. Binary Tree Maximum Path Sum. Concepts: <i>Binary Tree, Tree dynamic programming.</i><br>
+NC36. Find Median From Data Stream. Concepts: <i>Design, Priority Queue.</i><br>
+NC37. Combination Sum. Concepts: <i>Backtracking, Combinatorial Search.</i><br>
+NC41. Word Search II. Concepts: <i>Backtracking, 2D Search, Trie.</i><br>
+NC42. Number of Islands. Concepts: <i>2D Search, Depth first search.</i><br> 
+NC43. Clone Graph. Concepts: <i>Hashing, Graph traversal.</i><br>
+NC44. Pacific Atlantic Water Flow. Concepts: <i>Reduction, Graph search, Depth first search.</i><br>
+NC45. Course Schedule. Concepts: <i>Reduction, Graph cycles.</i><br>
+NC46. Graph Valid Tree. Concepts: <i>Graph traversal, Connected components, Unrooted tree.</i><br>
+NC47. Number of Connected Components In An Undirected Graph. Concepts: <i>Union-find.</i><br>
+NC48. Alien Dictionary. Concepts: <i>Reduction, Directed acyclic graphs, Topological order.</i><br>
+NC50. House Robber II. Concepts: <i>1D Dynamic programming, Reduction.</i><br>
+NC52. Longest Palindromic Substring. Concepts: <i>Brute force, Running optimum, Palindrome center.</i><br>
+NC54. Decode Ways. Concepts: <i>1D Dynamic programming, Combinatorics.</i><br>
+NC55. Coin Change. Concepts: <i>2D Dynamic programming.</i><br>
+NC58. Longest Increasing Subsequence. Concepts: <i>1D Dynamic programming, Running optimum.</i><br>
+NC60. Longest Common Subsequence. Concepts: <i>2D Dynamic programming.</i><br>
+NC65. Non Overlapping Intervals. Concepts: <i>Interval sorting, 1D Dynamic programing.</i><br>
+NC66. Meeting Rooms. Concepts: <i>Interval sorting.</i><br>
+NC67. Meeting Rooms II. Concepts: <i>Interval sorting, Greedy, Sweeping line.</i><br>
+NC68. Rotate Image. Concepts: <i>Reduction, Cyclic shift.</i><br>
+NC69. Spiral Matrix. Concepts: <i>2D Navigation.</i><br>
+NC70. Set Matrix Zeroes. Concepts: <i>Brute force, Precomputing.</i><br>
+NC72. Counting Bits. Concepts: <i>Binary numbers, 1D Dynamic programming.</i><br>
+NC73. Reverse Bits. Concepts: <i>Digits, Binary numbers</i><br>
+NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 
 ---
 
 Part III. Further good-to-know concepts.
 
 [LC0380](https://leetcode.com/problems/insert-delete-getrandom-o1/). Insert Delete GetRandom. [Solution](/solutions/InsertDeleteGetrandom.cpp). Concepts: <i>Design, Bag</i><br>
-LC0743. Network Delay Time. <i>Shortest path.</i><br>
-LC0127. Word Ladder. <i>Breath first search.</i><br>
-LC0994. Rotting Oranges. <i>2D Search, Multi-source BFS.</i><br>
-LC1584. Min Cost to Connect All Points. <i>Minimum spanning tree.</i><br>
-LC0329. Longest Increasing Path in a Matrix. <i>DAG Dynamic programming</i><br>
-LC0075. Sort Colors. <i>Three pointers.</i><br>
+LC0743. Network Delay Time. Concepts: <i>Shortest path.</i><br>
+LC0127. Word Ladder. Concepts: <i>Breath first search.</i><br>
+LC0994. Rotting Oranges. Concepts: <i>2D Search, Multi-source BFS.</i><br>
+LC1584. Min Cost to Connect All Points. Concepts: <i>Minimum spanning tree.</i><br>
+LC0329. Longest Increasing Path in a Matrix. Concepts: <i>DAG Dynamic programming</i><br>
+LC0075. Sort Colors. Concepts: <i>Three pointers.</i><br>
