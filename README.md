@@ -93,6 +93,7 @@ return true;
 [NC04.](https://leetcode.com/problems/group-anagrams) Group Anagrams. Concepts: <i>Hashing, Canonicalising.</i><br>
 
 ```cpp
+// Populate the map.
 unordered_map<string, vector<string>> groups;
 for (string& str : strs) {
     string canonical = str;
@@ -101,6 +102,7 @@ for (string& str : strs) {
 }
 ```
 ```cpp
+// Output values.
 for (auto& [_, anagrams]: groups) {
     out.push_back(anagrams);
 }
