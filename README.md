@@ -4,8 +4,9 @@ Select leetcode (and neetcode) problems and their solutions for a refresh for co
 
 Part I. A comprehensive list of solutions to select leetcode problems.
 
-[LC0001](https://leetcode.com/problems/two-sum). Two Sum
-* [Solution at Quadratic time.](/two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
+[LC0001.](https://leetcode.com/problems/two-sum) Two Sum
+
+* [Solution at Quadratic time.](/two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i>
 
   ```cpp
     int n = nums.size();
@@ -61,7 +62,7 @@ LC0152. Maximum Product Subarray
 
 Part II. Good solutions to select neetcode Blind-75 questions.
 
-[NC02](https://leetcode.com/problems/valid-anagram). Valid Anagram. [Solution](/solutions/ValidAnagram.cpp). Concepts: <i>Direct addressing, Anagrams</i><br>
+[NC02.](https://leetcode.com/problems/valid-anagram) [Valid Anagram.](/solutions/ValidAnagram.cpp) Concepts: <i>Direct addressing, Anagrams</i><br>
 NC04. Group Anagrams. Concepts: <i>Hashing, Canonicalising.</i><br>
 NC06. Encode and Decode Strings. Concepts: <i>Encoding.</i><br>
 NC10. 3Sum. Concepts: <i>Two Pointers, Reduction, Sorting.</i><br>
@@ -108,7 +109,7 @@ NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 
 Part III. Further good-to-know concepts.
 
-[LC0380](https://leetcode.com/problems/insert-delete-getrandom-o1/). Insert Delete GetRandom. [Solution](/solutions/InsertDeleteGetrandom.cpp). Concepts: <i>Design, Bag</i><br>
+[LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1/) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
 LC0743. Network Delay Time. Concepts: <i>Shortest path.</i><br>
 LC0127. Word Ladder. Concepts: <i>Breath first search.</i><br>
 LC0994. Rotting Oranges. Concepts: <i>2D Search, Multi-source BFS.</i><br>
