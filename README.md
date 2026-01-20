@@ -64,6 +64,7 @@ Part II. Good solutions to select neetcode Blind-75 questions.
 
 [NC02.](https://leetcode.com/problems/valid-anagram) Valid Anagram. Concepts: <i>Direct addressing, Anagrams, Canonicalising.</i><br>
 ```cpp
+// First solution: Canonicalising
 if (s.length() != t.length()) {
     return false;
 }
@@ -73,6 +74,7 @@ return s == t;
 ```
 
 ```cpp
+// Second solution: Direct addressing, Anagrams.
 for (char ch : s) {
     counts[ch-'a'] ++;
 }
@@ -88,7 +90,23 @@ return true;
 ```
 <br>
 
-NC04. Group Anagrams. Concepts: <i>Hashing, Canonicalising.</i><br>
+[NC04.](https://leetcode.com/problems/group-anagrams) Group Anagrams. Concepts: <i>Hashing, Canonicalising.</i><br>
+
+```cpp
+unordered_map<string, vector<string>> groups;
+for (string& str : strs) {
+    string canonical = str;
+    sort(canonical.begin(), canonical.end());
+    groups[canonical].push_back(str);
+}
+```
+```cpp
+for (auto& [_, anagrams]: groups) {
+    out.push_back(anagrams);
+}
+```
+<br>
+
 NC06. Encode and Decode Strings. Concepts: <i>Encoding.</i><br>
 NC10. 3Sum. Concepts: <i>Two Pointers, Reduction, Sorting.</i><br>
 NC12. Best Time to Buy And Sell Stock. Concepts: <i>Sliding window.</i><br>
