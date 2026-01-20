@@ -4,7 +4,7 @@ Select leetcode (and neetcode) problems and their solutions for a refresh for co
 
 Part I. A comprehensive list of solutions to select leetcode problems.
 
-LC0001. Two Sum
+[LC0001](https://leetcode.com/problems/two-sum). Two Sum
 * [Solution at Quadratic time.](/03-two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
 * [Solution at Linearithmic-ish time.](/03-two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
 * [Solution at Linearithmic time. (v1)](/03-two-sum/TwoSumS4.cpp) Concepts: <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
@@ -47,7 +47,7 @@ LC0152. Maximum Product Subarray
 
 Part II. Good solutions to select neetcode Blind-75 questions.
 
-NC02. Valid Anagram. <i>Direct addressing, Anagrams</i><br>
+[NC02](https://leetcode.com/problems/valid-anagram). Valid Anagram. <i>Direct addressing, Anagrams</i><br>
 NC04. Group Anagrams. <i>Hashing, Canonicalising.</i><br>
 NC06. Encode and Decode Strings. <i>Encoding.</i><br>
 NC10. 3Sum. <i>Two Pointers, Reduction, Sorting.</i><br>
@@ -94,7 +94,7 @@ NC74. Missing Number. <i>Base, Modular arithmetic.</i><br>
 
 Part III. Further good-to-know concepts.
 
-LC0380. Insert Delete GetRandom. <i>Design, Bag</i><br>
+[LC0380](https://leetcode.com/problems/insert-delete-getrandom-o1/). Insert Delete GetRandom. <i>Design, Bag</i><br>
 LC0743. Network Delay Time. <i>Shortest path.</i><br>
 LC0127. Word Ladder. <i>Breath first search.</i><br>
 LC0994. Rotting Oranges. <i>2D Search, Multi-source BFS.</i><br>
