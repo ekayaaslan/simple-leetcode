@@ -211,142 +211,37 @@ NC41. Word Search II
 NC42. Number of Islands
 * <b>Number of Islands.</b> Linear time. <i>2D Search, Depth first search.</i><br> 
 
-NC43. Clone Graph
-* <b>Clone Graph.</b> Linearish time. <i>Hashing, Graph traversal.</i><br>
-
-NC44. Pacific Atlantic Water Flow
-* <b>Pacific Atlantic Water Flow.</b> Quadratic time. <i>Reduction, 2D Search, Depth first search.</i><br>
-* <b>Pacific Atlantic Water Flow.</b> Linear time. <i>Reduction, Graph search, Depth first search.</i><br>
-
-NC45. Course Schedule
-* <b>Course Schedule.</b> Quadratic time. <i>Scheduling.</i><br>
-* <b>Course Schedule.</b> Linear time. <i>Reduction, Graph cycles.</i><br>
-
-NC46. Graph Valid Tree
-* <b>Graph Valid Tree.</b> Linear time. <i>Graph traversal, Connected components, Unrooted tree.</i><br>
-* <b>Graph Valid Tree.</b> Linear time. <i>Graph cycles, Unrooted tree.</i><br>
-
+NC43. Clone Graph. <i>Hashing, Graph traversal.</i><br>
+NC44. Pacific Atlantic Water Flow. <i>Reduction, Graph search, Depth first search.</i><br>
+NC45. Course Schedule. <i>Reduction, Graph cycles.</i><br>
+NC46. Graph Valid Tree. <i>Graph traversal, Connected components, Unrooted tree.</i><br>
 NC47. Number of Connected Components In An Undirected Graph
 * <b>Number of Connected Components In An Undirected Graph.</b> Linear time. <i>Graph traversal, Connected components.</i><br>
 * <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i>Union-find.</i><br>
 
-NC48. Alien Dictionary
-* <b>Alien Dictionary.</b> Factorial time. <i>Brute force, Direct addressing, Backtracking, Combinatorial Search, Permutations.</i><br>
-* <b>Alien Dictionary.</b> Quadratic time. <i>Reduction, Directed acyclic graphs, Topological order..</i><br>
+NC48. Alien Dictionary. <i>Reduction, Directed acyclic graphs, Topological order.</i><br>
+NC50. House Robber II. <i>1D Dynamic programming, Reduction.</i><br>
+NC52. Longest Palindromic Substring. <i>Brute force, Running optimum, Palindrome center.</i><br>
+NC54. Decode Ways. <i>1D Dynamic programming, Combinatorics.</i><br>
+NC55. Coin Change. <i>2D Dynamic programming.</i><br>
+NC58. Longest Increasing Subsequence.<i>1D Dynamic programming, Running optimum.</i><br>
+NC60. Longest Common Subsequence.  <i>2D Dynamic programming.</i><br>
+NC65. Non Overlapping Intervals. <i>Interval sorting, 1D Dynamic programing.</i><br>
+NC66. Meeting Rooms. <i>Interval sorting.</i><br>
+NC67. Meeting Rooms II. <i>Interval sorting, Greedy, Sweeping line.</i><br>
+NC68. Rotate Image. <i>Reduction, Cyclic shift.</i><br>
+NC69. Spiral Matrix. <i>2D Navigation.</i><br>
+NC70. Set Matrix Zeroes. <i>Brute force, Precomputing.</i><br>
+NC72. Counting Bits. <i>Binary numbers, 1D Dynamic programming.</i><br>
+NC73. Reverse Bits. <i>Digits, Binary numbers</i><br>
+NC74. Missing Number. <i>Base, Modular arithmetic.</i><br>
 
-NC49. Climbing Stairs
-* <b>Climbing Stairs.</b> Linear time. <i>1D Dynamic programming.</i><br>
+---
 
-NC50. House Robber
-* <b>House Robber.</b> Linear time. <i>1D Dynamic programming.</i><br>
-
-NC51. House Robber II
-* <b>House Robber II.</b> Linear time. <i>1D Dynamic programming, Reduction.</i><br>
-
-NC52. Longest Palindromic Substring
-* <b>Longest Palindromic Substring.</b> Cubic time. <i>Brute force.</i><br>
-* <b>Longest Palindromic Substring.</b> Quadratic time. <i>Brute force, Running optimum, Palindrome center.</i><br>
-
-NC53. Palindromic Substrings
-* <b>Palindromic Substrings.</b> Cubic time. <i>Brute force, Reduction.</i><br>
-* <b>Palindromic Substrings.</b> Quadratic time. <i>Palindrom center.</i><br>
-
-NC54. Decode Ways
-* <b>Decode Ways.</b> Linear time. <i>1D Dynamic programming, Combinatorics.</i><br>
-
-NC55. Coin Change
-* <b>Coin Change.</b> Factorial time. <i>Backtracking, Combinatorial Search.</i><br>
-* <b>Coin Change.</b> Quadratic time. <i>2D Dynamic programming.</i><br>
-
-NC56. Maximum Product Subarray
-* <b>Maximum Product Subarray.</b> Cubic time. <i>Brute force.</i><br>
-* <b>Maximum Product Subarray.</b> Quadratic time. <i>Brute force, Running optimum.</i><br>
-* <b>Maximum Product Subarray.</b> Linear time. <i>1D Dynamic programming.</i><br>
-
-NC57. Word Break
-* <b>Word Break.</b> Cubic time. <i>1D Dynamic programming.</i><br>
-
-NC58. Longest Increasing Subsequence
-* <b>Longest Increasing Subsequence.</b> <i>1D Dynamic programming, Running optimum.</i><br>
-
-NC59. Unique Paths
-* <b>Unique Paths.</b> Quadratic time. <i>Combinatorics, Reduction, 2D Dynamic programming.</i><br>
-
-NC60. Longest Common Subsequence
-* <b>Longest Common Subsequence.</b> Quadratic time. <i>2D Dynamic programming.</i><br>
-
-NC61. Maximum Subarray
-* <b>Maximum Subarray.</b> Quadratic time. <i>Brute force, Prefix sum.</i><br>
-* <b>Maximum Subarray.</b> Linearithmic time. <i>Divide and conquer.</i><br>
-* <b>Maximum Subarray.</b> Linear time. <i>Greedy, Search reset.</i><br>
-
-NC62. Jump Game
-* <b>Jump Game.</b> Quadratic time. <i>1D Dynamic programming.</i><br>
-
-NC63. Insert Interval
-* <b>Insert Interval.</b> Linear time. <i>Linear search, Intervals</i><br>
-
-NC64. Merge Intervals
-* <b>Merge Intervals.</b> Linearithmic time. <i>Interval sorting.</i><br>
-
-NC65. Non Overlapping Intervals
-* <b>Non Overlapping Intervals.</b> Linearithmic time. <i>Interval sorting, 1D Dynamic programing.</i><br>
-
-NC66. Meeting Rooms
-* <b>Meeting Rooms.</b> Linearithmic time. <i>Interval sorting.</i><br>
-
-NC67. Meeting Rooms II
-* <b>Meeting Rooms II.</b> Linearithmic time. <i>Interval sorting, Greedy, Sweeping line.</i><br>
-
-NC68. Rotate Image
-* <b>Rotate Image.</b> Linear time. <i>Reduction, Cyclic shift.</i><br>
-
-NC69. Spiral Matrix
-* <b>Spiral Matrix.</b> Linear time. <i>2D Navigation.</i><br>
-
-NC70. Set Matrix Zeroes
-* <b>Set Matrix Zeroes.</b> Linear time. <i>Brute force, Precomputing.</i><br>
-
-NC71. Number of 1 Bits
-* <b>Number of 1 Bits.</b> Logarithmic time. <i>Digits, Binary numbers.</i><br>
-
-NC72. Counting Bits
-* <b>Counting Bits.</b> Linearithmic time. <i>Digits, Binary numbers, Brute force, Reduction.</i><br>
-* <b>Counting Bits.</b> Linear time. <i>Binary numbers, 1D Dynamic programming.</i><br>
-
-NC73. Reverse Bits
-* <b>Reverse Bits.</b> Logarithmic time. <i>Digits, Binary numbers</i><br>
-
-NC74. Missing Number
-* <b>Missing Number.</b> Linear time. <i>Brute force, Direct addressing.</i><br>
-* <b>Missing Number.</b> Linear time. <i>Bitwise XOR.</i><br>
-
-NC75. Sum of Two Integers
-* <b>Sum of Two Integers.</b> Logarithmic time. <i>Digits, Binary numbers, Addition, 2s complement.</i><br>
-
-LC0084. Largest Rectangle in Histogram
-* <b>Largest Rectangle in Histogram.</b> Linearithmic time. <i>Priority queues, Balanced trees.</i><br>
-* <b>Largest Rectangle in Histogram.</b> Linear time. <i>Running optimum, Monotonic stack.</i><br>
-
-LC0380. Insert Delete GetRandom
-* <b>Insert Delete GetRandom.</b> Constant time. <i>Design, Bag</i><br>
-
-LC0743. Network Delay Time
-* <b>Network Delay Time</b> Linearithmic time. <i>Shortest path.</i><br>
-
-LC0127. Word Ladder
-* <b>Word Ladder</b> Quadratic time. <i>Breath first search.</i><br>
-
-LC0994. Rotting Oranges
-* <b>Rotting Oranges</b> Linear time. <i>2D Search, Multi-source BFS.</i><br>
-
-LC1584. Min Cost to Connect All Points
-* <b>Min Cost to Connect All Points.</b> Linearithmic time. <i>Minimum spanning tree.</i><br>
-
-LC0329. Longest Increasing Path in a Matrix
-* <b>Longest Increasing Path in a Matrix</b> Linear time. <i>DAG Dynamic programming</i><br>
-
-LC0075. Sort Colors
-* <b>Sort Colors.</b> Linear time. <i>Three pointers.</i><br>
-
-
+LC0380. Insert Delete GetRandom. <i>Design, Bag</i><br>
+LC0743. Network Delay Time. <i>Shortest path.</i><br>
+LC0127. Word Ladder. <i>Breath first search.</i><br>
+LC0994. Rotting Oranges. <i>2D Search, Multi-source BFS.</i><br>
+LC1584. Min Cost to Connect All Points. <i>Minimum spanning tree.</i><br>
+LC0329. Longest Increasing Path in a Matrix. <i>DAG Dynamic programming</i><br>
+LC0075. Sort Colors. <i>Three pointers.</i><br>
