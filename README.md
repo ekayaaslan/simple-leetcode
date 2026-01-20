@@ -62,7 +62,7 @@ LC0152. Maximum Product Subarray
 
 Part II. Good solutions to select neetcode Blind-75 questions.
 
-[NC02.](https://leetcode.com/problems/valid-anagram) [Valid Anagram.](/solutions/ValidAnagram.cpp) Concepts: <i>Direct addressing, Anagrams, Canonicalising.</i><br>
+[NC02.](https://leetcode.com/problems/valid-anagram) Valid Anagram. Concepts: <i>Direct addressing, Anagrams, Canonicalising.</i><br>
 ```cpp
 if (s.length() != t.length()) {
     return false;
