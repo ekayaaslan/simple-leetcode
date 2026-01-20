@@ -47,99 +47,32 @@ LC0152. Maximum Product Subarray
 
 Part II. Good solutions to select neetcode Blind-75 questions.
 
-NC02. Valid Anagram
-* <b>Valid Anagram.</b> Linearithmic-time. <i>Sorting, Canonicalising.</i><br>
-* <b>Valid Anagram.</b> Linear-time. <i>Direct addressing, Anagrams</i><br>
-
-
-
-NC04. Group Anagrams
-* <b>Group Anagrams.</b> Quadratic-time. <i>Sorting, Canonicalising.</i><br>
-* <b>Group Anagrams.</b> Quadratic-time. <i>Hashing, Canonicalising.</i><br>
-
-
-
-NC06. Encode and Decode Strings
-* <b>Encode And Decode Strings.</b> Linear-time. <i>Encoding.</i><br>
-
-
-NC10. 3Sum
-* <b>3Sum.</b> Cubic-time. <i>Brute force, Sorting.</i><br>
-* <b>3Sum.</b> Quadratic time. <i>Two Pointers, Reduction, Sorting.</i><br>
-
-NC12. Best Time to Buy And Sell Stock
-* <b>Best Time to Buy And Sell Stock.</b> Quadratic-time. <i>Brute force.</i><br>
-* <b>Best Time to Buy And Sell Stock.</b> Quadratic time. <i>Sliding window.</i><br>
-
-NC14. Longest Repeating Character Replacement
-* <b>Longest Repeating Character Replacement.</b> Quadratic time. <i>Running optimum, Reduction.</i><br>
-* <b>Longest Repeating Character Replacement.</b> Linear time. <i>Sliding window.</i><br>
-
-NC16. Valid Parantheses
-* <b>Valid Parantheses.</b> Quadratic time. <i>Brute force, Parantheses.</i><br>
-* <b>Valid Parantheses.</b> Linear time. <i>Stack.</i><br>
-
-NC18. Search In Rotated Sorted Array
-* <b>Search In Rotated Sorted Array.</b> Linear time. <i>Linear search.</i> <br>
-* <b>Search In Rotated Sorted Array.</b> Logarithmic time. <i>Binary search, Reduction</i><br>
-
-NC21. Linked List Cycle
-* <b>Linked List Cycle.</b> Linearish time. <i>Linked List, Hashing.</i><br>
-* <b>Linked List Cycle.</b> Linear time. <i>Linked List, Fast-slow pivots.</i><br>
-
-NC22. Reorder List
-* <b>Reorder List.</b> Quadratic time. <i>Linked List. Transformations</i><br>
-* <b>Reorder List.</b> Linear time. <i>Linked List, Two pivots.</i><br>
-
-NC24. Merge K Sorted Lists
-* <b>Merge K Sorted Lists.</b> Linearithmic time. <i>Linked List, Priority Queue.</i><br>
-
-NC26. Maximum Depth of Binary Tree
-* <b>Maximum Depth of Binary Tree.</b> Linear time. <i>Binary Tree, Recursion.</i><br>
-
-
-NC29. Lowest Common Ancestor of a Binary Search Tree
-* <b>Lowest Common Ancestor of a Binary Tree.</b> Linear time. <i>Binary Tree, Tree Dynamic programming.</i><br>
-
-NC30. Binary Tree Level Order Traversal
-* <b>Binary Tree Level Order Traversal.</b> Linear time. <i>Binary Tree</i>.<br>
-* <b>Binary Tree Level Order Traversal.</b> Linear time. <i>FIFO queue.</i>.<br>
-
-NC31. Validate Binary Search Tree
-* <b>Validate Binary Search Tree.</b> Linear time. <i>Binary Tree, Binary search tree.</i><br>
-
-
-
-NC33. Construct Binary Tree From Preorder And Inorder Traversal
-* <b>Construct Binary Tree From Preorder And Inorder Traversal.</b> Quadratic time. <i>Binary Tree, Binary tree traversal, Recursion.</i><br>
-
-NC34. Binary Tree Maximum Path Sum
-* <b>Binary Tree Maximum Path Sum.</b> Quadratic time. <i>Binary Tree, Recursive search.</i><br>
-* <b>Binary Tree Maximum Path Sum.</b> Linear time. <i>Binary Tree, Tree dynamic programming.</i><br>
-
-
-
-NC36. Find Median From Data Stream
-* <b>Find Median From Data Stream.</b> Linearithmic time. <i>Sorting, Brute force, Design.</i><br>
-* <b>Find Median From Data Stream.</b> Logarithmic time. <i>Design, Priority Queue.</i><br>
-
-NC37. Combination Sum
-* <b>Combination Sum.</b> Factorial time. <i>Backtracking, Combinatorial Search.</i><br>
-
-NC41. Word Search II
-* <b>Word Search II.</b> Factorial time. <i>Backtracking, 2D Search, Trie.</i><br>
-
-NC42. Number of Islands
-* <b>Number of Islands.</b> Linear time. <i>2D Search, Depth first search.</i><br> 
-
+NC02. Valid Anagram. <i>Direct addressing, Anagrams</i><br>
+NC04. Group Anagrams. <i>Hashing, Canonicalising.</i><br>
+NC06. Encode and Decode Strings. <i>Encoding.</i><br>
+NC10. 3Sum. <i>Two Pointers, Reduction, Sorting.</i><br>
+NC12. Best Time to Buy And Sell Stock. <i>Sliding window.</i><br>
+NC14. Longest Repeating Character Replacement. <i>Sliding window.</i><br>
+NC16. Valid Parantheses. <i>Stack.</i><br>
+NC18. Search In Rotated Sorted Array. <i>Binary search, Reduction</i><br>
+NC21. Linked List Cycle. <i>Linked List, Fast-slow pivots.</i><br>
+NC22. Reorder List. <i>Linked List, Two pivots.</i><br>
+NC24. Merge K Sorted Lists. <i>Linked List, Priority Queue.</i><br>
+NC26. Maximum Depth of Binary Tree. <i>Binary Tree, Recursion.</i><br>
+NC29. Lowest Common Ancestor of a Binary Search Tree. <i>Binary Tree, Tree Dynamic programming.</i><br>
+NC30. Binary Tree Level Order Traversal. <i>FIFO queue.</i>.<br>
+NC31. Validate Binary Search Tree. <i>Binary Tree, Binary search tree.</i><br>
+NC33. Construct Binary Tree From Preorder And Inorder Traversal. <i>Binary Tree, Binary tree traversal, Recursion.</i><br>
+NC34. Binary Tree Maximum Path Sum. <i>Binary Tree, Tree dynamic programming.</i><br>
+NC36. Find Median From Data Stream. <i>Design, Priority Queue.</i><br>
+NC37. Combination Sum. <i>Backtracking, Combinatorial Search.</i><br>
+NC41. Word Search II. <i>Backtracking, 2D Search, Trie.</i><br>
+NC42. Number of Islands. <i>2D Search, Depth first search.</i><br> 
 NC43. Clone Graph. <i>Hashing, Graph traversal.</i><br>
 NC44. Pacific Atlantic Water Flow. <i>Reduction, Graph search, Depth first search.</i><br>
 NC45. Course Schedule. <i>Reduction, Graph cycles.</i><br>
 NC46. Graph Valid Tree. <i>Graph traversal, Connected components, Unrooted tree.</i><br>
-NC47. Number of Connected Components In An Undirected Graph
-* <b>Number of Connected Components In An Undirected Graph.</b> Linear time. <i>Graph traversal, Connected components.</i><br>
-* <b>Number of Connected Components In An Undirected Graph.</b> Linearish time. <i>Union-find.</i><br>
-
+NC47. Number of Connected Components In An Undirected Graph. <i>Union-find.</i><br>
 NC48. Alien Dictionary. <i>Reduction, Directed acyclic graphs, Topological order.</i><br>
 NC50. House Robber II. <i>1D Dynamic programming, Reduction.</i><br>
 NC52. Longest Palindromic Substring. <i>Brute force, Running optimum, Palindrome center.</i><br>
