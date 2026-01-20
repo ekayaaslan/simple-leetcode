@@ -9,16 +9,16 @@ Part I. A comprehensive list of solutions to select leetcode problems.
 * [Solution at Quadratic time.](/two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i>
 
   ```cpp
-    int n = nums.size();
-    for (int i=0; i<n; i++) {
-        for (int j=i+1; j<n; j++) {
-            int sum = nums[i]+nums[j];
-            if (sum == target) {
-                return {i, j};
-            }
-        }
-    }
-    return {}
+  int n = nums.size();
+  for (int i=0; i<n; i++) {
+      for (int j=i+1; j<n; j++) {
+          int sum = nums[i]+nums[j];
+          if (sum == target) {
+              return {i, j};
+          }
+      }
+  }
+  return {}
   ```
 
 * [Solution at Linearithmic-ish time.](/two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
@@ -62,7 +62,32 @@ LC0152. Maximum Product Subarray
 
 Part II. Good solutions to select neetcode Blind-75 questions.
 
-[NC02.](https://leetcode.com/problems/valid-anagram) [Valid Anagram.](/solutions/ValidAnagram.cpp) Concepts: <i>Direct addressing, Anagrams</i><br>
+[NC02.](https://leetcode.com/problems/valid-anagram) [Valid Anagram.](/solutions/ValidAnagram.cpp) Concepts: <i>Direct addressing, Anagrams, Canonicalising.</i><br>
+```cpp
+if (s.length() != t.length()) {
+    return false;
+}
+std::sort(s.begin(), s.end());
+std::sort(t.begin(), t.end());
+return s == t;
+```
+
+```cpp
+for (char ch : s) {
+    counts[ch-'a'] ++;
+}
+for (char ch : t) {
+    counts[ch-'a'] --;
+}
+for (int d=0; d<26; d++) {
+    if (counts[d] != 0) {
+        return false;
+    }
+}
+return true;
+```
+<br>
+
 NC04. Group Anagrams. Concepts: <i>Hashing, Canonicalising.</i><br>
 NC06. Encode and Decode Strings. Concepts: <i>Encoding.</i><br>
 NC10. 3Sum. Concepts: <i>Two Pointers, Reduction, Sorting.</i><br>
