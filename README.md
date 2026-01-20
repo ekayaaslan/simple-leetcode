@@ -1,4 +1,8 @@
-A set of realistic solutions to selected leetcode problems for coding interviews. 
+Select leetcode (and neetcode) problems and their solutions for a refresh for coding interviews.
+
+---
+
+Part I. A conprehensive list of solutions to select leetcode problems.
 
 LC0001. Two Sum
 * [Solution at Quadratic time.](/03-two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i><br>
@@ -41,7 +45,7 @@ LC0152. Maximum Product Subarray
 
 ---
 
-A solution-centric approach to the neetcode Blind-75 questions.
+Part II. Good solutions to select neetcode Blind-75 questions.
 
 NC01. Contains Duplicate
 * [Solution at Quadratic time.](/01-contains-duplicate/ContainsDuplicateS1.cpp) Concepts: <i>Brute force, Symmetry.</i><br>
@@ -237,6 +241,8 @@ NC73. Reverse Bits. <i>Digits, Binary numbers</i><br>
 NC74. Missing Number. <i>Base, Modular arithmetic.</i><br>
 
 ---
+
+Part III. Further good-to-know concepts.
 
 LC0380. Insert Delete GetRandom. <i>Design, Bag</i><br>
 LC0743. Network Delay Time. <i>Shortest path.</i><br>
