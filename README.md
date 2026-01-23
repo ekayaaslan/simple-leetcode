@@ -114,7 +114,7 @@ LC0347. Top K Frequent Elements
 Part II. Basic concepts and solutions to select leetcode questions.
 
 [LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
-[LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits.</i><br> 
+[LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits, Integer boundaries.</i><br> 
 
 ---
 
