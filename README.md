@@ -71,6 +71,28 @@ Part I. A comprehensive list of solutions to select leetcode problems.
 * [Solution at Linear-ish time. (v2)](/two-sum/TwoSumS2.cpp) Concepts: <i>Hashing, Index mapping, Math.</i><br>
 * [Solution at Linear-ish time. (v3)](/two-sum/TwoSumS3.cpp) Concepts: <i>Hashing, Symmetry, Index mapping.</i><br>
 
+LC0003. Longest Substring Without Repeating Characters
+
+[LC0004.](https://leetcode.com/problems/median-of-two-sorted-arrays) Median of Two Sorted Arrays. 
+* Solution at Linearithmic time. Concepts: <i>Sorting.</i><br>
+* Solution at Linearithmic time. Concepts: <i>Balanced trees.</i><br>
+* Solution at Linear-ish time. Concepts: <i>Quickselect.</i><br>
+* Solution at Linear time. Concepts: <i>Merge sort.</i><br>
+* Solution at Logsquare time. Concepts: <i>Binary serach, Search square.</i><br>
+* Solution at Logarithmic time. Concepts: <i>Binary search, Median of two arrays search.</i><br>
+
+LC0011. Container With Most Water
+
+LC0042. Trapping Rain Water
+
+LC0053. Maximum Subarray
+
+LC0084. Largest Rectangle in Histogram
+
+LC0128. Longest Consecutive Sequence
+
+LC0152. Maximum Product Subarray
+
 LC0217. Contains Duplicate
 * [Solution at Quadratic time.](/contains-duplicate/ContainsDuplicateS1.cpp) Concepts: <i>Brute force, Symmetry.</i><br>
 * [Solution at Linearithmic-ish time.](/contains-duplicate/ContainsDuplicateS2.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
@@ -86,20 +108,6 @@ LC0347. Top K Frequent Elements
 * [Solution at Linear-ish time.](/top-k-frequent-elements/TopKFrequentElementsS5.cpp) Concepts: <i>Hashing, Counting, Quickselect, Data-count pairing.</i><br>
 * [Solution at Linear time. (v1)](/top-k-frequent-elements/TopKFrequentElementsS6.cpp) Concepts: <i>Hashing, Counting, Bucket sort.</i><br>
 * [Solution at Linear time. (v2)](/top-k-frequent-elements/TopKFrequentElementsS7.cpp) Concepts: <i>Hashing, Running counts, Bucket sort.</i><br>
-
-LC0003. Longest Substring Without Repeating Characters
-
-LC0011. Container With Most Water
-
-LC0042. Trapping Rain Water
-
-LC0053. Maximum Subarray
-
-LC0084. Largest Rectangle in Histogram
-
-LC0128. Longest Consecutive Sequence
-
-LC0152. Maximum Product Subarray
 
 ---
 
@@ -198,7 +206,6 @@ NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 Part III. Further good-to-know concepts or ideas.
 
 [LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
-[LC0004.](https://leetcode.com/problems/median-of-two-sorted-arrays) Median of Two Sorted Arrays. Concepts: <i>Binary search, Median of two arrays search, Merge sort, Search square.</i><br>
 [LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
 LC0743. Network Delay Time. Concepts: <i>Shortest path.</i><br>
 LC0127. Word Ladder. Concepts: <i>Breath first search.</i><br>
