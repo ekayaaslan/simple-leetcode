@@ -210,7 +210,7 @@ NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 
 ---
 
-Part IV. Further good-to-know concepts or ideas.
+Part IV. Further good-to-know slightly advanced concepts or ideas.
 
 [LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
 LC0743. Network Delay Time. Concepts: <i>Shortest path.</i><br>
