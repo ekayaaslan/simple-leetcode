@@ -22,6 +22,49 @@ Part I. A comprehensive list of solutions to select leetcode problems.
   ```
 
 * [Solution at Linearithmic-ish time.](/two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
+
+  ```cpp
+  // Recursively solve for range [lo, hi].
+  vector<int> search(vector<int>& nums, int lo, int hi, int target) {
+      if (lo == hi) {
+          return {};
+      }
+      int mid = (lo+hi)/2;
+      vector<int> left = search(nums, lo, mid, target);
+      if (!left.empty()) {
+          return left;
+      }
+      vector<int> right = search(nums, mid+1, hi, target);
+      if (!right.empty()) {
+          return right;
+      }
+      return search(nums, lo, mid, hi, target);
+  }
+  ```
+  
+  ```cpp
+  // Solve for pairs, one from [lo,mid] and the other from [mid+1,lo].
+  vector<int> search(vector<int>& nums, int lo, int mid, int hi, int target) {
+      map<int,int> idxmap;
+      for (int i=lo; i<=mid; i++) {
+          idxmap[nums[i]] = i;
+      }
+      for (int j=mid+1; j<=hi; j++) {
+          int complem = target-nums[j];
+          if (idxmap.contains(complem)) {
+              return {idxmap[complem], j};
+          }
+      }
+      return {};
+  }
+  ```
+
+  ```cpp
+  // Initiate the recursive search.
+  int n = nums.size();
+  return search(nums, 0, n-1, target);
+  ```
+
 * [Solution at Linearithmic time. (v1)](/two-sum/TwoSumS4.cpp) Concepts: <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
 * [Solution at Linearithmic time. (v2)](/two-sum/TwoSumS5.cpp) Concepts: <i>Sorting, Two pointers, Data-index pairing.</i><br>
 * [Solution at Linear-ish time. (v1)](/two-sum/TwoSumS1.cpp) Concepts: <i>Hashing, Counting, Index mapping.</i><br>
