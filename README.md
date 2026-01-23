@@ -115,7 +115,26 @@ Part II. Basic concepts and solutions to select leetcode questions.
 
 [LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
 [LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits, Integer bounds.</i><br>
-[LC0008.](https://leetcode.com/problems/string-to-integer-atoi) String to Integer. Concepts: <i> Finite state machine, Integer bounds, Digits.</i><br>
+[LC0008.](https://leetcode.com/problems/string-to-integer-atoi) String to Integer. Concepts: <i>Finite state machine, Integer bounds, Digits.</i><br>
+[LC0009.](https://leetcode.com/problems/palindrome-number) Palindrome Number. Concepts: <i>Digits, Symmetry.</i><br>
+
+```cpp
+// Build vector of digits, in reverse order.
+while (x > 0) {
+    digits.push_back(x%10);
+    x = x/10;
+}
+```
+
+```cpp
+// Is it palindrom?
+for (int i=0; i<n/2; i++) {
+    if (digits[i] != digits[n-i-1]) {
+        return false;
+    }
+}
+return true;
+```
 
 ---
 
@@ -220,3 +239,7 @@ LC0994. Rotting Oranges. Concepts: <i>2D Search, Multi-source BFS.</i><br>
 LC1584. Min Cost to Connect All Points. Concepts: <i>Minimum spanning tree.</i><br>
 LC0329. Longest Increasing Path in a Matrix. Concepts: <i>DAG Dynamic programming</i><br>
 LC0075. Sort Colors. Concepts: <i>Three pointers.</i><br>
+
+---
+
+Part V. Wish List of concepts. <i>Interval tree, Segment tree, Prime numbers.</i>
