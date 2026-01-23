@@ -45,14 +45,14 @@ Part I. A comprehensive list of solutions to select leetcode problems.
   ```cpp
   // Solve for pairs, one from [lo,mid] and the other from [mid+1,lo].
   vector<int> search(vector<int>& nums, int lo, int mid, int hi, int target) {
-      map<int,int> idxmap;
+      map<int,int> idx;
       for (int i=lo; i<=mid; i++) {
-          idxmap[nums[i]] = i;
+          idx[nums[i]] = i;
       }
       for (int j=mid+1; j<=hi; j++) {
-          int complem = target-nums[j];
-          if (idxmap.contains(complem)) {
-              return {idxmap[complem], j};
+          int cnum = target-nums[j];
+          if (idx.contains(cnum)) {
+              return {idx[cnum], j};
           }
       }
       return {};
