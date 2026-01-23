@@ -111,7 +111,14 @@ LC0347. Top K Frequent Elements
 
 ---
 
-Part II. Good solutions to select neetcode Blind-75 questions.
+Part II. Basic concepts and solutions to select leetcode questions.
+
+[LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
+[LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits.</i><br> 
+
+---
+
+Part III. Good solutions to select neetcode Blind-75 questions.
 
 [NC02.](https://leetcode.com/problems/valid-anagram) Valid Anagram. Concepts: <i>Direct addressing, Anagrams, Canonicalising.</i><br>
 ```cpp
@@ -203,9 +210,8 @@ NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 
 ---
 
-Part III. Further good-to-know concepts or ideas.
+Part IV. Further good-to-know concepts or ideas.
 
-[LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
 [LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
 LC0743. Network Delay Time. Concepts: <i>Shortest path.</i><br>
 LC0127. Word Ladder. Concepts: <i>Breath first search.</i><br>
