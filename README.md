@@ -195,9 +195,10 @@ NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 
 ---
 
-Part III. Further good-to-know concepts.
+Part III. Further good-to-know concepts or ideas.
 
-[LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1/) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
+[LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
+[LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
 LC0743. Network Delay Time. Concepts: <i>Shortest path.</i><br>
 LC0127. Word Ladder. Concepts: <i>Breath first search.</i><br>
 LC0994. Rotting Oranges. Concepts: <i>2D Search, Multi-source BFS.</i><br>
