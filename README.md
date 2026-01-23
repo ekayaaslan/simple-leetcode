@@ -198,6 +198,7 @@ NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 Part III. Further good-to-know concepts or ideas.
 
 [LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
+[LC0004.](https://leetcode.com/problems/median-of-two-sorted-arrays) Median of Two Sorted Arrays. Concepts: <i>Binary Search, Median of Two Arrays.</i><br>
 [LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
 LC0743. Network Delay Time. Concepts: <i>Shortest path.</i><br>
 LC0127. Word Ladder. Concepts: <i>Breath first search.</i><br>
