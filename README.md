@@ -117,6 +117,7 @@ Part II. Basic concepts and solutions to select leetcode questions.
 [LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits, Integer bounds.</i><br>
 [LC0008.](https://leetcode.com/problems/string-to-integer-atoi) String to Integer. Concepts: <i>Finite state machine, Integer bounds, Digits.</i><br>
 [LC0009.](https://leetcode.com/problems/palindrome-number) Palindrome Number. Concepts: <i>Digits, Symmetry.</i><br>
+[LC0016.](https://leetcode.com/problems/3sum-closest) 3Sum Closest. Concepts: <i>Two Pointers, Binary Search, Reduction, Balanced trees.</i><br>
 [LC0044.](https://leetcode.com/problems/wildcard-matching) Wildcard Matching. Concepts: <i>1D Dynamic programming, State compression, Wildcards.</i><br>
 
 ```cpp
@@ -189,7 +190,7 @@ for (auto& [_, anagrams]: groups) {
 <br>
 
 NC06. Encode and Decode Strings. Concepts: <i>Encoding.</i><br>
-NC10. 3Sum. Concepts: <i>Two Pointers, Reduction, Sorting.</i><br>
+NC10. 3Sum. Concepts: <i>Two Pointers, Reduction, Sorting, Deduplication. </i><br>
 NC12. Best Time to Buy And Sell Stock. Concepts: <i>Sliding window.</i><br>
 NC14. Longest Repeating Character Replacement. Concepts: <i>Sliding window.</i><br>
 NC16. Valid Parantheses. Concepts: <i>Stack.</i><br>
