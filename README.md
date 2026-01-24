@@ -85,13 +85,7 @@ LC0011. Container With Most Water
 
 LC0042. Trapping Rain Water
 
-LC0053. Maximum Subarray
-
 LC0084. Largest Rectangle in Histogram
-
-LC0128. Longest Consecutive Sequence
-
-LC0152. Maximum Product Subarray
 
 LC0217. Contains Duplicate
 * Solution at Quadratic time. Concepts: <i>Brute force, Symmetry.</i><br>
@@ -168,6 +162,7 @@ for (auto& [_, anagrams]: groups) {
 }
 ```
 
+[LC0053.](https://leetcode.com/problems/maximum-subarray/) Maximum Subarray. Concepts: <i>1D Dynamic programming, Search reset.</i><br>
 [LC0054.](https://leetcode.com/problems/spiral-matrix/) Spiral Matrix. Concepts: <i>2D Navigation.</i><br>
 [LC0073.](https://leetcode.com/problems/set-matrix-zeroes/) Set Matrix Zeroes. Concepts: <i>Brute force, Precomputing.</i><br>
 [LC0075.](https://leetcode.com/problems/sort-colors) Sort Colors. Concepts: <i>Three pointers.</i><br>
@@ -179,9 +174,11 @@ for (auto& [_, anagrams]: groups) {
 [LC0121.](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) Best Time to Buy And Sell Stock. Concepts: <i>Sliding window.</i><br>
 [LC0124.](https://leetcode.com/problems/binary-tree-maximum-path-sum) Binary Tree Maximum Path Sum. Concepts: <i>Binary Tree, Tree dynamic programming.</i><br>
 [LC0127.](https://leetcode.com/problems/word-ladder) Word Ladder. Concepts: <i>Breath first search.</i><br>
+[LC0128.](https://leetcode.com/problems/longest-consecutive-sequence) Longest Consecutive Sequence. Concepts: <i>Sorting, Hashing, Sequence building.</i><br>
 [LC0133.](https://leetcode.com/problems/clone-graph/) Clone Graph. Concepts: <i>Hashing, Graph traversal.</i><br>
 [LC0141.](https://leetcode.com/problems/linked-list-cycle) Linked List Cycle. Concepts: <i>Linked List, Fast-slow pivots.</i><br>
 [LC0143.](https://leetcode.com/problems/reorder-list) Reorder List. Concepts: <i>Linked List, Two pivots.</i><br>
+[LC0152.](https://leetcode.com/problems/maximum-product-subarray) Maximum Product Subarray. Concepts: <i>Prefix Sum.</i><br>
 [LC0190.](https://leetcode.com/problems/reverse-bits/) Reverse Bits. Concepts: <i>Digits, Binary numbers</i><br>
 [LC0200.](https://leetcode.com/problems/number-of-islands/) Number of Islands. Concepts: <i>2D Search, Depth first search.</i><br>
 [LC0207.](https://leetcode.com/problems/course-schedule/) Course Schedule. Concepts: <i>Reduction, Graph cycles.</i><br>
