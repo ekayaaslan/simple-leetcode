@@ -117,6 +117,7 @@ Part II. Basic concepts and solutions to select leetcode questions.
 [LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits, Integer bounds.</i><br>
 [LC0008.](https://leetcode.com/problems/string-to-integer-atoi) String to Integer. Concepts: <i>Finite state machine, Integer bounds, Digits.</i><br>
 [LC0009.](https://leetcode.com/problems/palindrome-number) Palindrome Number. Concepts: <i>Digits, Symmetry.</i><br>
+[LC0044.](https://leetcode.com/problems/wildcard-matching) Wildcard Matching. Concepts: <i>1D Dynamic programming, State compression, Wildcards.</i><br>
 
 ```cpp
 // Build vector of digits, in reverse order.
