@@ -214,8 +214,8 @@ for (int d=0; d<26; d++) {
 return true;
 ```
 
-[LC0252.](https://leetcode.com/problems/meeting-rooms/) Meeting Rooms. Concepts: <i>Interval sorting.</i><br>
-[LC0253.](https://leetcode.com/problems/meeting-rooms-ii/) Meeting Rooms II. Concepts: <i>Interval sorting, Greedy, Sweeping line.</i><br>
+[LC0252.](https://leetcode.com/problems/meeting-rooms/) Meeting Rooms. Concepts: <i>Sweeping line.</i><br>
+[LC0253.](https://leetcode.com/problems/meeting-rooms-ii/) Meeting Rooms II. Concepts: <i>Greedy, Sweeping line.</i><br>
 [LC0261.](https://leetcode.com/problems/graph-valid-tree/) Graph Valid Tree. Concepts: <i>Graph traversal, Connected components, Unrooted tree.</i><br>
 [LC0268.](https://leetcode.com/problems/missing-number/) Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 [LC0269.](https://leetcode.com/problems/alien-dictionary/) Alien Dictionary. Concepts: <i>Reduction, Directed acyclic graphs, Topological order.</i><br>
@@ -229,7 +229,7 @@ return true;
 [LC0380.](https://leetcode.com/problems/insert-delete-getrandom-o1) Insert Delete GetRandom. Concepts: <i>Design, Bag</i><br>
 [LC0417.](https://leetcode.com/problems/pacific-atlantic-water-flow/) Pacific Atlantic Water Flow. Concepts: <i>Reduction, Graph search, Depth first search.</i><br>
 [LC0424.](https://leetcode.com/problems/longest-repeating-character-replacement) Longest Repeating Character Replacement. Concepts: <i>Sliding window.</i><br>
-[LC0435.](https://leetcode.com/problems/non-overlapping-intervals/) Non Overlapping Intervals. Concepts: <i>Interval sorting, 1D Dynamic programing.</i><br>
+[LC0435.](https://leetcode.com/problems/non-overlapping-intervals/) Non Overlapping Intervals. Concepts: <i>Sweeping line, 1D Dynamic programing.</i><br>
 [LC0743.](https://leetcode.com/problems/network-delay-time) Network Delay Time. Concepts: <i>Shortest path.</i><br>
 [LC0994.](https://leetcode.com/problems/rotting-oranges) Rotting Oranges. Concepts: <i>2D Search, Multi-source BFS.</i><br>
 [LC1143.](https://leetcode.com/problems/longest-common-subsequence/) Longest Common Subsequence. Concepts: <i>2D Dynamic programming.</i><br>
