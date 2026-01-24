@@ -188,6 +188,7 @@ for (auto& [_, anagrams]: groups) {
 [LC0212.](https://leetcode.com/problems/word-search-ii/) Word Search II. Concepts: <i>Backtracking, 2D Search, Trie.</i><br>
 [LC0213.](https://leetcode.com/problems/house-robber-ii/) House Robber II. Concepts: <i>1D Dynamic programming, Reduction.</i><br>
 [LC0236.](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree). Concepts: <i>Binary Tree, Tree Dynamic programming.</i><br>
+[LC0239.](https://leetcode.com/problems/sliding-window-maximum). Concepts: <i>Monotonic Deque, Balanced trees.</i><br>
 [LC0242.](https://leetcode.com/problems/valid-anagram) Valid Anagram. Concepts: <i>Direct addressing, Anagrams, Canonicalising.</i><br>
 
 ```cpp
@@ -237,4 +238,3 @@ return true;
 [LC1143.](https://leetcode.com/problems/longest-common-subsequence/) Longest Common Subsequence. Concepts: <i>2D Dynamic programming.</i><br>
 [LC1584.](https://leetcode.com/problems/min-cost-to-connect-all-points) Min Cost to Connect All Points. Concepts: <i>Minimum spanning tree.</i><br>
 
-Further Concepts: Monotonic stack, Monotonic queue, Monotonic deque, Prime numbers.
