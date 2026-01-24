@@ -208,34 +208,34 @@ return true;
 [LC0994.](https://leetcode.com/problems/rotting-oranges) Rotting Oranges. Concepts: <i>2D Search, Multi-source BFS.</i><br>
 [LC1584.](https://leetcode.com/problems/min-cost-to-connect-all-points) Min Cost to Connect All Points. Concepts: <i>Minimum spanning tree.</i><br>
 
-NC30. Binary Tree Level Order Traversal. Concepts: <i>FIFO queue.</i>.<br>
-NC31. Validate Binary Search Tree. Concepts: <i>Binary Tree, Binary search tree.</i><br>
-NC33. Construct Binary Tree From Preorder And Inorder Traversal. Concepts: <i>Binary Tree, Binary tree traversal, Recursion.</i><br>
-NC34. Binary Tree Maximum Path Sum. Concepts: <i>Binary Tree, Tree dynamic programming.</i><br>
-NC36. Find Median From Data Stream. Concepts: <i>Design, Priority Queue.</i><br>
-NC37. Combination Sum. Concepts: <i>Backtracking, Combinatorial Search.</i><br>
-NC41. Word Search II. Concepts: <i>Backtracking, 2D Search, Trie.</i><br>
-NC42. Number of Islands. Concepts: <i>2D Search, Depth first search.</i><br> 
-NC43. Clone Graph. Concepts: <i>Hashing, Graph traversal.</i><br>
-NC44. Pacific Atlantic Water Flow. Concepts: <i>Reduction, Graph search, Depth first search.</i><br>
-NC45. Course Schedule. Concepts: <i>Reduction, Graph cycles.</i><br>
-NC46. Graph Valid Tree. Concepts: <i>Graph traversal, Connected components, Unrooted tree.</i><br>
-NC47. Number of Connected Components In An Undirected Graph. Concepts: <i>Union-find.</i><br>
-NC48. Alien Dictionary. Concepts: <i>Reduction, Directed acyclic graphs, Topological order.</i><br>
-NC50. House Robber II. Concepts: <i>1D Dynamic programming, Reduction.</i><br>
-NC52. Longest Palindromic Substring. Concepts: <i>Brute force, Running optimum, Palindrome center.</i><br>
-NC54. Decode Ways. Concepts: <i>1D Dynamic programming, Combinatorics.</i><br>
-NC55. Coin Change. Concepts: <i>2D Dynamic programming.</i><br>
-NC58. Longest Increasing Subsequence. Concepts: <i>1D Dynamic programming, Running optimum.</i><br>
-NC60. Longest Common Subsequence. Concepts: <i>2D Dynamic programming.</i><br>
-NC65. Non Overlapping Intervals. Concepts: <i>Interval sorting, 1D Dynamic programing.</i><br>
-NC66. Meeting Rooms. Concepts: <i>Interval sorting.</i><br>
-NC67. Meeting Rooms II. Concepts: <i>Interval sorting, Greedy, Sweeping line.</i><br>
-NC68. Rotate Image. Concepts: <i>Reduction, Cyclic shift.</i><br>
-NC69. Spiral Matrix. Concepts: <i>2D Navigation.</i><br>
-NC70. Set Matrix Zeroes. Concepts: <i>Brute force, Precomputing.</i><br>
-NC72. Counting Bits. Concepts: <i>Binary numbers, 1D Dynamic programming.</i><br>
-NC73. Reverse Bits. Concepts: <i>Digits, Binary numbers</i><br>
-NC74. Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
+[LC0102.](https://leetcode.com/problems/binary-tree-level-order-traversal) Binary Tree Level Order Traversal. Concepts: <i>FIFO queue.</i>.<br>
+[LC0098.](https://leetcode.com/problems/validate-binary-search-tree) Validate Binary Search Tree. Concepts: <i>Binary Tree, Binary search tree.</i><br>
+[LC0105.](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) Construct Binary Tree From Preorder And Inorder Traversal. Concepts: <i>Binary Tree, Binary tree traversal, Recursion.</i><br>
+[LC0124.](https://leetcode.com/problems/binary-tree-maximum-path-sum) Binary Tree Maximum Path Sum. Concepts: <i>Binary Tree, Tree dynamic programming.</i><br>
+[LC0295.](https://leetcode.com/problems/find-median-from-data-stream) Find Median From Data Stream. Concepts: <i>Design, Priority Queue.</i><br>
+[LC0039.](https://leetcode.com/problems/combination-sum) Combination Sum. Concepts: <i>Backtracking, Combinatorial Search.</i><br>
+[LC0212.](https://leetcode.com/problems/word-search-ii/) Word Search II. Concepts: <i>Backtracking, 2D Search, Trie.</i><br>
+[LC0200.](https://leetcode.com/problems/number-of-islands/) Number of Islands. Concepts: <i>2D Search, Depth first search.</i><br> 
+[LC0133.](https://leetcode.com/problems/clone-graph/) Clone Graph. Concepts: <i>Hashing, Graph traversal.</i><br>
+[LC0417.](https://leetcode.com/problems/pacific-atlantic-water-flow/) Pacific Atlantic Water Flow. Concepts: <i>Reduction, Graph search, Depth first search.</i><br>
+[LC0207.](https://leetcode.com/problems/course-schedule/) Course Schedule. Concepts: <i>Reduction, Graph cycles.</i><br>
+[LC0261.](https://leetcode.com/problems/graph-valid-tree/) Graph Valid Tree. Concepts: <i>Graph traversal, Connected components, Unrooted tree.</i><br>
+[LC0323.](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) Number of Connected Components In An Undirected Graph. Concepts: <i>Union-find.</i><br>
+[LC0269.](https://leetcode.com/problems/alien-dictionary/) Alien Dictionary. Concepts: <i>Reduction, Directed acyclic graphs, Topological order.</i><br>
+[LC0213.](https://leetcode.com/problems/house-robber-ii/) House Robber II. Concepts: <i>1D Dynamic programming, Reduction.</i><br>
+[LC0005.](https://leetcode.com/problems/longest-palindromic-substring/) Longest Palindromic Substring. Concepts: <i>Brute force, Running optimum, Palindrome center.</i><br>
+[LC0091.](https://leetcode.com/problems/decode-ways/) Decode Ways. Concepts: <i>1D Dynamic programming, Combinatorics.</i><br>
+[LC0322.](https://leetcode.com/problems/coin-change/) Coin Change. Concepts: <i>2D Dynamic programming.</i><br>
+[LC0300.](https://leetcode.com/problems/longest-increasing-subsequence/) Longest Increasing Subsequence. Concepts: <i>1D Dynamic programming, Running optimum.</i><br>
+[LC1143.](https://leetcode.com/problems/longest-common-subsequence/) Longest Common Subsequence. Concepts: <i>2D Dynamic programming.</i><br>
+[LC0435.](https://leetcode.com/problems/non-overlapping-intervals/) Non Overlapping Intervals. Concepts: <i>Interval sorting, 1D Dynamic programing.</i><br>
+[LC0252.](https://leetcode.com/problems/meeting-rooms/) Meeting Rooms. Concepts: <i>Interval sorting.</i><br>
+[LC0253.](https://leetcode.com/problems/meeting-rooms-ii/) Meeting Rooms II. Concepts: <i>Interval sorting, Greedy, Sweeping line.</i><br>
+[LC0048.](https://leetcode.com/problems/rotate-image/) Rotate Image. Concepts: <i>Reduction, Cyclic shift.</i><br>
+[LC0054.](https://leetcode.com/problems/spiral-matrix/) Spiral Matrix. Concepts: <i>2D Navigation.</i><br>
+[LC0073.](https://leetcode.com/problems/set-matrix-zeroes/) Set Matrix Zeroes. Concepts: <i>Brute force, Precomputing.</i><br>
+[LC0338.](https://leetcode.com/problems/counting-bits/) Counting Bits. Concepts: <i>Binary numbers, 1D Dynamic programming.</i><br>
+[LC0190.](https://leetcode.com/problems/reverse-bits/) Reverse Bits. Concepts: <i>Digits, Binary numbers</i><br>
+[LC0268.](https://leetcode.com/problems/missing-number/) Missing Number. Concepts: <i>Base, Modular arithmetic.</i><br>
 
 Further Concepts: Monotonic stack, Monotonic queue, Monotonic deque, Prime numbers.
