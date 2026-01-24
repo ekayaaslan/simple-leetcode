@@ -140,6 +140,7 @@ return true;
 [LC0017.](https://leetcode.com/problems/letter-combinations-of-a-phone-number) Letter Combinations of a Phone Number. Concepts: <i>Backtracking, Combinations.</i><br>
 [LC0021.](https://leetcode.com/problems/merge-two-sorted-lists) Merge Two Sorted Lists. Concepts: <i>Two pointer-pointers.</i><br>
 [LC0022.](https://leetcode.com/problems/generate-parentheses) Generate Parentheses. Concepts: <i>Backtracking, Parantheses, Catalan combinations, Precomputing.</i><br>
+[LC0026.](https://leetcode.com/problems/remove-duplicates-from-sroted-array) Remove Duplicates from Sorted Array. Concepts: <i>Two pointers, Inplace deduplication.</i><br>
 [LC0044.](https://leetcode.com/problems/wildcard-matching) Wildcard Matching. Concepts: <i>1D Dynamic programming, State compression, Wildcards.</i><br>
 
 ---
