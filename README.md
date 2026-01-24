@@ -1,4 +1,4 @@
-Select leetcode (and neetcode) problems and their solutions for a refresh for coding interviews.
+Select leetcode problems and their solutions for a coding interview refresh.
 
 ---
 
