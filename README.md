@@ -6,7 +6,7 @@ Part I. A comprehensive list of solutions to select leetcode problems.
 
 [LC0001.](https://leetcode.com/problems/two-sum) Two Sum
 
-* [Solution at Quadratic time.](/two-sum/TwoSumS7.cpp) Concepts: <i>Brute force.</i>
+* Solution at Quadratic time. Concepts: <i>Brute force.</i>
 
   ```cpp
   int n = nums.size();
@@ -21,7 +21,7 @@ Part I. A comprehensive list of solutions to select leetcode problems.
   return {}
   ```
 
-* [Solution at Linearithmic-ish time.](/two-sum/TwoSumS6.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* Solution at Linearithmic-ish time. Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
 
   ```cpp
   // Recursively solve for range [lo, hi].
@@ -65,11 +65,11 @@ Part I. A comprehensive list of solutions to select leetcode problems.
   return search(nums, 0, n-1, target);
   ```
 
-* [Solution at Linearithmic time. (v1)](/two-sum/TwoSumS4.cpp) Concepts: <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
-* [Solution at Linearithmic time. (v2)](/two-sum/TwoSumS5.cpp) Concepts: <i>Sorting, Two pointers, Data-index pairing.</i><br>
-* [Solution at Linear-ish time. (v1)](/two-sum/TwoSumS1.cpp) Concepts: <i>Hashing, Counting, Index mapping.</i><br>
-* [Solution at Linear-ish time. (v2)](/two-sum/TwoSumS2.cpp) Concepts: <i>Hashing, Index mapping, Math.</i><br>
-* [Solution at Linear-ish time. (v3)](/two-sum/TwoSumS3.cpp) Concepts: <i>Hashing, Symmetry, Index mapping.</i><br>
+* Solution at Linearithmic time. (v1) Concepts: <i>Sorting, Binary search, Symmetry, Data-index pairing.</i><br>
+* Solution at Linearithmic time. (v2) Concepts: <i>Sorting, Two pointers, Data-index pairing.</i><br>
+* Solution at Linear-ish time. (v1) Concepts: <i>Hashing, Counting, Index mapping.</i><br>
+* Solution at Linear-ish time. (v2) Concepts: <i>Hashing, Index mapping, Math.</i><br>
+* Solution at Linear-ish time. (v3) Concepts: <i>Hashing, Symmetry, Index mapping.</i><br>
 
 LC0003. Longest Substring Without Repeating Characters
 
@@ -94,20 +94,20 @@ LC0128. Longest Consecutive Sequence
 LC0152. Maximum Product Subarray
 
 LC0217. Contains Duplicate
-* [Solution at Quadratic time.](/contains-duplicate/ContainsDuplicateS1.cpp) Concepts: <i>Brute force, Symmetry.</i><br>
-* [Solution at Linearithmic-ish time.](/contains-duplicate/ContainsDuplicateS2.cpp) Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
-* [Solution at Linearithmic time.](/contains-duplicate/ContainsDuplicateS3.cpp) Concepts: <i>Sorting, Linear search.</i><br>
-* [Solution at Linearish time. (v1)](/contains-duplicate/ContainsDuplicateS4.cpp) Concepts: <i>Hashing, Counting.</i><br>
-* [Solution at Linearish time. (v2)](/contains-duplicate/ContainsDuplicateS5.cpp) Concepts: <i>Hashing, Symmetry.</i><br>
+* Solution at Quadratic time. Concepts: <i>Brute force, Symmetry.</i><br>
+* Solution at Linearithmic-ish time. Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
+* Solution at Linearithmic time. Concepts: <i>Sorting, Linear search.</i><br>
+* Solution at Linearish time. (v1) Concepts: <i>Hashing, Counting.</i><br>
+* Solution at Linearish time. (v2) Concepts: <i>Hashing, Symmetry.</i><br>
 
 LC0347. Top K Frequent Elements
-* [Solution at Quadratic time.](/top-k-frequent-elements/TopKFrequentElementsS1.cpp) Concepts: <i>Hashing, Counting, Brute force.</i><br>
-* [Solution at Linearithmic time. (v1)](/top-k-frequent-elements/TopKFrequentElementsS2.cpp) Concepts: <i>Hashing, Counting, Sorting, Data-count pairing.</i><br>
-* [Solution at Linearithmic time. (v2)](/top-k-frequent-elements/TopKFrequentElementsS3.cpp) Concepts: <i>Hashing, Counting, Priority queues, Data-count pairing, TopK.</i><br>
-* [Solution at Linearithmic time. (v3)](/top-k-frequent-elements/TopKFrequentElementsS4.cpp) Concepts: <i>Hashing, Running counts, Balanced trees, Multiset, Data-count pairing.</i><br>
-* [Solution at Linear-ish time.](/top-k-frequent-elements/TopKFrequentElementsS5.cpp) Concepts: <i>Hashing, Counting, Quickselect, Data-count pairing.</i><br>
-* [Solution at Linear time. (v1)](/top-k-frequent-elements/TopKFrequentElementsS6.cpp) Concepts: <i>Hashing, Counting, Bucket sort.</i><br>
-* [Solution at Linear time. (v2)](/top-k-frequent-elements/TopKFrequentElementsS7.cpp) Concepts: <i>Hashing, Running counts, Bucket sort.</i><br>
+* Solution at Quadratic time. Concepts: <i>Hashing, Counting, Brute force.</i><br>
+* Solution at Linearithmic time. (v1) Concepts: <i>Hashing, Counting, Sorting, Data-count pairing.</i><br>
+* Solution at Linearithmic time. (v2) Concepts: <i>Hashing, Counting, Priority queues, Data-count pairing, TopK.</i><br>
+* Solution at Linearithmic time. (v3) Concepts: <i>Hashing, Running counts, Balanced trees, Multiset, Data-count pairing.</i><br>
+* Solution at Linear-ish time. Concepts: <i>Hashing, Counting, Quickselect, Data-count pairing.</i><br>
+* Solution at Linear time. (v1) Concepts: <i>Hashing, Counting, Bucket sort.</i><br>
+* Solution at Linear time. (v2) Concepts: <i>Hashing, Running counts, Bucket sort.</i><br>
 
 ---
 
