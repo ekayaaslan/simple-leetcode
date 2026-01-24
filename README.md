@@ -117,9 +117,6 @@ Part II. Basic concepts and solutions to select leetcode questions.
 [LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits, Integer bounds.</i><br>
 [LC0008.](https://leetcode.com/problems/string-to-integer-atoi) String to Integer. Concepts: <i>Finite state machine, Integer bounds, Digits.</i><br>
 [LC0009.](https://leetcode.com/problems/palindrome-number) Palindrome Number. Concepts: <i>Digits, Symmetry.</i><br>
-[LC0016.](https://leetcode.com/problems/3sum-closest) 3Sum Closest. Concepts: <i>Two Pointers, Binary Search, Reduction, Balanced trees.</i><br>
-[LC0017.](https://leetcode.com/problems/letter-combinations-of-a-phone-number) Letter Combinations of a Phone Number. Concepts: <i>Backtracking, Combinations.</i><br>
-[LC0044.](https://leetcode.com/problems/wildcard-matching) Wildcard Matching. Concepts: <i>1D Dynamic programming, State compression, Wildcards.</i><br>
 
 ```cpp
 // Build vector of digits, in reverse order.
@@ -138,6 +135,11 @@ for (int i=0; i<n/2; i++) {
 }
 return true;
 ```
+
+[LC0016.](https://leetcode.com/problems/3sum-closest) 3Sum Closest. Concepts: <i>Two Pointers, Binary Search, Reduction, Balanced trees.</i><br>
+[LC0017.](https://leetcode.com/problems/letter-combinations-of-a-phone-number) Letter Combinations of a Phone Number. Concepts: <i>Backtracking, Combinations.</i><br>
+[LC0021.](https://leetcode.com/problems/merge-two-sorted-lists) Merge Two Sorted Lists. Concepts: <i>Two pointer-pointers.</i><br>
+[LC0044.](https://leetcode.com/problems/wildcard-matching) Wildcard Matching. Concepts: <i>1D Dynamic programming, State compression, Wildcards.</i><br>
 
 ---
 
