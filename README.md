@@ -71,8 +71,6 @@ Part I. A comprehensive list of solutions to select leetcode problems.
 * Solution at Linear-ish time. (v2) Concepts: <i>Hashing, Index mapping, Math.</i><br>
 * Solution at Linear-ish time. (v3) Concepts: <i>Hashing, Symmetry, Index mapping.</i><br>
 
-LC0003. Longest Substring Without Repeating Characters
-
 [LC0004.](https://leetcode.com/problems/median-of-two-sorted-arrays) Median of Two Sorted Arrays. 
 * Solution at Linearithmic time. Concepts: <i>Sorting.</i><br>
 * Solution at Linearithmic time. Concepts: <i>Balanced trees.</i><br>
@@ -81,20 +79,20 @@ LC0003. Longest Substring Without Repeating Characters
 * Solution at Logsquare time. Concepts: <i>Binary serach, Search square.</i><br>
 * Solution at Logarithmic time. Concepts: <i>Binary search, Median of two arrays search.</i><br>
 
-LC0011. Container With Most Water
+[LC0011.](https://leetcode.com/problems/container-with-most-water/) Container With Most Water.
 
-LC0042. Trapping Rain Water
+[LC0042.](https://leetcode.com/problems/trapping-rain-water/) Trapping Rain Water.
 
-LC0084. Largest Rectangle in Histogram
+[LC0084.](https://leetcode.com/problems/largest-rectangle-in-histogram/) Largest Rectangle in Histogram
 
-LC0217. Contains Duplicate
+[LC0217.](https://leetcode.com/problems/contains-duplicate/) Contains Duplicate
 * Solution at Quadratic time. Concepts: <i>Brute force, Symmetry.</i><br>
 * Solution at Linearithmic-ish time. Concepts: <i>Divide and conquer, Recursive search, Hashing.</i><br>
 * Solution at Linearithmic time. Concepts: <i>Sorting, Linear search.</i><br>
 * Solution at Linearish time. (v1) Concepts: <i>Hashing, Counting.</i><br>
 * Solution at Linearish time. (v2) Concepts: <i>Hashing, Symmetry.</i><br>
 
-LC0347. Top K Frequent Elements
+[LC0347.](https://leetcode.com/problems/top-k-frequent-elements/) Top K Frequent Elements
 * Solution at Quadratic time. Concepts: <i>Hashing, Counting, Brute force.</i><br>
 * Solution at Linearithmic time. (v1) Concepts: <i>Hashing, Counting, Sorting, Data-count pairing.</i><br>
 * Solution at Linearithmic time. (v2) Concepts: <i>Hashing, Counting, Priority queues, Data-count pairing, TopK.</i><br>
@@ -108,6 +106,7 @@ LC0347. Top K Frequent Elements
 Part II. Solutions to select leetcode questions covering a comprehensive set of concepts.
 
 [LC0002.](https://leetcode.com/problems/add-two-numbers) Add Two Numbers. Concepts: <i>Recursion, Linked List</i><br>
+[LC0003.](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Longest Substring Without Repeating Characters. Concepts: <i>1D Dynamic programming, Running latest.</i><br>
 [LC0005.](https://leetcode.com/problems/longest-palindromic-substring/) Longest Palindromic Substring. Concepts: <i>Brute force, Running optimum, Palindrome center.</i><br>
 [LC0007.](https://leetcode.com/problems/reverse-integer) Reverse Integer. Concepts: <i>Digits, Integer bounds.</i><br>
 [LC0008.](https://leetcode.com/problems/string-to-integer-atoi) String to Integer. Concepts: <i>Finite state machine, Integer bounds, Digits.</i><br>
